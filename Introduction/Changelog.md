@@ -1,5 +1,5 @@
 # Hotfix 2.0.9.4 (October 1, 2024)
-* Revised the introductory text regarding player expe ctations in [[Session Zero]]
+* Revised the introductory text regarding player expe ctations in [[Нулевая сессия]]
 # Hotfix 2.0.9.3 (September 3, 2024)
 * Removed Kiril's ***weak grip*** feature and added a warning callout box regarding movement speed while grappled in [[Arc Q - A Shining Beacon]]
 # Hotfix 2.0.9.2 (September 2, 2024)
@@ -9,7 +9,7 @@
 # Version 2.0.9 (August 29, 2024)
 * Added [[Arc Q - A Shining Beacon]]
 *  Fixed assorted typos & inconsistencies
-* Revised [[History of Barovia]] to reflect that Strahd has not yet bitten Ireena and the siege of Barovia is ongoing at the beginning of [[Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]].
+* Revised [[История Баровии]] to reflect that Strahd has not yet bitten Ireena and the siege of Barovia is ongoing at the beginning of [[Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]].
 * Added a milestone XP chart in [[Adventure Summary]]
 * Added an additional warning regarding homebrewing or modifications/additions in [[Арка A - Побег из Дома Смерти]]
 * Addressed the possibility of players visiting the church early in [[Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]]
@@ -67,7 +67,7 @@
 * Added [[Arc P - Ravenloft Heist]]
 * Reworked [[Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]] such that the players now arrive immediately before the night day of Strahd's siege and the first night that Strahd visits Ireena.
 * Added additional artwork by artist [Caleb Cleveland](https://www.patreon.com/calebisdrawing/posts).
-* Added an additional line regarding creature alignments to the campaign contract in [[Session Zero]]
+* Added an additional line regarding creature alignments to the campaign contract in [[Нулевая сессия]]
 * Updated Strahd's goals in [[Strahd von Zarovich]] to note that Strahd requires a scapegoat sacrifice (i.e., Rahadin) to escape during the Grand Conjunction
 * Revised the flesh mound's second phase in [[Арка A - Побег из Дома Смерти]] to allow for an automatic critical hit against the mound when its ***innocent heart*** is damaged.
 * Replaced Madam Eva's invitation in [[Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]] with a request by Ismark Kolyanovich for the players to seek Eva's guidance on how to defeat Strahd
@@ -134,7 +134,7 @@
 [[Lore of Barovia]]
 * Removed reference to devil worship by Lady Wachter's cult
 
-[[History of Barovia]]
+[[История Баровии]]
 * Added additional backstory to Khazan, the Radanavich family, and Rudolph van Ricten's revenge against the Radanaviches.
 
 [[Strahd von Zarovich]]
@@ -276,9 +276,9 @@
 * Fixed assorted typos
 # Version 2.0.6 (Jan. 31, 2024)
 * Added [[Arc L - The Den of Wolves]] and [[Arc M - The Dragon's Manor]]
-* Added Campaign Contract in [[Session Zero]]
-* Added information regarding the Devourer and Strahd's intentions for Ireena to [[History of Barovia]]
-* Modified Izek's history such that he obtained the *amber shard* immediately prior to the **dire wolf** attack that took his arm in [[History of Barovia]]
+* Added Campaign Contract in [[Нулевая сессия]]
+* Added information regarding the Devourer and Strahd's intentions for Ireena to [[История Баровии]]
+* Modified Izek's history such that he obtained the *amber shard* immediately prior to the **dire wolf** attack that took his arm in [[История Баровии]]
 * Removed an excess skill proficiency from Ireena's sidekick statblock in [[Arc B - Welcome to Barovia]]
 * Added NPC profile for Morgantha in [[Arc C - Into the Valley]]
 * Added a justification for Father Petrovich's presence by the Blue Water Inn in [[Arc C - Into the Valley]]
@@ -340,7 +340,7 @@
 * Clarified that monsters do not award XP  
 * Clarified that RAW is inapplicable except where expressly incorporated  
 
-**[[History of Barovia]]**
+**[[История Баровии]]**
 * Added new lore regarding the Dreamer/Devourer  
 * Modified Van Richten's history to restore his curse and Arturi Radanavich's curse and remove his time spent traveling with Arturi  
 * Moved King Dostron's invasion to take place in Kavan's old age  

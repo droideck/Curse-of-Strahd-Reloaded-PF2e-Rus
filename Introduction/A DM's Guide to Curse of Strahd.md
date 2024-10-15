@@ -80,11 +80,11 @@ You can [[Using This Guide|click here]] to learn how to use and read this guide.
 > Want to download *Reloaded* as an Obsidian Vault for use, editing, and review on your local device? You can download all files using the [Github Repository](https://github.com/DragnaCarta/Curse-of-Strahd-Reloaded) .
 # Table of Contents
 ## Chapter 1 - Beginning the Campaign
-[[Session Zero]]. Setting expectations and clarifying player triggers.
-[[Character Creation]]. Developing character bonds, flaws, and motivations.
+[[Нулевая сессия]]. Setting expectations and clarifying player triggers.
+[[Создание персонажа]]. Developing character bonds, flaws, and motivations.
 ## Chapter 2 - The Land of Barovia
 [[Lore of Barovia]]. A compendium of the magic, geography, culture, factions, and religions of Barovia.
-[[History of Barovia]]. A narrative history of Barovia and the Von Zarovich family.
+[[История Баровии]]. A narrative history of Barovia and the Von Zarovich family.
 [[Strahd von Zarovich]]. A guide to Strahd's personality, relationships, goals, allies, and tactics.
 ## Chapter 3 - Running the Game
 [[Adventure Summary]]. Summaries of the campaign's six narrative acts.

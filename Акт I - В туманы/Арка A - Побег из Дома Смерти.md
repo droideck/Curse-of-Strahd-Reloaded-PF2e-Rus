@@ -1,4 +1,3 @@
-
 *Приключение для четырех персонажей 1-го уровня.*
 
 > [!tip]+ **Вкус ужаса**
@@ -750,531 +749,642 @@
 
 **_Веха_**. Спуск на уровень подземелья Дома Смерти завершает сюжетную веху. Когда партия выходит из секретной лестницы, наградите каждого игрока 1000 опыта, что фактически дает им 2-й уровень.
 
-## A2f. The Basement
-### Family Crypts
-<span class="citation"><em>This scene takes place in Appendix B: Area 23.</em></span>
+## A2f. Подвал
+### Семейные склепы
+<span class="citation"><em>Эта сцена происходит в Приложении B: Область 23.</em></span>
 
-These rooms are largely as described in **Family Crypts** (p. 217-18). 
-
-As the players approach the **Empty Crypt** and **Walter’s Crypt**, read:
-
-<div class="description">
-<p>This side-corridor branches again to the left and right. On either side, large standing stone slabs have been set aside to lean against the walls, opening the way to a pair of dark, quiet crypts. The slab to the right is etched with the name "Walter Durst"; the slab to the left is blank.</p>
+<div>
+<p>Несколько склепов были вырублены в земле. Каждый склеп запечатан каменной плитой, если не указано иное. Чтобы снять плиту с места, требуется успешная проверка @Check[athletics|dc:20|traits:action:force-open]{Атлетики КС 20}; использование лома снимает штраф как обычно.</p>
 </div>
 
-If the characters enter the **Empty Crypt**, read:
+Эти комнаты в основном описаны в **Семейных склепах** (стр. 217-18).
+
+Когда игроки приближаются к **Пустому склепу** и **Склепу Уолтера**, прочтите:
 
 <div class="description">
-<p>You peer past the leaning stone slab to see an empty earthen crypt.</p>
+<p>Этот боковой коридор снова разветвляется влево и вправо. По обе стороны большие каменные плиты были отодвинуты и прислонены к стенам, открывая путь к паре темных, тихих склепов. На плите справа выгравировано имя "Уолтер Дёрст"; плита слева пуста.</p>
 </div>
 
-If the characters enter **Walter’s Crypt**, read:
+Если персонажи входят в **Пустой склеп**, прочтите:
 
 <div class="description">
-<p>Swollen, bloody cysts cover the walls of this crypt like tumors. From time to time, they pulsate and burst, streams of pus oozing down to collect on the floor. Each time they do, you can hear an infant's quiet whimpers, which are swiftly quieted by the sound of distant humming.</p>
+<p>Вы заглядываете за наклоненную каменную плиту и видите пустой земляной склеп.</p>
 </div>
 
-Players who have previously read or heard the song recognize the melody of the humming as *Waltz for Klara.*
-
-As the players approach **Gustav’s Crypt** and **Elisabeth’s Crypt**, read:
+Если персонажи входят в **Склеп Уолтера**, прочтите:
 
 <div class="description">
-<p>This side corridor branches again to the left and right. Large standing stone slabs seal the entrance to the tunnels on either side, blocking the way forward. The slab to the left is etched with the name "Gustav Durst"; the slab to the right is etched with the name "Elisabeth Durst." The tunnel here is unnaturally quiet, and a thin mist clings to the floor.</p>
+<p>Стены этого склепа покрыты вздутыми, кровавыми кистами, похожими на опухоли. Время от времени они пульсируют и лопаются, струи гноя стекают вниз и собираются на полу. Каждый раз, когда это происходит, вы можете услышать тихий плач младенца, который быстро затихает под звук далекого напевания.</p>
 </div>
 
-If the characters enter **Gustav’s Crypt**, read:
+Игроки, которые ранее читали или слышали песню, узнают мелодию напевания как *Вальс для Клары*.
+
+Когда игроки приближаются к **Склепу Густава** и **Склепу Элизабет**, прочтите:
 
 <div class="description">
-<p>The crypt beyond the slab contains a stone coffin lying atop a dusty stone bier. Silence hangs heavy over the lonely chamber.</p>
+<p>Этот боковой коридор снова разветвляется влево и вправо. Большие каменные плиты запечатывают вход в туннели по обе стороны, блокируя путь вперед. На плите слева выгравировано имя "Густав Дёрст"; на плите справа выгравировано имя "Элизабет Дёрст". Туннель здесь неестественно тих, и тонкий туман стелется по полу.</p>
 </div>
 
-If the characters enter **Elisabeth’s Crypt**, read:
+Если персонажи входят в **Склеп Густава**, прочтите:
 
 <div class="description">
-<p>A thick, acrid miasma hangs over the interior of this crypt, which holds a stone-carved coffin resting atop a stone bier. The floor before it is littered with the bodies of hundreds of dead termites. Many cling to the elongated, bloated body of a dead termite queen, while others appear to have died atop the scarred, mutilated bodies of four larger beetles not far away.</p>
+<p>Склеп за плитой содержит каменный гроб, лежащий на пыльном каменном постаменте. Тишина тяжело висит над одинокой камерой.</p>
 </div>
 
-As the players approach **Rose’s Crypt** and **Thorn’s Crypt**, read:
+<div>
+<p>Каменная плита выгравирована именем Густав Дёрст. Камера за ней содержит пустой гроб на каменном постаменте.</p>
+</div>
+
+Если персонажи входят в **Склеп Элизабет**, им придется сразиться с [Роем сороконожек](https://2e.aonprd.com/Monsters.aspx?ID=2876), но сначала прочтите:
 
 <div class="description">
-<p>This side-corridor branches again to the left and right. Large standing stone slabs seal the entrance to the tunnels on either side, blocking the way forward. The slab to the left is etched with the name "Rosavalda Durst"; the slab to the right is etched with the name "Thornboldt Durst." Each slab exudes the silence of a forgotten grave.</p>
+<p>Густая, едкая миазма висит над внутренней частью этого склепа, в котором находится каменный гроб, покоящийся на каменном постаменте. Пол перед ним усеян телами сотен мертвых термитов. Многие цепляются за удлиненное, раздутое тело мертвой королевы термитов, в то время как другие, кажется, умерли на изуродованных, изувеченных телах четырех более крупных жуков неподалеку.</p>
 </div>
 
-If the characters enter either crypt, read:
+<div>
+<p>Каменная плита выгравирована именем Элизабет Дёрст. Склеп содержит каменный постамент с пустым гробом на нем. @Actor[YTZhMGJlNDM3YzZm]{Рой сороконожек} вырывается из задней стены и атакует, если гроб потревожен.</p>
+</div>
+
+Когда игроки приближаются к **Склепу Розы** и **Склепу Шипа**, прочтите:
 
 <div class="description">
-<p>This small chamber contains a stone coffin resting on a stone bier. The air in this crypt hangs heavy with sorrow.</p>
+<p>Этот боковой коридор снова разветвляется влево и вправо. Большие каменные плиты запечатывают вход в туннели по обе стороны, блокируя путь вперед. На плите слева выгравировано имя "Розавальда Дёрст"; на плите справа выгравировано имя "Шипболдт Дёрст". Каждая плита источает тишину забытой могилы.</p>
 </div>
 
-The players cannot help Rose or Thorn’s ghosts find peace by placing their remains in their coffins. Neither [[Non-Player Characters#Rosavalda "Rose" Durst|Rose]] nor [[Non-Player Characters#Thornboldt "Thorn" Durst|Thorn]] finds these crypts comforting. Both prefer to leave as quickly as possible.
-### Cult Initiates’ Quarters
-<span class="citation"><em>This scene takes place in Appendix B: Area 24.</em></span>
-
-This room is largely as described in <span class="citation">Cult Initiates’ Quarters (p. 218)</span>. 
-
-As the characters move to descend to the <span class="citation">Well and Cultist Quarters (p. 218)</span>, a sudden splashing sound can be heard—which then quickly subsides.
-### Well and Cultist Quarters
-<span class="citation"><em>This scene takes place in Appendix B: Area 25.</em></span>
-
-This room is largely as described in <span class="citation">Well and Cultist Quarters (p. 218)</span>. When the players enter this room, read:
+Если персонажи входят в любой из склепов, прочтите:
 
 <div class="description">
-<p>The ceiling of this dark, earthen chamber rises a foot higher than the cramped tunnel. It's supported by thick wooden posts and cross beams that have rotted with age and bear deep holes indicative of hungry insects.</p>
-<p>Here, a lonely well stands at the center of the room, surrounded on three sides by several smaller, alcove-like chambers that have been carved into the walls. Old footprints criss-cross the floor, leading into the alcoves, around the well, up a staircase on the other end of the room, and back upstairs the way you came.</p>
-<p>An old hempen rope attached to a rusted pulley descends past the mouth of the well, swaying gently in the stagnant air as if just abandoned by an unseen occupant.</p>
+<p>Эта небольшая камера содержит каменный гроб, покоящийся на каменном постаменте. Воздух в этом склепе тяжел от скорби.</p>
 </div>
 
-The well comprises a 4-foot-diameter well shaft with a 3-foot-high stone lip, and descends 30 feet to a water-filled cistern. A wooden bucket hangs from a rope-and-pulley mechanism bolted to the cross beams above the well. The interior of the shaft is covered with an ash-black species of fungi.
+<div>
+<p>Каменная плита выгравирована именем Розавальда Дёрст. Камера за ней содержит пустой гроб на каменном постаменте.</p>
+<p>Если останки Розы (см. @JournalEntry[MGFjNmUzYzExN2M0]{область 20}) помещены в гроб, призрак ребенка обретает покой и исчезает навсегда. Персонаж, одержимый призраком Розы, когда это происходит, больше не одержим (см. также раздел "Развитие" в @JournalEntry[MGFjNmUzYzExN2M0]{области 20}).</p>
+</div>
 
-If the players toss an object down the well and then turn away, they hear loud splashing and tearing sounds coming from below. When they turn back, the object has been torn to pieces, with large parts missing.
+<div>
+<p>Каменная плита выгравирована именем Шипболдт Дёрст. Камера за ней содержит пустой гроб на каменном постаменте.</p>
+<p>Если останки Шипа (см. @JournalEntry[MGFjNmUzYzExN2M0]{область 20}) помещены в гроб, призрак ребенка обретает покой и исчезает навсегда. Персонаж, одержимый призраком Шипа, когда это происходит, больше не одержим (см. также раздел "Развитие" в @JournalEntry[MGFjNmUzYzExN2M0]{области 20}).</p>
+</div>
 
-Replace the silvered shortsword in footlocker **25E** with a book bound in grimy black leather. This journal, which is signed by Drasha, contains a list of names and physical descriptions associated with each name. Each entry includes gruesome details describing the victim’s sacrifice, such as “struggled profusely” or “no sedative given,”<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup> and ends with the phrase, "Fed to Walter."
-### Hidden Spiked Pit
-<span class="citation"><em>This scene takes place in Appendix B: Area 26.</em></span>
+Игроки не могут помочь призракам Розы или Шипа обрести покой, поместив их останки в их гробы. Ни [[Неигровые персонажи#Розавальда "Роза" Дёрст|Роза]], ни [[Неигровые персонажи#Шипболдт "Шип" Дёрст|Шип]] не находят эти склепы утешительными. Оба предпочитают уйти как можно быстрее.
 
-This room is largely as described in <span class="citation">Hidden Spiked Pit (p. 218)</span>. You can use **Spiked Pit** from **Pathfinder Society Intro #2: United in Purpose** which is available in Foundry VTT, but you need to fix the depth (10 feet) and size (5 feet) and set 2d12 piersing damage. 
-If the characters enter this area from [[#Well and Cultist Quarters]], read:
+### Комнаты посвященных культа
+<span class="citation"><em>Эта сцена происходит в Приложении B: Область 24.</em></span>
+
+<div>
+<p>Деревянный стол и четыре стула стоят в восточном конце этой комнаты. На западе находятся четыре ниши, содержащие заплесневелые соломенные подстилки.</p>
+</div>
+
+Эта комната в основном описана в <span class="citation">Комнатах посвященных культа (стр. 218)</span>. 
+
+Когда персонажи собираются спуститься к <span class="citation">Колодцу и комнатам культистов (стр. 218)</span>, внезапно слышится звук плеска, который быстро затихает.
+
+### Колодец и комнаты культистов
+<span class="citation"><em>Эта сцена происходит в Приложении B: Область 25.</em></span>
+
+<div>
+<p>Шахта колодца диаметром 4 фута с каменным бортиком высотой 3 фута спускается на 30 футов к наполненной водой цистерне. Деревянное ведро висит на веревочно-блочном механизме, прикрепленном к поперечным балкам над колодцем.</p>
+<p>Пять боковых комнат когда-то служили жилыми помещениями для старших культистов. Каждая содержит деревянную кровать с заплесневелым соломенным матрасом и деревянный сундук для хранения личных вещей. Каждый сундук закрыт ржавым железным замком, который можно вскрыть воровскими инструментами и двумя успешными проверками @Check[thievery|dc:15|traits:action:pick-a-lock]{Воровства КС 15}.</p>
+</div>
+
+Эта комната в основном описана в <span class="citation">Колодце и комнатах культистов (стр. 218)</span>. Когда игроки входят в эту комнату, прочтите:
 
 <div class="description">
-<p>The staircase leads to a quiet landing. To the front, the stairs continue upward and vanish around a bend. To the right, the landing continues straight into a lonely corridor. This tunnel hallway seems surprisingly clean and bereft of debris; at its far end, another earthen staircase descends into darkness.</p>
-<p>The incessant chanting that has filled the air of this underground complex grows stronger toward the far end of this corridor. Its source seems to lie beyond the descending stairs.</p>
+<p>Потолок этой темной земляной камеры поднимается на фут выше, чем в тесном туннеле. Он поддерживается толстыми деревянными столбами и поперечными балками, которые сгнили от времени и несут глубокие отверстия, свидетельствующие о голодных насекомых.</p>
+<p>Здесь одинокий колодец стоит в центре комнаты, окруженный с трех сторон несколькими меньшими, похожими на ниши камерами, которые были вырезаны в стенах. Старые следы ног пересекают пол, ведя в ниши, вокруг колодца, вверх по лестнице на другом конце комнаты и обратно наверх тем путем, которым вы пришли.</p>
+<p>Старая пеньковая веревка, прикрепленная к ржавому блоку, спускается за край колодца, слегка покачиваясь в застоявшемся воздухе, как будто только что оставленная невидимым обитателем.</p>
 </div>
 
-If the characters enter this area from [[#Dining Hall]], read:
+Колодец представляет собой шахту диаметром 4 фута с каменным бортиком высотой 3 фута и спускается на 30 футов к наполненной водой цистерне. Деревянное ведро висит на веревочно-блочном механизме, прикрепленном к поперечным балкам над колодцем. Внутренняя поверхность шахты покрыта пепельно-черным видом грибов.
+
+Если игроки бросают предмет в колодец, а затем отворачиваются, они слышат громкие всплески и звуки разрывания, доносящиеся снизу. Когда они оборачиваются, предмет оказывается разорванным на куски, с отсутствующими крупными частями.
+
+Замените посеребренный короткий меч в сундуке **25E** на книгу, переплетенную в грязную черную кожу. Этот дневник, подписанный Драшей, содержит список имен и физических описаний, связанных с каждым именем. Каждая запись включает жуткие подробности, описывающие жертвоприношение жертвы, такие как "сильно сопротивлялся" или "седативное средство не давалось",<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup> и заканчивается фразой "Скормлен Уолтеру."
+
+<div>
+<h4>Сокровища</h4>
+<p>Помимо некоторых бесполезных личных вещей, каждый сундук содержит один или несколько ценных предметов.</p>
+<p><strong>25A.</strong> Сундук в этой комнате содержит 11 зм и 60 см в кошельке, сделанном из человеческой кожи.</p>
+<p><strong>25B.</strong> Сундук в этой комнате содержит три моховых агата (стоимостью 10 зм каждый) в сложенном куске черной ткани.</p>
+<p><strong>25C.</strong> Сундук в этой комнате содержит черную кожаную повязку на глаз с вшитым в нее сердоликом (стоимостью 50 зм).</p>
+<p><strong>25D.</strong> Сундук в этой комнате содержит костяную щетку для волос с серебряной щетиной (стоимостью 25 зм).</p>
+</div>
+
+### Скрытая яма с шипами
+<span class="citation"><em>Эта сцена происходит в Приложении B: Область 26.</em></span>
+
+<div>
+<p>Призрачное пение, слышимое по всему подземелью, становится заметно громче по мере продвижения на запад по этому туннелю. Успешная проверка @Check[perception|dc:15]{Восприятия КС 15} выявляет отсутствие следов ног. Персонажи, ищущие ловушки на полу, находят яму длиной 5 футов и глубиной 10 футов, скрытую под несколькими гнилыми деревянными досками, все это спрятано под тонким слоем грязи. На дне ямы находятся заостренные деревянные колья. Первый персонаж, наступивший на крышку, проваливается, падая ничком и получая @Damage[1d6]{3 дробящего урона} от падения плюс @Damage[2d10]{11 колющего урона} от шипов.</p>
+</div>
+
+Эта комната в основном описана в <span class="citation">Скрытой яме с шипами (стр. 218)</span>. Вы можете использовать **Яму с шипами** из **Pathfinder Society Intro #2: United in Purpose**, которая доступна в Foundry VTT, но вам нужно исправить глубину (10 футов) и размер (5 футов) и установить @Damage[2d12]{2d12 колющего урона}. 
+
+Если персонажи входят в эту область из [[#Колодец и комнаты культистов]], прочтите:
 
 <div class="description">
-<p>The staircase descends to a quiet landing. To the front, the stairs continue to descend, opening into a broader chamber. To the left, the landing continues straight into a lonely corridor. This tunnel hallway seems surprisingly clean and bereft of debris; at its far end, another earthen staircase descends into darkness.</p>
-<p>The incessant chanting that has filled the air of this underground complex grows stronger toward the far end of this corridor.</p>
+<p>Лестница ведет к тихой площадке. Впереди лестница продолжается вверх и исчезает за поворотом. Справа площадка продолжается прямо в одинокий коридор. Этот туннельный коридор кажется удивительно чистым и лишенным мусора; в его дальнем конце еще одна земляная лестница спускается во тьму.</p>
+<p>Непрекращающееся пение, наполнявшее воздух этого подземного комплекса, становится сильнее к дальнему концу этого коридора. Его источник, кажется, находится за спускающейся лестницей.</p>
 </div>
 
-If the characters enter this area from [[#Ghoulish Encounter]], read:
+Если персонажи входят в эту область из [[#Обеденный зал]], прочтите:
 
 <div class="description">
-<p>The staircase descends to a quiet landing. To the left, the stairs continue to descend, rounding a bend before vanishing into darkness. The incessant chanting that has filled the air of this underground complex appears to be echoing from below.</p>
-<p>To the right, the landing continues straight into a lonely corridor. This tunnel hallway seems surprisingly clean and bereft of debris; at its far end, the corridor branches left and right.</p>
+<p>Лестница спускается к тихой площадке. Впереди лестница продолжает спускаться, открываясь в более широкую камеру. Слева площадка продолжается прямо в одинокий коридор. Этот туннельный коридор кажется удивительно чистым и лишенным мусора; в его дальнем конце еще одна земляная лестница спускается во тьму.</p>
+<p>Непрекращающееся пение, наполнявшее воздух этого подземного комплекса, становится сильнее к дальнему концу этого коридора.</p>
 </div>
 
-### Dining Hall
-<span class="citation"><em>This scene takes place in Appendix B: Area 27.</em></span>
-
-This room is largely as described in <span class="citation">Dining Hall (p. 218)</span>. When the players enter this room, read: 
+Если персонажи входят в эту область из [[#Встреча с упырями]], прочтите:
 
 <div class="description">
-<p>This room contains a plain wooden table flanked by long benches. Moldy humanoid bones lie strewn on the dirt floor.  A thick stench of rot and gore fills the chamber, so coppery with blood that you can taste it on your tongue.</p>
-<p>A few dozen moldy bones have been piled into a grotesque and misshapen pyramid in a dark alcove to the south.</p>
+<p>Лестница спускается к тихой площадке. Слева лестница продолжает спускаться, огибая поворот, прежде чем исчезнуть во тьме. Непрекращающееся пение, наполнявшее воздух этого подземного комплекса, кажется, эхом доносится снизу.</p>
+<p>Справа площадка продолжается прямо в одинокий коридор. Этот туннельный коридор кажется удивительно чистым и лишенным мусора; в его дальнем конце коридор разветвляется влево и вправо.</p>
 </div>
 
-### Larder
-<span class="citation"><em>This scene takes place in Appendix B: Area 28.</em></span>
+### Обеденный зал
+<span class="citation"><em>Эта сцена происходит в Приложении B: Область 27.</em></span>
 
-This area is largely as described in <span class="citation">Larder (p. 218)</span>. 
+<div>
+<p>Эта комната содержит простой деревянный стол, окруженный длинными скамьями. Заплесневелые человеческие кости разбросаны по земляному полу - остатки мерзких пиршеств культа.</p>
+<p>В середине южной стены находится затемненная ниша (область 28). Персонажи, которые приближаются на расстояние 5 футов от ниши, провоцируют существо, которое там притаилось.</p>
+</div>
 
-The **[Grick](https://2e.aonprd.com/Monsters.aspx?ID=2182)** in this alcove—the warped remains of Gustav Durst’s flayed corpse—is coiled on the ceiling, and drops onto its victim when they enter. It uses Stealth for initiative and attacks when some one approaches. A player who does Search and passes DC 20 Perception check determines its presence before entering. 
-
-If the players disturb the grick, read:
+Эта комната в основном описана в <span class="citation">Обеденном зале (стр. 218)</span>. Когда игроки входят в эту комнату, прочтите: 
 
 <div class="description">
-<p>A horrific creature drops from the ceiling—a long, flesh-like worm the breadth and length of a human man, its trunk resembling a humanoid body with its arms sewn to its torso and both legs sewn together. Its flayed muscles split open to reveal a flapping, gaping maw ringed by hundreds of tiny, humanlike teeth and a gnashing, bony beak. </p>
-<p>It lets out a high-pitched, gurgling squeal as it hurls itself forward, writhing, tendon-like tentacles lashing toward your face.</p>
+<p>Эта комната содержит простой деревянный стол, окруженный длинными скамьями. Заплесневелые человеческие кости разбросаны по земляному полу. Густой запах гнили и крови наполняет камеру, настолько медный от крови, что вы можете почувствовать его вкус на языке.</p>
+<p>Несколько десятков заплесневелых костей сложены в гротескную и бесформенную пирамиду в темной нише на юге.</p>
 </div>
 
-> [!combat]- **Balancing the Grick**
-> This combat encounter is a **Low** encounter against a party of four 2nd-level players. For parties of smaller or larger sizes, modify the encounter as follows:
+### Кладовая
+<span class="citation"><em>Эта сцена происходит в Приложении B: Область 28.</em></span>
+
+<div>
+<p>Эта ниша содержит <strong>@Actor[NTcxYzA2YjE2MGIz]{грика}</strong>, который выползает, чтобы атаковать первого персонажа, которого он увидит в пределах 5 футов от себя. Любой персонаж с пассивным значением Мудрости (Восприятие) ниже 12 удивлен им. Ниша в остальном пуста.</p>
+</div>
+
+Эта область в основном описана в <span class="citation">Кладовой (стр. 218)</span>. 
+
+**[Грик](https://2e.aonprd.com/Monsters.aspx?ID=2182)** в этой нише - искаженные останки освежеванного трупа Густава Дёрста - свернулся на потолке и падает на свою жертву, когда она входит. Он использует Скрытность для инициативы и атакует, когда кто-то приближается. Игрок, который выполняет Поиск и проходит проверку @Check[perception|dc:20|traits:action:search]{Восприятия КС 20}, определяет его присутствие перед входом. 
+
+Если игроки потревожат грика, прочтите:
+
+<div class="description">
+<p>Ужасное существо падает с потолка - длинный, похожий на плоть червь шириной и длиной с человека, его туловище напоминает человеческое тело с руками, пришитыми к торсу, и обеими ногами, сшитыми вместе. Его освежеванные мышцы раскрываются, обнажая хлопающую, зияющую пасть, окруженную сотнями крошечных человекоподобных зубов и грызущим костяным клювом. </p>
+<p>Оно издает высокий, булькающий визг, бросаясь вперед, извиваясь, сухожилиеподобные щупальца хлещут к вашему лицу.</p>
+</div>
+
+> [!combat]- **Балансировка грика**
+> Эта боевая встреча является **Низкой** для группы из четырех игроков 2-го уровня. Для групп меньшего или большего размера измените встречу следующим образом:
 > 
-> * ***Three Players.*** Apply Weak template.
-> * ***Five Players.*** Leave as it is.
-> * ***Six Players.*** Apply Elite template.
-### Ghoulish Encounter
-<span class="citation"><em>This scene takes place in Appendix B: Area 29.</em></span>
+> * ***Три игрока.*** Примените шаблон Слабый.
+> * ***Пять игроков.*** Оставьте как есть.
+> * ***Шесть игроков.*** Примените шаблон Элитный.
 
-This area is largely as described in <span class="citation">Ghoulish Encounter (p. 218)</span>. When the players first approach this area, read: 
+### Встреча с упырями
+<span class="citation"><em>Эта сцена происходит в Приложении B: Область 29.</em></span>
 
-<div class="description">
-<p>A deathly stench emanates from this corridor. The stone walls bear cracked, red stains, and a trail of old bones leads deeper down the tunnel.</p>
-
+<div>
+<p>Призрачное пение, слышимое по всему подземелью, заметно громче на севере. Когда один или несколько персонажей достигают середины четырехстороннего туннельного перекрестка, четыре <strong>@Actor[ZjEwNjY5MTM3YjE2]{упыря}</strong> (бывшие культисты) поднимаются из-под земли и атакуют. Упыри сражаются до уничтожения.</p>
 </div>
 
-When a player first enters one of the 5-foot squares at the entrance of the corridors (marked T on the map), three **[Ghoul Stalkers](https://2e.aonprd.com/Monsters.aspx?ID=3009)** rise up out of the ground in the spaces marked S and attack.
+Эта область в основном описана в <span class="citation">Встрече с упырями (стр. 218)</span>. Когда игроки впервые приближаются к этой области, прочтите: 
+
+<div class="description">
+<p>Смертельный запах исходит из этого коридора. Каменные стены несут на себе потрескавшиеся красные пятна, а след старых костей ведет глубже в туннель.</p>
+</div>
+
+Когда игрок впервые входит в одну из 5-футовых клеток у входа в коридоры (отмеченных T на карте), три **[Упыря-преследователя](https://2e.aonprd.com/Monsters.aspx?ID=3009)** поднимаются из-под земли в пространствах, отмеченных S, и атакуют.
 
 ![[Ghoulish Encounter Map.png]]
 
-> [!combat]- **Balancing the Ghouls**
-> Due to the choke point and spiked pits, this is **Spicy Moderate (90 XP)** encounter against a party of four 2nd-level players. For parties of smaller or larger sizes, modify the encounter(s) as follows:
+> [!combat]- **Балансировка упырей**
+> Из-за узкого прохода и ям с шипами это **Острая умеренная (90 ОО)** встреча против группы из четырех игроков 2-го уровня. Для групп меньшего или большего размера измените встречу(и) следующим образом:
 > 
-> * ***Three Players.*** Decrease the number of ghouls to two.
-> * ***Five Players.*** Increase the number of ghouls to four.
-> * ***Six Players.*** Increase the number of ghouls to five.
+> * ***Три игрока.*** Уменьшите количество упырей до двух.
+> * ***Пять игроков.*** Увеличьте количество упырей до четырех.
+> * ***Шесть игроков.*** Увеличьте количество упырей до пяти.
 
-As the ghouls attack, they use Ghoul Whispers action as they mindlessly repeat any or all of the following phrases:
+Когда упыри атакуют, они используют действие Шепот упыря, бессмысленно повторяя любую или все из следующих фраз:
 
-* “Beautiful. We’re so beautiful.”
-* “We are perfect. We are immortal.”
-* “Help us live forever.”
+* "Прекрасны. Мы так прекрасны."
+* "Мы совершенны. Мы бессмертны."
+* "Помогите нам жить вечно."
 
-If the players continue down the corridor, read:
-
-<div class="description">
-<p>The trail ends at the center of a quiet intersection. The incessant chanting you've heard since first entering the dungeon is noticeably louder down the northern branch of the intersection.</p>
-</div>
-
-### Stairs Down
-<span class="citation"><em>This scene takes place in Appendix B: Area 30.</em></span>
-
-This room is largely as described in <span class="citation">Stairs Down (p. 218)</span>. When the players approach this area, read:
+Если игроки продолжают идти по коридору, прочтите:
 
 <div class="description">
-<p>A dark set of chiseled stone steps descends into darkness. It's clear that the origin of the muffled chanting you've been hearing lies below.</p>
+<p>След заканчивается в центре тихого перекрестка. Непрекращающееся пение, которое вы слышали с момента входа в подземелье, заметно громче в северной ветви перекрестка.</p>
 </div>
 
-### Darklord’s Shrine
-<span class="citation"><em>This scene takes place in Appendix B: Area 31.</em></span>
 
-This room is largely as described in <span class="citation">Darklord’s Shrine (p. 218)</span>. However, remove the **[Mimic](https://2e.aonprd.com/Monsters.aspx?ID=300)** from this area. In addition, when the players enter this room, read:
+### Лестница вниз
+<span class="citation"><em>Эта сцена происходит в Приложении B: Область 30.</em></span>
+
+Эта комната в основном описана в <span class="citation">Лестница вниз (стр. 218)</span>. Когда игроки приближаются к этой области, прочтите:
 
 <div class="description">
-<p>This room is festooned with moldy skeletons that hang from rusty shackles against the walls, their mouths hanging open in silent screams. </p>
-<p>A wide alcove in the south wall contains a painted wooden statue carved in the likeness of a gaunt, pale-faced man wearing a voluminous black cloak, his pale left hand resting on the head of a wolf that stands beside him. The statue's right hand holds a smoky-gray crystal orb, and its painted gaze stares down toward you, a cold and cruel glint to its eye.</p>
-<p>Five ashen shadows are burned into the walls, with soot marks stretching across the floor toward the statue.</p>
-<p>The room has exits to the west and north. Chanting can be heard coming from the west.</p>
+<p>Темный ряд высеченных в камне ступеней спускается во тьму. Ясно, что источник приглушенного пения, которое вы слышали, находится внизу.</p>
 </div>
 
-A player that approaches the orb can hear many voices whispering the following phrases:
+<div>
+<p>Любому персонажу, стоящему наверху этой 20-футовой лестницы, очевидно, что призрачные песнопения исходят откуда-то снизу. Персонажи, спускающиеся по лестнице и следующие по коридору дальше, попадают в область 35.</p>
+</div>
 
-* “His gaze burns upon us.”
-* “The Darklord’s eyes are always watching.”
+### Святилище Темного Властелина
+<span class="citation"><em>Эта сцена происходит в Приложении B: Область 31.</em></span>
 
-Additionally, that player’s shadow begins to writhe and twist, its edges growing tattered and blurred as it lashes erratically across the floor. A player who touches the orb feels as though a “dark, ancient evil” has suddenly turned its eye upon them. 
+Эта комната в основном описана в <span class="citation">Святилище Темного Властелина (стр. 218)</span>. Однако уберите **[Мимика](https://2e.aonprd.com/Monsters.aspx?ID=300)** из этой области. Кроме того, когда игроки входят в эту комнату, прочтите:
 
-If the orb is removed from its position, the ashen **[Shadows scaled down to Level 1](https://2e.aonprd.com/Monsters.aspx?ID=3186)** upon the walls begin to stir. Each round, up to two of the shadows “awaken,” swooping across the walls. As they awaken, they murmur and moan the following phrases:
+<div class="description">
+<p>Эта комната украшена заплесневелыми скелетами, висящими на ржавых кандалах вдоль стен, их рты открыты в беззвучном крике.</p>
+<p>Широкая ниша в южной стене содержит раскрашенную деревянную статую, вырезанную в виде худого бледнолицего мужчины в объемном черном плаще, его бледная левая рука покоится на голове волка, стоящего рядом с ним. Правая рука статуи держит дымчато-серый кристальный шар, а ее нарисованный взгляд устремлен вниз на вас, с холодным и жестоким блеском в глазах.</p>
+<p>Пять пепельных теней выжжены на стенах, с сажевыми следами, тянущимися по полу к статуе.</p>
+<p>В комнате есть выходы на запад и север. С запада слышно пение.</p>
+</div>
 
-* “Begone from this place!”
-* “Look not upon us.”
-* “Return the Darklord’s offering!”
+<div>
+<p>Статуя изображает @Actor[ZTZiYzA5N2ViNTZi]{Страда}, которому культисты приносили жертвы в тщетной надежде, что он может раскрыть им свои самые темные секреты. Если персонажи прикоснутся к статуе или возьмут кристальный шар из руки Страда, вокруг статуи формируются пять <strong>@Actor[ZWZkNWI3YTE5NmE4]{теней}</strong> и атакуют их. Тени (духи бывших культистов) преследуют тех, кто убегает за пределы комнаты.</p>
+<p>Скелеты на стене - безвредный декор.</p>
+</div>
 
-Once all shadows have awoken, they attack, with each shadow preferring to target a different player. If the orb is returned to its place on the statue, the shadows return to their original positions and become dormant once more.
+Игрок, приближающийся к шару, может слышать множество голосов, шепчущих следующие фразы:
 
-The shadows gain the following additional feature:
+* "Его взгляд горит на нас."
+* "Глаза Темного Властелина всегда наблюдают."
 
-***Light Vulnerability.*** Attacks against the shadow are treated as [magical](https://2e.aonprd.com/Traits.aspx?ID=644) if made by a creature who is in magical light or with an object that is in magical light (such as from the [_light_](https://2e.aonprd.com/Spells.aspx?ID=1585) spell).
+Кроме того, тень этого игрока начинает извиваться и искажаться, ее края становятся рваными и размытыми, когда она беспорядочно мечется по полу. Игрок, прикоснувшийся к шару, чувствует, будто "темное, древнее зло" внезапно обратило на него свой взор.
 
-> [!combat]- **Balancing the Shadows**
-> This combat encounter is a **Extreme** encounter against a party of 2nd-level players. For parties of smaller or larger sizes, modify the encounter as follows:
+Если шар убрать с его места, четыре пепельные **[Тени, масштабированные до 2-го уровня](https://2e.aonprd.com/Monsters.aspx?ID=3186)** на стенах начинают шевелиться. Каждый раунд одна тень "пробуждается", проносясь по стенам. Пробуждаясь, они бормочут и стонут следующие фразы:
+
+* "Уходите из этого места!"
+* "Не смотрите на нас."
+* "Верните подношение Темного Властелина!"
+
+Как только все тени пробудились, они атакуют, причем каждая тень предпочитает атаковать разных игроков. Если шар вернуть на место на статуе, тени возвращаются в свои исходные позиции и снова становятся неподвижными.
+
+Альтернативно, вы можете сделать так, чтобы кристальный шар функционировал как жезл заклинания 1-го уровня. [Приказ](https://2e.aonprd.com/Spells.aspx?ID=1470) - хороший кандидат.
+
+Тени получают следующую дополнительную особенность:
+
+***Уязвимость к свету.*** Атаки против тени считаются [магическими](https://2e.aonprd.com/Traits.aspx?ID=644), если они совершены существом, находящимся в магическом свете, или предметом, находящимся в магическом свете (например, от заклинания [_свет_](https://2e.aonprd.com/Spells.aspx?ID=1585)).
+
+> [!combat]- **Балансировка Теней**
+> Эта боевая встреча является **Экстремальной** для группы игроков 2-го уровня. Для групп меньшего или большего размера измените встречу следующим образом:
 > 
-> * ***Three Players.*** Reduce the number of shadows to four.
-> * ***Five Players.*** Increase the number of shadows to six.
-> * ***Six Players.*** Increase the number of shadows to seven.
-### Hidden Trapdoor
-<span class="citation"><em>This scene takes place in Appendix B: Area 32.</em></span>
+> * ***Три игрока.*** Уменьшите количество теней до трех.
+> * ***Пять игроков.*** Увеличьте количество теней до пяти.
+> * ***Шесть игроков.*** Увеличьте количество теней до шести.
 
-This room is largely as described in <span class="citation">Hidden Trapdoor (p. 219)</span>. When the players find and enter this area, read:
-
-<div class="description">
-<p>The clay staircase ends at a cramped landing. Six feet above the ground, a half-rotted ceiling of close-fitting planks holds a closed wooden trapdoor leading to an upper floor. The trapdoor is bolted shut from this side.</p>
+<div>
+<h4>Скрытая дверь</h4>
+<p>Персонажи, ищущие в комнате секретные двери, находят скрытую дверь в середине восточной стены при успешной проверке Восприятия @Check[perception|dc:14|traits:action:search,secret]. По сути, это обычная (хотя и прогнившая) деревянная дверь, скрытая под слоем глины. Дверь открывается, открывая каменную лестницу, поднимающуюся на 10 футов до площадки (область 32).</p>
+<h4>Сокровище</h4>
+<p>Кристальный шар стоит 25 зм. Его можно использовать как магический фокус, но он не является магическим.</p>
 </div>
 
-### Cult Leader’s Den
-<span class="citation"><em>This scene takes place in Appendix B: Area 33.</em></span>
+### Скрытый люк
+<span class="citation"><em>Эта сцена происходит в Приложении B: Область 32.</em></span>
 
-This room is largely as described in <span class="citation">Cult Leaders’ Den (p. 219)</span>. However, remove the **[Mimic](https://2e.aonprd.com/Monsters.aspx?ID=300)** from this area. In addition, when the players enter this room, read:
-
-<div class="description">
-<p>This quiet room contains a wooden table flanked by two high-backed chairs and holding a clay jug and two flagons. Above the table is suspended an unlit cast-iron chandelier. Iron candlesticks stand in two corners of the chamber, their candles long since melted away. A short corridor at the north end of the room leads to a darkened chamber beyond.</p>
-</div>
-
-### Cult Leader’s Quarters
-<span class="citation"><em>This scene takes place in Appendix B: Area 34.</em></span>
-
-This room is largely as described in <span class="citation">Cult Leaders’ Quarters (p. 219)</span>. When the players enter this room, read:
+Эта комната в основном описана в <span class="citation">Скрытый люк (стр. 219)</span>. Когда игроки находят и входят в эту область, прочтите:
 
 <div class="description">
-<p>This room contains a large wood-framed bed, the feather mattress rotted by years of disuse. An old wooden wardrobe carved with demonic faces stands against the wall to the left, and a faded wooden footlocker stands quietly at the foot of the bed.</p>
-<p>The room is suffused with a familiar stench of death—but far stronger, mixing with a noxious scent that fills your lungs with every breath.</p>
+<p>Глиняная лестница заканчивается на тесной площадке. В шести футах над землей полусгнивший потолок из плотно пригнанных досок содержит закрытый деревянный люк, ведущий на верхний этаж. Люк заперт на засов с этой стороны.</p>
 </div>
 
-The wardrobe contains several old robes, a pair of iron candlesticks, and an open crate containing thirty torches and a leather sack with fifteen candles inside it. A rotting aroma also emanates from a pair of rotted organs—a half-eaten liver and a gnawed intestine—lying hidden beneath the hems of the robes.
+<div>
+<p>Лестница заканчивается на площадке с 6-футовым потолком из плотно пригнанных досок с деревянным люком, встроенным в него. Люк заперт на засов с этой стороны и может быть открыт, чтобы открыть доступ в логово (@JournalEntry[MGFjNmUzYzExN2M0]{область 3}) наверху.</p>
+<h4>Развитие</h4>
+<p>После того, как люк был найден и открыт, он остается доступным для персонажей как способ входа и выхода из подземного уровня.</p>
+</div>
 
-Folded inside the foot locker, on top of its other contents, is a **[Elite Shredskin](https://2e.aonprd.com/Monsters.aspx?ID=1897)** made of the recognizable flayed skin of Gustav Durst. When the foot locker is opened, the **[Elite Shredskin](https://2e.aonprd.com/Monsters.aspx?ID=1897)** springs out to attack the nearest creature.
+### Логово лидеров культа
+<span class="citation"><em>Эта сцена происходит в Приложении B: Область 33.</em></span>
 
-> [!combat]- **Balancing the Boneless**
-> This combat encounter is a **Low** encounter against a party of 2nd-level players. For parties of smaller or larger sizes, modify the encounter as follows:
+Эта комната в основном описана в <span class="citation">Логово лидеров культа (стр. 219)</span>. Однако уберите **[Мимика](https://2e.aonprd.com/Monsters.aspx?ID=300)** из этой области. Кроме того, когда игроки входят в эту комнату, прочтите:
+
+<div class="description">
+<p>В этой тихой комнате стоит деревянный стол, окруженный двумя высокими стульями, на котором стоят глиняный кувшин и два кубка. Над столом висит незажженная чугунная люстра. В двух углах комнаты стоят железные подсвечники, их свечи давно растаяли. Короткий коридор в северном конце комнаты ведет в темную камеру дальше.</p>
+</div>
+
+<div>
+<p>Над столом посередине комнаты подвешена люстра. Два высоких стула стоят по бокам стола, на котором стоит пустой глиняный кувшин и два глиняных кубка. В двух углах стоят железные подсвечники, их свечи давно растаяли.</p>
+</div>
+
+### Покои лидеров культа
+<span class="citation"><em>Эта сцена происходит в Приложении B: Область 34.</em></span>
+
+Эта комната в основном описана в <span class="citation">Покои лидеров культа (стр. 219)</span>. Когда игроки входят в эту комнату, прочтите:
+
+<div class="description">
+<p>В этой комнате стоит большая кровать с деревянной рамой, перьевой матрас которой сгнил от многолетнего неиспользования. Старый деревянный шкаф, украшенный резьбой в виде демонических лиц, стоит у стены слева, а выцветший деревянный сундук тихо стоит в ногах кровати.</p>
+<p>Комната пропитана знакомым запахом смерти — но гораздо более сильным, смешанным с ядовитым ароматом, который наполняет ваши легкие с каждым вдохом.</p>
+</div>
+
+Шкаф содержит несколько старых мантий, пару железных подсвечников и открытый ящик, содержащий тридцать факелов и кожаный мешок с пятнадцатью свечами внутри. Гнилостный аромат также исходит от пары сгнивших органов — наполовину съеденной печени и обглоданной кишки — лежащих скрытыми под подолами мантий.
+
+Сложенная внутри сундука, поверх его остального содержимого, находится **[Элитная Кожекромсалка](https://2e.aonprd.com/Monsters.aspx?ID=1897)**, сделанная из узнаваемой содранной кожи Густава Дёрста. Когда сундук открывается, **[Элитная Кожекромсалка](https://2e.aonprd.com/Monsters.aspx?ID=1897)** выпрыгивает, чтобы атаковать ближайшее существо.
+
+> [!combat]- **Балансировка Бескостного**
+> Эта боевая встреча является **Низкой** для группы игроков 2-го уровня. Для групп меньшего или большего размера измените встречу следующим образом:
 > 
-> * ***Three Players.*** Remove Elite template.
-> * ***Five Players.*** Scale to Level 4.
-> * ***Six Players.*** Scale to Level 3 and then apply Elite.
+> * ***Три игрока.*** Уберите шаблон Элитный.
+> * ***Пять игроков.*** Масштабируйте до 4-го уровня.
+> * ***Шесть игроков.*** Масштабируйте до 3-го уровня, затем примените шаблон Элитный.
 
-No **[Ghasts](https://2e.aonprd.com/Monsters.aspx?ID=219)** attack if a player removes any items from the foot locker, and there are no hidden cavities behind the walls.
-## A2g. The Dungeon
-### Reliquary
-<span class="citation"><em>This scene takes place in Appendix B: Area 35.</em></span>
+Никакие **[Упыри](https://2e.aonprd.com/Monsters.aspx?ID=219)** не атакуют, если игрок вынимает какие-либо предметы из сундука, и нет скрытых полостей за стенами.
 
-This room is largely as described in <span class="citation">Reliquary (p. 219)</span>. When the players enter this room, read:
-
-<div class="description">
-<p>The dusty stone steps descend past a landing and around a bend until they end at a cold, rectangular chamber. A thin, wafting mist clings to the ground, and the wooden cross beams that support the ceiling groan beneath the weight of the house and underground complex above. </p>
-<p>The walls of this room are cut with small, chiseled alcoves, each holding a strange, ghastly trinket or relic. A corridor with a sagging ceiling exits the chamber and bends out of sight to the right. Past it, you can see a stone slope that descends into black, murky water. The ghostly chant you've heard since entering the basement is strongest here, and seems to be emanating from the other side of a rusted, closed portcullis.</p>
-<p>You can finally understand the words.</p>
-<p>They say, over and over again, in a ceaseless refrain:</p>
-<p>"He is the Ancient."</p>
-<p>"He is the Land."</p>
+<div>
+<h4>Сокровище</h4>
+<p>Персонажи, обыскивающие сундук, находят сложенный @JournalEntry[Mjg1M2I5NmYwYzQ4]{плащ защиты}, маленький деревянный ларец (незапертый), содержащий четыре @JournalEntry[NDBhYzNmNWNmZDNl]{зелья лечения}, @Item[yA5OgvQk2xsHkGA1]{Кольчугу}, @Item[ROfGANBwB3SG2RQD]{Походный набор}, флакон @Item[iW8yxJvwc8hymvfl]{Алхимического огня}, @Item[FpLGZSxUAQfNML5K]{Фонарь-бычий глаз}, набор @Item[fqq3FpzSg3jJd2zQ]{Воровских инструментов} и @Item[FwtKYn6ZjkfhW9yg]{Книгу заклинаний} с желтой кожаной обложкой, содержащую следующие заклинания волшебника:</p>
+<p>1-й уровень: @Compendium[dnd5e.spells.A3q2gTNqG6fvNGrv]{Маскировка}<em>, @Compendium[dnd5e.spells.3OZnhunvRtPOQmH]{Опознание}, @Compendium[dnd5e.spells.CKZTpZlxj7hjjo2H]{Доспехи мага}, @Compendium[dnd5e.spells.41JIhpDyM9Anm7cs]{Волшебная стрела}, @Compendium[dnd5e.spells.xmDBqZhRVrtLP8h2]{Защита от добра и зла}</em></p>
+<p>2-й уровень: @Compendium[dnd5e.spells.hJ6ZiA3fpoY8v9cp]{Темное зрение}<em>, @Compendium[dnd5e.spells.3Lo9boi7P2ro6QV4]{Удержание личности}, @Compendium[dnd5e.spells.1N8dDMMgZ1h1YJ3B]{Невидимость}, @Compendium[dnd5e.spells.Sgjrf8qqv97CCWM4]{Волшебное оружие}</em></p>
+<p>Эти предметы были взяты у искателей приключений, которые были привлечены в Баровию, захвачены и убиты культом.</p>
 </div>
 
-### Prison
-<span class="citation"><em>This scene takes place in Appendix B: Area 36.</em></span>
+## A2g. Подземелье
+### Реликварий
+<span class="citation"><em>Эта сцена происходит в Приложении B: Область 35.</em></span>
 
-This room is largely as described in <span class="citation">Prison (p. 219)</span>. When the players enter this room, read:
-
-<div class="description">
-<p>The sound of clinking chains melds with a quiet, near-imperceptible rustling as you round the bend into a long, darkened dungeon. Rusted shackles hang patiently from the walls, as if waiting to bite into prisoners' flesh once more.</p>
-</div>
-
-### Portcullis
-<span class="citation"><em>This scene takes place in Appendix B: Area 37.</em></span>
-
-This area is largely as described in <span class="citation">Portcullis (p. 219)</span>. When the players approach this area, read:
+Эта комната в основном описана в <span class="citation">Реликварий (стр. 219)</span>. Когда игроки входят в эту комнату, прочтите:
 
 <div class="description">
-<p>The floor is submerged beneath two feet of dark, murky water that sloshes around your calves and boots. The tunnel forward is blocked by a rusty iron portcullis. Beyond its iron bars, you can make out the dark outline of a half-submerged chamber, a raised stone dais, and a thick cloud of rolling mist.</p>
+<p>Пыльные каменные ступени спускаются мимо площадки и вокруг поворота, пока не заканчиваются в холодной прямоугольной камере. Тонкий, колышущийся туман стелется по земле, а деревянные перекрестия, поддерживающие потолок, стонут под тяжестью дома и подземного комплекса наверху.</p>
+<p>Стены этой комнаты изрезаны маленькими, высеченными нишами, каждая из которых содержит странный, жуткий сувенир или реликвию. Коридор с провисшим потолком выходит из камеры и изгибается из виду вправо. За ним вы видите каменный склон, спускающийся в черную, мутную воду. Призрачное пение, которое вы слышали с момента входа в подвал, здесь сильнее всего и, кажется, исходит с другой стороны ржавой, закрытой решетки.</p>
+<p>Наконец вы можете разобрать слова.</p>
+<p>Они повторяют снова и снова, в бесконечном рефрене:</p>
+<p>"Он - Древний."</p>
+<p>"Он - Земля."</p>
 </div>
 
-The wooden wheel that opens the portcullis remains on the western side of the gate (i.e., the side facing the [[#Ritual Chamber]]). However, the chain-link mechanism to open the portcullis has broken, preventing the players from proceeding without repairing it (e.g., by using Rose’s [Mending](https://2e.aonprd.com/Spells.aspx?ID=1597) spell slot) or lifting the portcullis by hand. (If the players lift the portcullis by hand and then release it, its weight causes it to shut once more unless propped open.)
-### Ritual Chamber
-<span class="citation"><em>This scene takes place in Appendix B: Area 38.</em></span>
+<div>
+<p>Призрачное пение, исходящее из области 38, наполняет эту комнату. Персонажи могут различить дюжину или около того голосов, повторяющих снова и снова: "Он - Древний. Он - Земля."</p>
+<p>Культ собрал несколько "реликвий", которые использовал в своих ритуалах. Эти бесполезные предметы хранятся в тринадцати нишах вдоль стен:</p>
+<ul>
+<li>Маленькая, мумифицированная, желтая рука с острыми когтями (рука гоблина) на веревочной петле</li>
+<li>Нож, вырезанный из человеческой кости</li>
+<li>Кинжал с черепом крысы, вставленным в рукоять</li>
+<li>Лакированный шар диаметром 8 дюймов, сделанный из глаза нотика</li>
+<li>Кропило, вырезанное из кости</li>
+<li>Сложенный плащ, сделанный из сшитой кожи упыря</li>
+<li>Высушенная лягушка, привязанная к палке (может быть принята за <em>@JournalEntry[NDYwZDdiOWUxMzQx]{жезл превращения}</em>)</li>
+<li>Мешок, полный гуано летучих мышей</li>
+<li>Отрубленный палец ведьмы</li>
+<li>Деревянная фигурка мумии высотой 6 дюймов, ее руки скрещены на груди</li>
+<li>Железный кулон, украшенный лицом дьявола</li>
+<li>Уменьшенная, высушенная голова полурослика</li>
+<li>Маленький деревянный ларец, содержащий высушенный язык лютого волка</li>
+</ul>
+<p>Самый южный туннель спускается под углом 20 градусов в мутную воду и заканчивается ржавой решеткой (область 37).</p>
+</div>
 
-This room is largely as described in <span class="citation">Ritual Chamber (p. 219)</span>. When the players enter this room, read:
+### Тюрьма
+<span class="citation"><em>Эта сцена происходит в Приложении B: Область 36.</em></span>
+
+Эта комната в основном описана в <span class="citation">Тюрьма (стр. 219)</span>. Когда игроки входят в эту комнату, прочтите:
 
 <div class="description">
-<p>The smooth masonry walls of this forty-foot-square room provide excellent acoustics. Featureless stone pillars support the ceiling, and murky water covers most of the floor. Stairs lead up to dry stone ledges that hug the walls. In the middle of the room, more stairs rise to form an octagonal dais that also rises above the water. Rusty chains with shackles dangle from the ceiling directly above a stone altar mounted on the dais. The altar is carved with hideous depictions of grasping ghouls and is stained with dry blood. A small, white bundle lies atop it, surrounded by pulsating, fleshy tendrils.</p>
-<p>The tendrils run to a breach in the far wall that leads to a dark cave, their fleshy masses connecting to a dark, hulking shadow that lies within, its bloated mass rising and falling with a slow, shuddering rhythm.</p>
-<p>As soon as you step foot into the chamber, the ghostly chanting you've heard suddenly falls silent.</p>
+<p>Звук звенящих цепей сливается с тихим, почти неуловимым шуршанием, когда вы заворачиваете за угол в длинное, темное подземелье. Ржавые кандалы терпеливо висят на стенах, словно ожидая, чтобы снова впиться в плоть заключенных.</p>
 </div>
 
-A player that approaches the altar sees that the words "FEED HIM" are carved into its flat stone surface just below the white bundle, surrounded by several fleshy tendrils inset with human teeth. The tendrils belong to the **flesh mound** (see below), which awakens and attacks if the tendrils are damaged.
+<div>
+<p>Культисты приковывали пленников к задним стенам ниш здесь. Пленники давно исчезли (их кости усеивают пол в области 27), но ржавые кандалы остались.</p>
+<h4>Секретная дверь</h4>
+<p>Секретную дверь в южной стене можно найти при успешной проверке Восприятия @Check[perception|dc:18|traits:action:search,secret] и открыть, чтобы обнаружить область 38 за ней.</p>
+<h4>Сокровище</h4>
+<p>На задней стене камеры, отмеченной X на карте, висит человеческий скелет, одетый в рваную черную мантию. Скелет принадлежит члену культа, который подвергал сомнению слепую преданность культа Страду. Персонажи, обыскивающие скелет, находят @Item[yZNoTw5LfiorQCPA]{Золотое кольцо} (стоимостью 25 зм) на одном из его костлявых пальцев.</p>
+</div>
 
-The bundle atop the altar is the size and shape of an infant wrapped in swaddling clothes. If unwrapped, the players instead find it to hold a rusted, serrated dagger stained red with ancient blood.
+### Решетка
+<span class="citation"><em>Эта сцена происходит в Приложении B: Область 37.</em></span>
 
-The dark shadow in the cave is a **flesh mound** containing Walter’s spirit and remains.<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup> It is a swollen, bloated mound of bones, flesh, and gore that seems to breathe as its mass rises and falls. A player that observes it concludes that it appears to be sleeping.
+Эта область в основном описана в <span class="citation">Решетка (стр. 219)</span>. Когда игроки приближаются к этой области, прочтите:
 
-The cultists' shadows described in <span class="citation">“One Must Die!” (p. 220)</span> do not appear when a player climbs the altar. Instead, the players have two choices: sacrifice a living creature on the altar, or attack the flesh mound.
+<div class="description">
+<p>Пол погружен под два фута темной, мутной воды, которая плещется вокруг ваших икр и ботинок. Туннель впереди перегорожен ржавой железной решеткой. За ее железными прутьями вы можете различить темные очертания полузатопленной камеры, приподнятого каменного возвышения и густого облака клубящегося тумана.</p>
+</div>
 
-If a creature is sacrificed on the altar, the flesh mound's tendrils accept its corpse and pull it to the mound's lair. There, the mound messily devours it before returning its tendrils to the altar once more. Feeding the mound does not free the players, because its hunger cannot be sated.
+Деревянное колесо, открывающее решетку, остается на западной стороне ворот (т.е. стороне, обращенной к [[#Ритуальная камера]]). Однако цепной механизм для открытия решетки сломан, не позволяя игрокам продвинуться дальше без его ремонта (например, используя заклинание [Починка](https://2e.aonprd.com/Spells.aspx?ID=1597) Розы) или поднятия решетки вручную с проверкой Атлетики @Check[athletics|dc:20]. (Если игроки поднимут решетку вручную, а затем отпустят ее, ее вес заставит ее снова закрыться, если не подпереть.)
 
-The flesh mound awakens if attacked. When it does, its subsequent screeching wail causes the earth to tremble, sending the [[#Portcullis]] crashing to the ground if it's been opened and damaging the mechanism responsible for opening it.
+<div>
+<p>Этот туннель перегорожен ржавой железной решеткой, которую можно принудительно поднять при успешной проверке Атлетики @Check[athletics|dc:20]. В противном случае решетку можно поднять или опустить, повернув деревянное колесо, наполовину вмурованное в восточную стену области 38. (Колесо находится вне досягаемости кого-либо к востоку от решетки.) Пол вокруг решетки погружен под 2 фута мутной воды.</p>
+</div>
 
-In combat, the flesh mound begins in its first form, **the flesh mound**. For one minute after it has awoken, the flesh mound’s **_heavy sleeper_** feature reduces the power of its ***multiattack*** actions in either form.
+### Ритуальная комната
+<span class="citation"><em>Эта сцена происходит в Приложении B: Область 38.</em></span>
 
-A creature engulfed by the mound’s first form can hear the faint sound of a baby crying at the center of its swollen bulk.
+Эта комната в основном такая, как описано в <span class="citation">Ритуальной комнате (стр. 219)</span>. Когда игроки входят в эту комнату, прочтите:
 
-> [!item]+ **Elisabeth's Amber Shard**
+<div class="description">
+<p>Гладкие каменные стены этой комнаты размером сорок на сорок футов обеспечивают отличную акустику. Безликие каменные колонны поддерживают потолок, а мутная вода покрывает большую часть пола. Лестницы ведут вверх к сухим каменным выступам, прижимающимся к стенам. В центре комнаты еще одна лестница поднимается, образуя восьмиугольный помост, также возвышающийся над водой. Ржавые цепи с кандалами свисают с потолка прямо над каменным алтарем, установленным на помосте. Алтарь украшен отвратительными изображениями хватающих упырей и запятнан засохшей кровью. На нем лежит небольшой белый сверток, окруженный пульсирующими мясистыми отростками.</p>
+<p>Отростки тянутся к пролому в дальней стене, ведущему в темную пещеру, их мясистые массы соединяются с темной, громоздкой тенью, лежащей внутри, ее раздутая масса поднимается и опускается в медленном, содрогающемся ритме.</p>
+<p>Как только вы ступаете в комнату, призрачное пение, которое вы слышали, внезапно замолкает.</p>
+</div>
+
+Игрок, приближающийся к алтарю, видит, что слова "НАКОРМИ ЕГО" вырезаны на плоской каменной поверхности прямо под белым свертком, окруженным несколькими мясистыми отростками с вставленными человеческими зубами. Отростки принадлежат **плотяной массе** (см. ниже), которая пробуждается и атакует, если отростки повреждены.
+
+Сверток на алтаре имеет размер и форму младенца, завернутого в пеленки. Если его развернуть, игроки вместо этого обнаруживают ржавый зазубренный кинжал, запятнанный древней кровью.
+
+Темная тень в пещере - это **плотяная масса**, содержащая дух и останки Уолтера.<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup> Это вздутая, раздутая масса костей, плоти и внутренностей, которая, кажется, дышит, когда ее масса поднимается и опускается. Игрок, наблюдающий за ней, приходит к выводу, что она, похоже, спит.
+
+Тени культистов, описанные в <span class="citation">"Один должен умереть!" (стр. 220)</span>, не появляются, когда игрок поднимается на алтарь. Вместо этого у игроков есть два варианта: принести в жертву живое существо на алтаре или атаковать плотяную массу.
+
+Если существо приносится в жертву на алтаре, отростки плотяной массы принимают его труп и затягивают в логово массы. Там масса неряшливо пожирает его, прежде чем снова вернуть свои отростки к алтарю. Кормление массы не освобождает игроков, потому что ее голод невозможно утолить.
+
+Плотяная масса пробуждается, если на нее нападают. Когда это происходит, ее последующий пронзительный вой заставляет землю дрожать, в результате чего [[#Решетка]] с грохотом падает на землю, если она была открыта, и повреждает механизм, отвечающий за ее открытие.
+
+В бою плотяная масса начинает в своей первой форме, **плотяной массе**. В течение одной минуты после пробуждения особенность плотяной массы **_тяжелый сон_** делает ее замедленной 1 в любой форме.
+
+Существо, схваченное первой формой массы, может услышать слабый звук плачущего младенца в центре ее раздутой массы.
+
+> [!info]+ **Корректировки для Pathfinder 2e**
 >
-> A player in possession of Elisabeth's amber shard from the **Master Suite** can present the shard as a bonus action while within 30 feet of the **flesh mound**, speak the name "Walter," and give a brief command. If the player succeeds on a DC 16 Intimidation check, the mound will spend next turn obeying the command. The mound won't obey a command that is directly harmful to it.
+> Поскольку в PF2e нет похожих монстров, я выбрал модифицировать существующий "ближайший" вариант.
+>
+> Для первой фазы я выбрал [Шанригольскую кучу](https://2e.aonprd.com/Monsters.aspx?ID=1050) и оставил ее на 4-м уровне, чтобы она была только **умеренной+** угрозой для группы 2-го уровня. Я также добавил некоторые реакции, действия и слабости, которые дополняют статблок, не делая его слишком сильным.
+>
+> Для второй фазы я использовал [Уготола](https://2e.aonprd.com/Monsters.aspx?ID=2812), повышенного до 5-го уровня (шаблон Элитного делает его слишком сильным, на мой взгляд). У монстра уже есть потрясающее "деформированное искусство", и он хорошо представляет ребенка, который был "заперт" в плотяной массе.>
+> Я сделал его нежитью со всеми соответствующими иммунитетами и слабостями. И, конечно, я также добавил больше действий и реакций. Из-за этого он теперь по сути **Серьезный+**, что очень страшно для группы 2-го уровня. Им лучше умно использовать его слабости!
 
-> [!warning]+ **Don't Use Tactics!**
-> All enemies in this guide, including boss monsters, have been exhaustively playtested and balanced using the Challenge Ratings 2.0 encounter-building system. All major boss encounters, including the two-phase fight with the **flesh mound**, have been calibrated to consume most or all of the players' hit points, in order to create a dangerous and exciting fight.
+> [!item]+ **Янтарный осколок Элизабет**
+>
+> Игрок, владеющий янтарным осколком Элизабет из **Главной спальни**, может предъявить осколок в качестве бонусного действия, находясь в пределах 30 футов от **плотяной массы**, произнести имя "Уолтер" и дать краткую команду. Если игрок успешно проходит @Check[type:intimidation|dc:16|traits:action:intimidate], масса потратит следующий ход, выполняя команду. Масса не будет выполнять команду, которая напрямую вредит ей.
+
+> [!warning]+ **Не используйте тактику!**
+> Все враги в этом руководстве, включая боссов-монстров, используют относительно сбалансированную боевую систему Pathfinder 2e. 
+> Все основные схватки с боссами, включая двухфазный бой с **плотяной массой**, были откалиброваны так, чтобы быть действительно опасными, чтобы создать опасный и захватывающий бой.
 > 
-> However, these boss statblocks have enough hit points and deal enough damage per round (DPR) to ensure that they can present a suitable threat without any special tactics or strategy. To the extent any such strategies exist, they have been built into the statblock and require no additional strategizing by the Dungeon Master.
+> Однако у этих статблоков боссов достаточно очков здоровья и они наносят достаточно урона за раунд (DPR), чтобы обеспечить подходящую угрозу без какой-либо особой тактики или стратегии. В той мере, в какой такие стратегии существуют, они были встроены в статблок и не требуют дополнительного стратегического планирования со стороны Мастера игры.
 > 
-> Accordingly, unless your players have proven themselves highly tactical and/or optimized, **avoid playing these boss statblocks tactically**—because if you *do* play them tactically, you're very likely to TPK your players. Instead, simply choose whichever actions, bonus actions, reactions, and targets will provide the most interest and excitement for the current round.
+> Соответственно, если ваши игроки не проявили себя как высокотактичные и/или оптимизированные, **избегайте тактического использования этих статблоков боссов** - потому что если вы *будете* играть ими тактически, вы, скорее всего, уничтожите всю группу игроков. Вместо этого просто выбирайте те действия, реакции и цели, которые обеспечат наибольший интерес и волнение для текущего раунда.
 
 <div class="statblock">
-<h2>The Flesh Mound</h2>
-<em>Large undead, chaotic evil</em>
+<h2>The Flesh Mound - Creature 4</h2>
+<em>Large aberration undead, chaotic evil</em>
 <hr>
-<strong>Armor Class</strong> 15 (natural armor)
+<strong>Perception</strong> +9; darkvision, tremorsense (imprecise) 30 feet, all-around vision
 <br>
-<strong>Hit Points</strong> 93 (11d10 + 33)
+<strong>Languages</strong> Common but can't speak
 <br>
-<strong>Speed</strong> 20 ft.
+<strong>Skills</strong> Athletics +12, Stealth +10
+<br>
+<strong>Str</strong> +5, <strong>Dex</strong> +2, <strong>Con</strong> +3, <strong>Int</strong> -4, <strong>Wis</strong> +1, <strong>Cha</strong> -5
 <hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>16 (+3)</td>
-      <td>8 (-1)</td>
-      <td>16 (+3)</td>
-      <td>3 (-4)</td>
-      <td>10 (+0)</td>
-      <td>5 (-3)</td>
-    </tr>
-  </tbody>
-</table>
+<strong>AC</strong> 20; all-around vision
+<br>
+<strong>HP</strong> 55; void healing
+<br>
+<strong>Immunities</strong> death effects, disease, paralyzed, poison, unconscious
+<br>
+<strong>Resistances</strong> piercing 5, slashing 5
+<br>
+<strong>Weaknesses</strong> vitality 5
+<br>
+<strong>Speed</strong> 20 feet, climb 20 feet, swim 20 feet
 <hr>
-<strong>Condition Immunities</strong> blinded, deafened, exhaustion<br>
-<strong>Senses</strong> blindsight 60 ft., passive Perception 10<br>
-<strong>Languages</strong> Understands Common, but can't speak it<br>
-<strong>Challenge</strong> 4, or 3 when its <strong><em>heavy sleeper</em></strong> feature is active.<br>
-<hr>
-<p><strong><em>Heavy Sleeper.</em></strong> If either of the mound’s forms has been unconscious within the past minute, it can’t use its <strong><em>slam</em></strong> attack more than once per turn.</p>
-<p><strong><em>Oozing Body.</em></strong> The flesh mound can move through spaces occupied by enemy creatures. (It can't end its turn inside an occupied space, and it provokes opportunity attacks normally.)</p>
-<p><strong><em>Instinctual Defense.</em></strong> When the mound drops to 0 hit points, it expels each creature currently engulfed by it. (Those creatures appear prone in an empty space within 5 feet of the mound.) The mound’s statistics are then instantly replaced by the statistics of its second form. Its initiative count doesn’t change. Excess damage doesn't carry over to its new form, but it retains any conditions it had in its previous form.</p>
+<p><strong>Melee</strong> ◆ fleshy slap +14 (forceful), <strong>Damage</strong> 2d6+8 bludgeoning plus Grab</p>
+<p><strong>Melee</strong> ◆ bone shard +11 (agile, range increment 20 feet, versatile P), <strong>Damage</strong> 1d8+8 bludgeoning</p>
 <h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> The flesh mound makes two attacks. It can replace one of those attacks with <strong><em>engulf</em></strong>. If its <strong><em>heavy sleeper.</em></strong> feature is active, it can't use its <strong><em>slam</em></strong> attack more than once, and it can't use <strong><em>engulf</em></strong> on the same turn it uses its <strong><em>slam</em></strong>.
-<p><strong><em>Slam.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 14 (2d10 + 3) bludgeoning damage, or 10 (2d6 + 3) bludgeoning damage if the mound's <strong><em>heavy sleeper.</em></strong> feature is active. If the attack hits a Medium or smaller target, the target is grappled (escape DC 13).</p>
-<p><strong><em>Bone Splinters.</em></strong> <em>Ranged Weapon Attack:</em> +5 to hit, range 20/60 ft., up to two targets standing within 5 ft. of each other. <em>Hit:</em> 5 (1d4 + 3) piercing damage.
-<p><strong><em>Engulf.</em></strong> The flesh mound attempts to engulf a Medium or smaller creature grappled by it, forcing that creature to make a DC 13 Strength saving throw. On a failure, the engulfed target is blinded, restrained, and unable to breathe, and it must succeed on a DC 13 Constitution saving throw at the start of each of its turns or take 8 (2d4 + 3) bludgeoning damage. If the mound moves, the engulfed target moves with it. The mound can only have one creature engulfed at a time. An engulfed creature can make a DC 13 Strength saving throw at the end of each of its turns, freeing itself on a success. (Once freed, the creature is no longer grappled.)</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Rupture.</em></strong> The flesh mound expels a pustule of rotting flesh, with hits a point within 20 feet of the mound and bursts, spraying each creature within 5 feet with caustic blood and pus. A target must succeed on a DC 13 Constitution saving throw or be poisoned until the start of the flesh mound's next turn.</p>
-<p><strong><em>Quake.</em></strong> The flesh mound slams against the floor, causing the room to quake. Each creature within 10 feet of the mound must succeed on a DC 13 Strength saving throw or fall prone.</p>
-<h3>Reactions</h3>
-<p>The flesh mound can take up to three reactions per round, though no more than one per turn. If it would lose its reactions and isn't incapacitated, it loses one reaction instead.</p>
-<p><strong><em>Squelch.</em></strong> In response to taking damage from a melee attack, the flesh mound attempts to grapple the attacker.</p>
-<p><strong><em>Roll.</em></strong> In response to taking damage from a ranged attack or spell, the flesh mound moves up to its speed directly toward or away from the attacker without provoking opportunity attacks.</p>
-</div><br>
+<p><strong>Sapping Squeeze</strong> ◆ <strong>Requirements</strong> Walter has a creature grabbed <strong>Effect</strong> Walter squeezes the life essence from its target, dealing 1d6+5 bludgeoning and 1d4 persistent bleed damage (DC 18 basic Fortitude save). Walter regains temporary Hit Points equal to half the amount of bludgeoning damage a single target takes; these temporary Hit Points last for 1 minute.</p>
+<p><strong>Undulating Step</strong> ◆◆ Walter separates its flesh from its bones to fit through small spaces. It Strides, ignoring difficult terrain and fitting through tight spaces as though it were a Tiny creature. It can't use any actions other than Undulating Step until it occupies an area large enough for its normal form.</p>
+<p><strong>Quake</strong> ◆ The flesh mound slams against the floor, causing the room to quake. Each creature within 10 feet of the mound must succeed on a DC 18 Fortitude saving throw or fall prone.</p>
+<p><strong>Squelch</strong> ⮌ In response to taking damage from a melee attack, the flesh mound attempts to Grapple the attacker.</p>
+<p><strong>Grab</strong> ◆</p>
+<hr>
+<p><strong>All-Around Vision</strong> The creature can't be flanked.</p>
+<p><strong>Void Healing</strong> The creature heals from negative damage and is damaged by positive effects.</p>
+<p><strong>Shred Flesh</strong> Walter rips flesh away from targets in great chunks. Creatures critically hit by Walter's fleshy slap Strike take an additional 1d6 bleed damage and are enfeebled 1 for as long as they are bleeding.</p>
+<p><strong>Heavy Sleeper</strong> If either of the mound's forms has been unconscious within the past minute, it is slowed 1.</p>
+<p><strong>Instinctual Defense</strong> When the mound drops to 0 hit points, it frees each creature currently grabbed by it. The mound's statistics are then instantly replaced by the statistics of its second form. Its initiative count doesn't change. Excess damage doesn't carry over to its new form, but it retains any conditions it had in its previous form.</p>
+</div>
+
 
 <div class="statblock">
-<h2>Walter, the Graveborn</h2>
-<em>Large undead, chaotic evil</em>
+<h2>Walter, the Graveborn - Creature 5</h2>
+<em>Medium aberration undead, common</em>
 <hr>
-<strong>Armor Class</strong> 15 (natural armor)
+<strong>Perception</strong> +11; darkvision
 <br>
-<strong>Hit Points</strong> 93 (11d10 + 33)
+<strong>Languages</strong> Common but can't speak
 <br>
-<strong>Speed</strong> 20 ft.
+<strong>Skills</strong> Acrobatics +13, Athletics +13
+<br>
+<strong>Str</strong> +4, <strong>Dex</strong> +4, <strong>Con</strong> +4, <strong>Int</strong> +0, <strong>Wis</strong> +2, <strong>Cha</strong> +0
 <hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>16 (+3)</td>
-      <td>8 (-1)</td>
-      <td>16 (+3)</td>
-      <td>3 (-4)</td>
-      <td>10 (+0)</td>
-      <td>10 (+0)</td>
-    </tr>
-  </tbody>
-</table>
+<strong>AC</strong> 22; <strong>Fort</strong> +10, <strong>Ref</strong> +10, <strong>Will</strong> +13
+<br>
+<strong>HP</strong> 75; <strong>Immunities</strong> death effects, disease, paralyzed, poison, unconscious; <strong>Resistances</strong> bludgeoning 5; <strong>Weaknesses</strong> vitality 5
+<br>
+<strong>Speed</strong> 20 feet
 <hr>
-<strong>Condition Immunities</strong> blinded, deafened, exhaustion<br>
-<strong>Senses</strong> blindsight 60 ft., passive Perception 10<br>
-<strong>Languages</strong> Understands Common, but can't speak it<br>
-<strong>Challenge</strong> 4, or 3 when its <em>heavy sleeper</em> feature is active.<br>
+<p><strong>Melee</strong> ◆ claw +13 (agile), <strong>Damage</strong> 2d8+8 slashing plus Grab</p>
 <hr>
-<p><strong><em>Heavy Sleeper.</em></strong> If either of the mound’s forms has been unconscious within the past minute, it can’t use its <strong><em>tentacle</em></strong> attack more than once per turn.</p>
-<p><strong><em>Oozing Body.</em></strong> The flesh mound can move through spaces occupied by enemy creatures. (It can't end its turn inside an occupied space, and it provokes opportunity attacks normally.)</p>
-<p><strong><em>Innocent Heart.</em></strong> The center of the mound conceals its "heart": a large, misshapen rib cage. Within the rib cage hovers the infant corpse of Walter Durst. Walter's corpse has AC 15 and the same ability scores as the flesh mound. Each time Walter's corpse takes damage, the flesh mound takes twice as much damage.</p>
-<p><strong><em>Mother's Lullaby.</em></strong> If a player uses their action to hum or play <em>Waltz for Klara</em> and succeeds on a DC 13 Performance check, the mound exposes its heart and can't use its <strong><em>withdraw</em></strong> reaction until the start of the player's next turn.
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> The flesh mound makes three attacks, or two attacks if its <strong><em>heavy sleeper</em></strong> feature is active.</p>
-<p><strong><em>Tentacle.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 15 ft., one target. <em>Hit:</em> 14 (2d10 + 3) bludgeoning damage, or 7 (1d8 + 3) bludgeoning damage if the mound's <strong><em>heavy sleeper.</em></strong> feature is active. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be pulled up to 15 feet toward the mound.</p>
-<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 10 (2d6 + 3) piercing damage.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Gore Spray.</em></strong> The mound spews blood and gore in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw. On a failure, a creature takes 7 (2d6) necrotic damage and is blinded until the end of the mound's next turn. On a success, a creature takes half as much damage and isn't blinded. Using this ability exposes the mound's heart, allowing it to be attacked.</p>
-<p><strong><em>Wail.</em></strong> The infant corpse of Walter Durst releases a piercing shriek. Each creature that can hear the shriek within 30 feet of the mound must succeed on a DC 10 Constitution saving throw or take 2 (1d4) psychic damage and be deafened until the end of the mound's next turn. Using this ability exposes the mound's heart, allowing it to be attacked.</p>
-<h3>Reaction</h3>
-<p>The flesh mound can take up to three reactions per round, though no more than one per turn. If it would lose its reactions and isn't incapacitated, it loses one reaction instead.</p>
-<p><strong><em>Withdraw.</em></strong> In response to an attack or harmful spell hitting or missing its heart, the mound withdraws its heart into its body, concealing it from view and protecting it from attacks.</p>
-<p><strong><em>Lash Out.</em></strong> In response to taking damage from a melee attack, the mound lashes out at the attacker with a tentacle. The attacker must succeed on a DC 13 Dexterity saving throw or be pushed 10 feet away. If the attacker fails the saving throw by 5 or more, they also fall prone.</p>
-<p><strong><em>Roll.</em></strong> In response to taking damage from a ranged attack or spell, the mound moves up to its speed directly toward or away from the attacker without provoking opportunity attacks. If it moves toward the attacker, it can then immediately attempt to shove them.</p>
+<p><strong>Gore Spray</strong> ◆◆ Walter spews blood and gore from his chest that deals 2d6 void damage to creatures within a 15-foot cone (DC 19 basic Reflex save). Also, the creature is blinded on failure and dazzled on success. The Walter can't use its Gore Spray again for 1d4 rounds or until it takes a critical hit (whichever comes first). Using this ability exposes the Walter's heart, allowing it to be attacked.</p>
+<p><strong>Wail</strong> ◆ Walter shakes with a terrible sob, forcing each living creature within 15 feet to attempt a DC 19 Will save. On a failure, a creature becomes frightened 1 (or frightened 2 on a critical failure). On a success, a creature is temporarily immune to this Walter's Wail for 1 minute. Using this ability exposes the Walter's heart, allowing it to be attacked.</p>
+<p><strong>Blood Nourishment</strong> ◆ Walter uses its three-pronged tongue to drink the blood of an adjacent restrained or unconscious creature. The creature gains drained 1.</p>
+<p><strong>Lash Out</strong> ⮌ In response to taking damage from a melee attack, the mound lashes out at the attacker with a tentacle. It attempts to Shove the creature. On critical failure, the creature also falls prone.</p>
+<hr>
+<p><strong>Compression</strong> When Walter successfully Squeezes, it moves through the tight space at full speed. Narrow confines are not difficult terrain for Walter.</p>
+<p><strong>Sneak Attack</strong> Walter deals 1d6 extra precision damage to off-guard creatures.</p>
+<p><strong>Grab</strong> Walter can attempt to grab a creature it hits with its claw attack.</p>
+<p><strong>Heavy Sleeper</strong> If either of the mound's forms has been unconscious within the past minute, it is slowed 1.</p>
+<p><strong>Innocent Heart</strong> The center of the mound conceals its "heart": a large, misshapen rib cage. Within the rib cage hovers the infant corpse of Walter Durst. Walter's corpse has AC 20 and the same ability scores as the flesh mound. Each time Walter's corpse takes damage, the flesh mound takes twice as much damage.</p>
+<p><strong>Mother's Lullaby</strong> If a player uses their action to hum or play Waltz for Klara and succeeds on a DC 17 Performance check, the mound exposes its heart and can't use its withdraw reaction until the start of the player's next turn.</p>
 </div>
 
-> [!combat]- **Balancing the Flesh Mound**
-> Due to the phase mechanic, this combat encounter is a series of two consecutive **bruising** combat encounters against a party of four 2nd-level players and will consume approximately 28% of their total maximum hit points per phase (for a total of 56% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
+
+> [!combat]- **Балансировка плотяной массы**
+> Из-за механики фаз это боевое столкновение представляет собой серию из двух последовательных **Умеренных+** и **Серьезных+** боевых столкновений против группы из четырех игроков 2-го уровня. Для групп меньшего или большего размера измените столкновение следующим образом:
 > 
-> * ***Three Players.*** Reduce the mound’s HP to 56 in each phase. Reduce the first form’s Slam attack to 8 (2d6+1) damage, or 6 (2d4+1) damage while the heavy sleeper feature is active. Reduce the Bone Splinters to 3 (1d4+1) damage. Reduce Engulf to 6 (2d4+1) damage. Reduce the Tentacle attack’s damage to 9 (2d6+2) damage, or 4 (1d4+2) while Heavy Sleeper is active. Reduce the Bite attack’s damage to 7 (2d4+2). Reduce the Gore Spray’s damage to 5 (2d4).
-> * ***Five Players.*** Reduce the mound’s HP to 75 in each phase. Reduce the first form’s Slam attack to 11 (2d10+1) damage, or 8 (2d6+1) damage while the heavy sleeper feature is active. Reduce the Bone Splinters to 4 (1d6+1) damage. Change Engulf to 8 (2d6+1) damage. Reduce the Tentacle attack’s damage to 12 (2d10+1) damage, or 5 (1d8+1) while Heavy Sleeper is active. Reduce the Bite attack’s damage to 9 (2d8+1).
-> * ***Six Players.*** Increase the mound’s HP to 112 in each phase. Increase the first form’s Slam attack to 16 (2d12+3) damage, or 12 (2d8+3) damage while the heavy sleeper feature is active. Increase the Bone Splinters to 6 (1d6+3) damage. Increase Engulf to 12 (2d8+3) damage. Increase the Tentacle attack’s damage to 17 (4d6+3) damage, or 8 (2d4+3) while Heavy Sleeper is active. Increase the Bite attack’s damage to 14 (2d10+3). Increase the Gore Spray’s damage to 9 (2d8).
-## A2h. Escape From Death House
-When the **flesh mound** dies, the players can hear the sound of the house’s front door opening far overhead, and the distant thunderstorm beyond.
+> * ***Три игрока.*** Я бы не менял это, но играл бы бой гораздо менее тактически. Она может крушить вещи вокруг, бросаться к самому дальнему персонажу и т.д.
+> * ***Пять игроков.*** Я бы повысил уровень Плотяной массы до 5-го. А Уолтер должен быть 4-го уровня, сделанный Элитным (то есть повышенным до 5-го уровня).  
+> * ***Шесть игроков.*** Применить шаблон Элитного к обоим монстрам и играть гораздо менее тактически, так как он будет часто наносить критические удары. 
 
-When the players next begin to move toward the exit, read:
+## A2h. Побег из Дома Смерти
+Когда **плотяная масса** умирает, игроки могут услышать звук открывающейся входной двери дома далеко наверху и отдаленную грозу за ее пределами.
 
-<div class="description">
-<p>A guttural moan ripples through the air—and a terrifying apparition manifests before you: the spirit of Elisabeth Durst, her once-beautiful features now grotesquely distorted. Her lustrous hair is a wild, disheveled mess, her skin a deathly pallor, and her lips peeling back to reveal sharp, yellowed teeth. An amber shard glows ominously on a cord around her spectral neck, a shadowed wisp swirling within its depths.</p>
-<p>The spirit levitates high above the floor, sunken eyes blazing with malice and mouth twisted into a snarl. "You may have evaded my pet," it rasps, "but I will tear this house apart before I let you escape." It throws its head back and lets loose a blood-curdling scream that reverberates across the stone walls—and sets the very foundations of the house trembling.</p>
-<p>Far above, the grandfather clock begins to chime, the sound mounting to a thunderous cacophony. Dust and debris rain down as the floor shakes beneath you, the wooden cross beams of the ceiling starting to splinter and crack. Elisabeth's spirit fixes you with a feral grin—and then dissipates into thin air, leaving only echoes of its spiteful laugher as the house rumbles, shifts, and groans.</p>
-</div>
-
-The players must flee from the ritual chamber to the [[#Entrance]] of Death House before the entire structure collapses upon their heads. However, they don't need to roll initiative, and the architectural changes described in <span class="citation">The Cult is Denied (p. 220)</span> are not present. 
-
-Instead, as the players escape the crumbling Death House, they face two additional obstacles.
-
-***Gustav's Ghost.*** As the players move to exit the [[#Reliquary]], the ghost of Gustav Durst (use the statistics of a **poltergeist**, but without its ***invisibility*** feature) confronts them. Read:
+Когда игроки начинают двигаться к выходу, прочтите:
 
 <div class="description">
-<p>An ethereal apparition appears before you, obstructing the stairs—the ghost of a man. He is a gaunt and pale figure, with sunken, haunted eyes and trembling hands, wearing once-fine clothing now tattered with age.</p>
-<p>"Please," the spirit says, tears beading at the corners of his eyes. "You have to stay here and die. She won't accept anything else."</p>
+<p>Гортанный стон пронизывает воздух — и перед вами возникает ужасающее видение: дух Элизабет Дёрст, ее когда-то прекрасные черты теперь гротескно искажены. Ее блестящие волосы — дикая, растрепанная масса, кожа смертельно бледная, а губы отслаиваются, обнажая острые, пожелтевшие зубы. Янтарный осколок зловеще светится на шнурке вокруг ее призрачной шеи, внутри него кружится темный дымок.</p>
+<p>Дух парит высоко над полом, впалые глаза пылают злобой, а рот искривлен в оскале. "Вы, может быть, и избежали моего питомца," — хрипит он, — "но я разнесу этот дом по камням, прежде чем позволю вам сбежать." Он запрокидывает голову и издает леденящий кровь крик, который отражается от каменных стен — и заставляет сами основания дома дрожать.</p>
+<p>Далеко наверху дедушкины часы начинают бить, звук нарастает до громоподобной какофонии. Пыль и обломки сыплются, когда пол трясется под вами, деревянные перекрытия потолка начинают трескаться и ломаться. Дух Элизабет фиксирует на вас дикий взгляд — а затем рассеивается в воздухе, оставляя лишь эхо своего злобного смеха, пока дом грохочет, сдвигается и стонет.</p>
 </div>
 
-The spirit is recognizable as Gustav Durst. Gustav pleads with the players to give up, insisting that Elisabeth's spirit is simply too powerful—too fearsome—to disobey. A DC 10 Wisdom (Insight) check reveals that Gustav is terrified of Elisabeth—and ridden with guilt, doubt, and self-loathing.
+Игроки должны бежать из ритуальной комнаты ко [[#Вход]]у в Дом Смерти, прежде чем вся конструкция обрушится им на головы. Однако им не нужно бросать инициативу, и архитектурные изменения, описанные в <span class="citation">Культ отвергнут (стр. 220)</span>, отсутствуют. 
 
-If the players attempt to bypass or attack Gustav, a swarm of levitating debris and shrapnel arises around him. He pleads with the players again, insisting that he doesn't want to fight them, but that he doesn't know that he has any other choice.
+Вместо этого, когда игроки убегают из разрушающегося Дома Смерти, они сталкиваются с двумя дополнительными препятствиями.
 
-> [!combat]- **Balancing the Poltergeist**
-> This combat encounter is a **bruising** encounter against a party of four 2nd-level players, and will consume approximately 28% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+***Призрак Густава.*** Когда игроки собираются выйти из [[#Реликварий]]я, призрак Густава Дёрста (используйте статистику **[Призрачного мага](https://2e.aonprd.com/Monsters.aspx?ID=3008), пониженного до 3-го уровня**) противостоит им. Прочтите:
+
+<div class="description">
+<p>Перед вами появляется эфирное видение, преграждая путь к лестнице — призрак мужчины. Это худая и бледная фигура с впалыми, измученными глазами и дрожащими руками, одетая в некогда изысканную одежду, теперь изношенную от времени.</p>
+<p>"Пожалуйста," — говорит дух, слезы выступают в уголках его глаз. "Вы должны остаться здесь и умереть. Она не примет ничего другого."</p>
+</div>
+
+В духе можно узнать Густава Дёрста. Густав умоляет игроков сдаться, настаивая на том, что дух Элизабет просто слишком силен — слишком страшен — чтобы не подчиниться. @Check[type:perception|dc:14] показывает, что Густав в ужасе от Элизабет — и обременен чувством вины, сомнениями и самоуничижением.
+
+Если игроки пытаются обойти или атаковать Густава, вокруг него возникает рой левитирующих обломков и осколков. Он снова умоляет игроков, настаивая на том, что не хочет с ними сражаться, но не знает, есть ли у него другой выбор.
+
+> [!combat]- **Балансировка Призрачного мага**
+> Это боевое столкновение является **Низким** столкновением против группы из четырех игроков 2-го уровня:
 > 
-> * ***Three Players.*** Reduce Gustav’s HP to 13. Reduce his ***forceful slam*** attack to 6 (3d4-1) force damage and his ***telekinetic thrust*** action’s attack to 3 (1d6) bludgeoning damage.
-> * ***Five Players.*** Reduce Gustav’s HP to 18. Reduce his forceful slam attack to 8 (3d4+1) ***force damage*** and his ***telekinetic thrust*** action’s attack to 4 (1d8) bludgeoning damage.
-> * ***Six Players.*** Increase Gustav’s HP to 26. Increase his ***forceful slam*** attack to 12 (3d6+2) force damage and his ***telekinetic thrust*** action’s attack to 6 (1d12) bludgeoning damage.
+> * ***Три игрока.*** Оставить как есть.
+> * ***Пять игроков.*** Применить шаблон Элитного.
+> * ***Шесть игроков.*** Повысить до 5-го уровня.
 
-The players can convince Gustav to step aside with a successful DC 20 Charisma (Intimidation) check. Alternatively, if the players reference Gustav's history with Elisabeth and Klara, they can convince him to stand aside with a DC 10 Charisma (Persuasion) check, succeeding automatically if they show him empathy or kindness or if they ask Rose and Thorn's spirits to assist them in their plea.
+Игроки могут убедить Густава отойти в сторону, успешно пройдя @Check[type:intimidation|dc:23|traits:action:intimidate]. Альтернативно, если игроки упоминают историю Густава с Элизабет и Кларой, они могут убедить его отойти в сторону, успешно пройдя @Check[type:diplomacy|dc:14|traits:action:diplomacy], автоматически успешно, если они проявляют к нему сочувствие или доброту, или если они просят духов Розы и Шипа помочь им в их просьбе.
 
-If the players successfully persuade Gustav to stand aside, he warns them that "her other servants" are lying in wait ahead to block the players' escape. "Don't fear them," he says. "Their only power is fear." He then vanishes.
+Если игрокам удается убедить Густава отойти в сторону, он предупреждает их, что "ее другие слуги" ждут впереди, чтобы помешать игрокам сбежать. "Не бойтесь их," — говорит он. "Их единственная сила — страх." Затем он исчезает.
 
-***The Cult's Return*** When the players first reach the [[#Family Crypts]] or (if they have previously found and opened the hidden trapdoor described in **32. Hidden Trapdoor**, p. 219) near the [[#Darklord’s Shrine]], the spirits of the cult arise to stop them. Read:
+***Возвращение культа*** Когда игроки впервые достигают [[#Семейные склепы]] или (если они ранее нашли и открыли скрытый люк, описанный в **32. Скрытый люк**, стр. 219) рядом со [[#Святилище Темного Властелина]], духи культа поднимаются, чтобы остановить их. Прочтите:
 
 <div class="description">
-<p>The chanting rises once more as thirteen dark apparitions appear around you, obstructing the way forward—as well as the way back. Each one resembles a black-robed figure holding a torch, but the torch's fire is black and seems to draw light into it. Where you'd expect to see faces are voids. "He is the Ancient!" they chant, over and over. "He is the Land!"</p>
+<p>Пение снова нарастает, когда тринадцать темных видений появляются вокруг вас, преграждая путь вперед — а также путь назад. Каждое из них напоминает фигуру в черном одеянии, держащую факел, но огонь факела черный и, кажется, втягивает в себя свет. Там, где вы ожидаете увидеть лица, — пустота. "Он — Древний!" — скандируют они снова и снова. "Он — Земля!"</p>
 </div>
 
-The apparitions are harmless and intangible figments that can't be damaged, turned, or dispelled. At the end of each round, each player that remains between the apparitions must succeed on a DC 10 Dexterity saving throw or take 2 (1d4) bludgeoning damage from falling debris.
-# A3. Outside Death House
-When the players exit Death House, the storm overhead has slowed to a mere drizzle, and the mists around the house have disappeared. Night has long since fallen, and the waning moon is high in the sky.
+Видения — безвредные и неосязаемые фигменты, которые нельзя повредить, изгнать или развеять. В конце каждого раунда каждый игрок, остающийся между видениями, должен успешно пройти @Check[type:reflex|dc:14|basic:true] или получить @Damage[2d4[bludgeoning]]{2d4 дробящего урона} от падающих обломков.
 
-Most surprisingly, the players now find themselves in a dark forest clearing at the beginning of the <span class="citation">Old Svalich Road (p. 33)</span>, rather than in the streets of Daggerford. The road travels west. To the east lie dark, endless woods filled with the <span class="citation">Mists of Ravenloft (p. 23)</span>.
+# A3. За пределами Дома Смерти
+Когда игроки выходят из Дома Смерти, гроза над головой утихла до легкой мороси, а туман вокруг дома исчез. Давно наступила ночь, и убывающая луна высоко в небе.
 
-The house then collapses into the earth, leaving a dark and bottomless pit behind. If the players still have it, Elisabeth Durst's amber shard then crumbles into dust. The pit vanishes the first time the players depart the clearing.
+Что самое удивительное, игроки теперь оказываются на темной лесной поляне в начале <span class="citation">Старой Свалихской дороги (стр. 33)</span>, а не на улицах Отари. Дорога идет на запад. На востоке лежат темные, бесконечные леса, наполненные <span class="citation">Туманами Равенлофта (стр. 23)</span>.
 
-If they’re still possessing the players, [[Non-Player Characters#Rosavalda "Rose" Durst|Rose]] and [[Non-Player Characters#Thornboldt "Thorn" Durst|Thorn]]’s spirits end their possessions. The children remark that the woods resembles the Svalich Woods, which once surrounded their home—Barovia. However, the children add that these particular woods are unfamiliar to them, and that they seem to be far from their family's original village.
+Затем дом проваливается в землю, оставляя после себя темную и бездонную яму. Если у игроков все еще есть янтарный осколок Элизабет Дёрст, он рассыпается в пыль. Яма исчезает, когда игроки впервые покидают поляну.
 
-As the players explore their surroundings, they can quickly see the top of an old, ruined stone tower poking up through the treetops. The architecture of the tower is as described in <span class="citation">Will-o'-Wisp (p. 33)</span>, but the interior is not desecrated ground, there is no wooden chest on the ground, and there are no **zombies** or **will-o'-wisps** inside or around the tower.
+Если они все еще владеют игроками, духи [[Non-Player Characters#Розавальда "Роза" Дёрст|Розы]] и [[Non-Player Characters#Шипболдт "Шип" Дёрст|Шипа]] прекращают свое владение. Дети замечают, что лес напоминает Свалихский лес, который когда-то окружал их дом — Баровию. Однако дети добавляют, что эти конкретные леса им незнакомы, и что они, кажется, находятся далеко от их родной деревни.
 
-The players can easily surmise that this ruin appears to be a safe place to spend the night. Rose and Thorn offer to serve as sentries while the players rest, watching the woods and awakening the players should any threats emerge.
+Когда игроки исследуют окрестности, они могут быстро увидеть верхушку старой разрушенной каменной башни, выглядывающую из-за верхушек деревьев. Архитектура башни такая, как описано в <span class="citation">Блуждающий огонек (стр. 33)</span>, но внутреннее пространство не является оскверненной землей, на земле нет деревянного сундука, и внутри или вокруг башни нет **зомби** или **блуждающих огоньков**.
 
-The night passes without issue. When the players awaken the following morning, Rose and Thorn ask the players if they can bury their remains before proceeding any further, so that they can finally rest. (The children's spirits will not proceed further into Barovia, instead pleading for the players to allow them to rest.) If the players bury their remains here, the children’s spirits thank them before vanishing.
+Игроки могут легко предположить, что эти руины кажутся безопасным местом для ночлега. Роза и Шип предлагают служить часовыми, пока игроки отдыхают, наблюдая за лесом и пробуждая игроков, если возникнет какая-либо угроза.
 
-The players can find the beginning of the Old Svalich Road a short ways through the woods away from the tower. [[Arc B - Welcome to Barovia]] then begins.
+Ночь проходит без происшествий. Когда игроки просыпаются на следующее утро, Роза и Шип просят игроков похоронить их останки, прежде чем идти дальше, чтобы они наконец могли упокоиться. (Духи детей не пойдут дальше в Баровию, вместо этого умоляя игроков позволить им упокоиться.) Если игроки похоронят их останки здесь, духи детей благодарят их, прежде чем исчезнуть.
 
-**_Milestone_**. Escaping Death House completes a story milestone. When the party begins their first long rest after escaping the house, award each player 400 XP. (This should allow the players to advance to 3rd level.)
-# Design Notes: Death House
-***The Arrival.*** The illusory Rose and Thorn have been intentionally removed from this version of Death House in order to ensure that the players enter the house of their own volition and trust the real Durst children upon meeting them.
+Игроки могут найти начало Старой Свалихской дороги недалеко через лес от башни. Затем начинается [[Act I - Into the Mists/Arc B - Welcome to Barovia]].
 
-The countdown and poem have been added to provide the players with a clear sense of direction and purpose while exploring the house, and to prevent the players from taking a long rest (and therefore disrupting the balance of subsequent combat encounters) while doing so.
+**_Веха_**. Побег из Дома Смерти завершает сюжетную веху. Когда группа начинает свой первый продолжительный отдых после побега из дома, наградите каждого игрока 1000 XP. (Это позволяет игрокам достичь 3-го уровня.)
 
-***The First Floor.*** The feast in the dining room has been made intentionally harmless in order to encourage the players to trust the safety of Strahd's dinner invitation when they later receive it. Additional clues have been added to convey to the players the relationships within the Durst family, including Mr. Durst's affair.
+# Заметки по дизайну: Дом Смерти
+***Прибытие.*** Иллюзорные Роза и Шип были намеренно удалены из этой версии Дома Смерти, чтобы игроки вошли в дом по собственной воле и доверяли настоящим детям Дёрст при встрече с ними.
 
-***The Second Floor.*** Clues have been added to ease the discovery of the library's secret room and to convey the depth of Mr. Durst's affair, as well as the nursemaid's pregnancy.
+Обратный отсчет и стихотворение были добавлены, чтобы дать игрокам четкое ощущение направления и цели при исследовании дома, а также чтобы не позволить игрокам совершить продолжительный отдых (и, следовательно, нарушить баланс последующих боевых столкновений) во время этого.
 
-The dog Lancelot, a popular community character, has been intentionally cut from Death House to avoid providing the players with an easy sacrifice to make at the altar in the ritual chamber—a sacrifice that is no longer functional (because the cult no longer releases the players upon making a sacrifice) and which rings hollow when compared to the campaign that follows it (because Strahd's "hunger" cannot be sated.)
+***Первый этаж.*** Пир в столовой был сделан намеренно безвредным, чтобы побудить игроков доверять безопасности приглашения Страда на ужин, когда они позже его получат. Были добавлены дополнительные подсказки, чтобы передать игрокам отношения внутри семьи Дёрст, включая роман мистера Дёрста.
 
-***The Third Floor.*** The nursemaid's specter now serves as a vital tool that allows the players to find the attic staircase without undue frustration or delay. Additional clues have been added to convey the fate of Walter, Mr. Durst, and the nursemaid.
+***Второй этаж.*** Были добавлены подсказки, чтобы облегчить обнаружение тайной комнаты библиотеки и передать глубину романа мистера Дёрста, а также беременность няни.
 
-***The Attic.*** Clues have been added to convey the nursemaid's fate and the founding of Mrs. Durst's cult.
+Собака Ланселот, популярный персонаж сообщества, была намеренно вырезана из Дома Смерти, чтобы избежать предоставления игрокам легкой жертвы для алтаря в ритуальной комнате — жертвы, которая больше не функциональна (поскольку культ больше не освобождает игроков после принесения жертвы) и которая звучит пусто по сравнению с кампанией, которая следует за ней (поскольку "голод" Страда не может быть утолен).
 
-***The Dungeon.*** Several of the encounters in this area have been changed to reduce the probability of a TPK and to teach the players to act cautiously and make wise decisions. In the ritual chamber, the cult is no longer willing to accept the sacrifice of a beast (e.g., Lancelot), foreshadowing that Strahd will not be content with Ireena alone. The **shambling mound** has been replaced by a two-stage **flesh mound**, whose statistics have been calibrated to provide a challenging fight without risking a TPK.
+***Третий этаж.*** Призрак няни теперь служит важным инструментом, позволяющим игрокам найти лестницу на чердак без излишних разочарований или задержек. Были добавлены дополнительные подсказки, чтобы передать судьбу Уолтера, мистера Дёрста и няни.
 
-***Escape From Death House.*** The original "escape from Death House" sequence has been replaced with a pair of social encounters that reward the players for investigating the history of the house, and which serve to foreshadow the characterizations of Sergi von Zarovich, Lady Fiona Wachter, and Strahd's brides and servants in the adventure to come.
+***Чердак.*** Были добавлены подсказки, чтобы передать судьбу няни и основание культа миссис Дёрст.
 
-The frequent community addition of a skill challenge to escape the house has been removed to ensure a smooth and simple transition from the flesh mound's death to the players' exit from the house, to remove any friction with players who may struggle to learn the mechanics of a new system of gameplay in the heat of the moment, and to preserve the players' immersion in the narrative of the escape, rather than its gameplay.
+***Подземелье.*** Несколько столкновений в этой области были изменены, чтобы уменьшить вероятность полного уничтожения отряда и научить игроков действовать осторожно и принимать мудрые решения. В ритуальной комнате культ больше не готов принять жертву зверя (например, Ланселота), предвещая, что Страд не будет доволен одной только Ириной. **Шаркающая груда** была заменена двухэтапной **плотяной грудой**, чьи характеристики были откалиброваны, чтобы обеспечить сложный бой без риска полного уничтожения отряда.
+	
+***Побег из Дома Смерти.*** Оригинальная последовательность "побега из Дома Смерти" была заменена парой социальных столкновений, которые вознаграждают игроков за исследование истории дома и служат для предвещания характеристик Сергея фон Заровича, леди Фионы Вахтер и невест и слуг Страда в предстоящем приключении.
 
-This guide has intentionally foregone a popular community addition that places a bottle of wine—courtesy of Strahd—at or near the exit of the house. Strahd is not omniscient, and the players' efforts to avoid or foil his spies will prove a recurring aspect of gameplay through the adventure. Moreover, Death House is too far from Barovia proper for Strahd to have obtained and delivered a fresh bottle of wine to its location. A villain is only as evocative as their limitations, and Strahd has many. 
+Частое добавление сообществом испытания навыков для побега из дома было удалено, чтобы обеспечить плавный и простой переход от смерти плотяной груды к выходу игроков из дома, устранить любые трения с игроками, которые могут испытывать трудности с изучением механики новой системы игрового процесса в разгар событий, и сохранить погружение игроков в повествование о побеге, а не в его игровой процесс.
 
-Finally, it is an intentional design choice of this guide that the players do not encounter Strahd directly until their meeting at the River Ivlis Crossroads, which ensures that their relationship with Strahd before then is built solely on rumor, second-hand knowledge, and superstition. Earlier direct exposure would wholly spoil this effect.
+Это руководство намеренно отказалось от популярного добавления сообщества, которое размещает бутылку вина — любезно предоставленную Страдом — у выхода из дома или рядом с ним. Страд не всеведущ, и усилия игроков по избеганию или обману его шпионов станут повторяющимся аспектом игрового процесса на протяжении всего приключения. Более того, Дом Смерти находится слишком далеко от собственно Баровии, чтобы Страд мог получить и доставить свежую бутылку вина в это место. Злодей только так же выразителен, как и его ограничения, а у Страда их много.
+
+Наконец, это преднамеренный выбор дизайна этого руководства, чтобы игроки не встречались со Страдом напрямую до их встречи на перекрестке реки Ивлис, что гарантирует, что их отношения со Страдом до этого момента строятся исключительно на слухах, знаниях из вторых рук и суевериях. Более раннее прямое взаимодействие полностью испортило бы этот эффект.
