@@ -9,11 +9,11 @@
 # Version 2.0.9 (August 29, 2024)
 * Added [[Arc Q - A Shining Beacon]]
 *  Fixed assorted typos & inconsistencies
-* Revised [[История Баровии]] to reflect that Strahd has not yet bitten Ireena and the siege of Barovia is ongoing at the beginning of [[Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]].
-* Added a milestone XP chart in [[Adventure Summary]]
+* Revised [[История Баровии]] to reflect that Strahd has not yet bitten Ireena and the siege of Barovia is ongoing at the beginning of [[Арка B - Добро Пожаловать в Баровию|Арка B - Добро Пожаловать в Баровию]].
+* Added a milestone XP chart in [[Краткое содержание приключения]]
 * Added an additional warning regarding homebrewing or modifications/additions in [[Арка A - Побег из Дома Смерти]]
-* Addressed the possibility of players visiting the church early in [[Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]]
-* Modified the *fire bottles* to use distilled wine in [[Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]]
+* Addressed the possibility of players visiting the church early in [[Арка B - Добро Пожаловать в Баровию|Арка B - Добро Пожаловать в Баровию]]
+* Modified the *fire bottles* to use distilled wine in [[Арка B - Добро Пожаловать в Баровию|Арка B - Добро Пожаловать в Баровию]]
 * Clarified Muriel's behavior during a *speak with animals* spell in [[Arc C - Into the Valley|Arc C - Into the Valley]]
 * Clarified that infected lycanthropes must kill an innocent to embrace the curse in [[Arc C - Into the Valley|Arc C - Into the Valley]]
 * Changed Tatyana from Strahd's "true love" to his "true desire" in [[Arc C - Into the Valley|Arc C - Into the Valley]]
@@ -62,16 +62,16 @@
 * Added milestones and XP to [[Arc P - Ravenloft Heist]]
 # Version 2.0.8.1 (July 19, 2024)
 * Fixed broken links and typos in [[Arc P - Ravenloft Heist]]
-* Added a copy of the deprecated version of [[Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]]
+* Added a copy of the deprecated version of [[Арка B - Добро Пожаловать в Баровию|Арка B - Добро Пожаловать в Баровию]]
 # Version 2.0.8 (July 19, 2024)
 * Added [[Arc P - Ravenloft Heist]]
-* Reworked [[Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]] such that the players now arrive immediately before the night day of Strahd's siege and the first night that Strahd visits Ireena.
+* Reworked [[Арка B - Добро Пожаловать в Баровию|Арка B - Добро Пожаловать в Баровию]] such that the players now arrive immediately before the night day of Strahd's siege and the first night that Strahd visits Ireena.
 * Added additional artwork by artist [Caleb Cleveland](https://www.patreon.com/calebisdrawing/posts).
 * Added an additional line regarding creature alignments to the campaign contract in [[Нулевая сессия]]
-* Updated Strahd's goals in [[Strahd von Zarovich]] to note that Strahd requires a scapegoat sacrifice (i.e., Rahadin) to escape during the Grand Conjunction
+* Updated Strahd's goals in [[Страд фон Зарович]] to note that Strahd requires a scapegoat sacrifice (i.e., Rahadin) to escape during the Grand Conjunction
 * Revised the flesh mound's second phase in [[Арка A - Побег из Дома Смерти]] to allow for an automatic critical hit against the mound when its ***innocent heart*** is damaged.
-* Replaced Madam Eva's invitation in [[Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]] with a request by Ismark Kolyanovich for the players to seek Eva's guidance on how to defeat Strahd
-* Moved the March of the Dead from [[Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]] to [[Arc C - Into the Valley|Arc C - Into the Valley]]
+* Replaced Madam Eva's invitation in [[Арка B - Добро Пожаловать в Баровию|Арка B - Добро Пожаловать в Баровию]] with a request by Ismark Kolyanovich for the players to seek Eva's guidance on how to defeat Strahd
+* Moved the March of the Dead from [[Арка B - Добро Пожаловать в Баровию|Арка B - Добро Пожаловать в Баровию]] to [[Arc C - Into the Valley|Arc C - Into the Valley]]
 * Added an extended sequence involving Strahd's spy and the March of the Dead before the Tarokka reading in [[Arc C - Into the Valley|Arc C - Into the Valley]]
 * Added information regarding the players' ability to ambush the vampire spawn before retrieving the bones in [[Arc D - St. Andral's Feast]]
 * Gave Volenta a smoke bomb escape reaction in [[Arc D - St. Andral's Feast]]
@@ -131,17 +131,17 @@
 * Added projected completion date and Google Forms feedback form to Under Construction box
 * Updated Acknowledgments
 
-[[Lore of Barovia]]
+[[Лор Баровии]]
 * Removed reference to devil worship by Lady Wachter's cult
 
 [[История Баровии]]
 * Added additional backstory to Khazan, the Radanavich family, and Rudolph van Ricten's revenge against the Radanaviches.
 
-[[Strahd von Zarovich]]
+[[Страд фон Зарович]]
 * Gave Strahd Insight proficiency
 * Clarified ***fog bank*** does not block sunlight
 
-[[Running the Adventure]]
+[[Ведение приключения]]
 * Removed the Wachter **cultist** from the list of Strahd's spies
 
 [[Act I Summary]], [[Act II Summary]], [[Act III Summary]]
@@ -154,7 +154,7 @@
 * Strengthened the **flesh mound** and added additional dynamic mechanics
 * Modified **shadow** damage resistances
 
-[[Arc B - Welcome to Barovia]]
+[[Арка B - Добро Пожаловать в Баровию]]
 * Gave Doru vampire lore to share
 
 [[Arc C - Into the Valley]]
@@ -279,7 +279,7 @@
 * Added Campaign Contract in [[Нулевая сессия]]
 * Added information regarding the Devourer and Strahd's intentions for Ireena to [[История Баровии]]
 * Modified Izek's history such that he obtained the *amber shard* immediately prior to the **dire wolf** attack that took his arm in [[История Баровии]]
-* Removed an excess skill proficiency from Ireena's sidekick statblock in [[Arc B - Welcome to Barovia]]
+* Removed an excess skill proficiency from Ireena's sidekick statblock in [[Арка B - Добро Пожаловать в Баровию]]
 * Added NPC profile for Morgantha in [[Arc C - Into the Valley]]
 * Added a justification for Father Petrovich's presence by the Blue Water Inn in [[Arc C - Into the Valley]]
 * Clarified the absence of real sunlight in Barovia during the fight with Volenta in [[Arc D - St. Andral's Feast]]
@@ -299,7 +299,7 @@
 * Added [[Glossary
 # Hotfix 2.0.5.5 (Jan. 18, 2024)
 • Fixed assorted typos & inconsistencies  
-• Clarified the location of the Sunsword and Tome of Strahd in [[Running the Adventure]]  
+• Clarified the location of the Sunsword and Tome of Strahd in [[Ведение приключения]]  
 • Removed language in [[Arc D - St. Andral's Feast]] indicating Milivoj doesn't come into work on the morning the PCs arrive.  
 • Gave Rahadin proficiency in Acrobatics, reduced the cost of his ***disarm*** reaction to 1 reaction, and modified Rahadin's **bleeding** status condition to be cured by magical healing  
 • Defined "bloodied" in [[Arc H - The Lost Soul]]  
@@ -350,7 +350,7 @@
 * Made Waltz for Klara open the first half of the secret door in the library  
 * Removed the deed from the chest in the secret room and moved the will to Gustav's desk in the library.  
 
-**[[Arc B - Welcome to Barovia]]**
+**[[Арка B - Добро Пожаловать в Баровию]]**
 * Decreased Dalvan's tally marks to thirteen  
 * Clarified the behavior of Dalvan's compass  
 * Delayed the players' arrival in the village of Barovia to dusk  
@@ -473,7 +473,7 @@
 * Confirmed the XP earned for escaping Death House and burying Kolyan to be 400 XP each.
 * Fixed assorted typos and minor omissions.
 # Version 2.0.2 (Jun. 23, 2023)
-* Added [[Arc B - Welcome to Barovia]]
+* Added [[Арка B - Добро Пожаловать в Баровию]]
 * Updated cover page font.
 * Revised and expanded the Strahd's Return segment in the History of Barovia, adding The Darkened Valley and The Wrath of Strahd as additional segments.
 * Moved the Inhabitants of Barovia section to a new appendix at the end of the guide.

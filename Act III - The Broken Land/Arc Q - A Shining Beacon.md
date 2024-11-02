@@ -377,7 +377,7 @@ A player who asks the Abbot or succeeds in a DC 13 Wisdom (Insight) check learns
 If confronted, the Abbot replies, his voice quavering: “It is too late. I have betrayed my purpose and discarded my grace. I cannot find my way back into the light—and the Morninglord would not have me if I could."
 
 > [!lore]+ **Dark Whispers**
-> The whispering shadows are a manifestation of the [[Lore of Barovia#Dark Powers|Dark Powers]], which lured the Abbot’s spirit into evil long ago to prevent him from challenging Strahd or healing the land of its corruption.
+> The whispering shadows are a manifestation of the [[Лор Баровии#Dark Powers|Dark Powers]], which lured the Abbot’s spirit into evil long ago to prevent him from challenging Strahd or healing the land of its corruption.
 
 As the Abbot finishes his protest, any player with a passive Wisdom (Perception) score of 10 or greater sees a nearby cloud of mist—a short distance from the first—briefly rises to form the shape of a robed female silhouette before it is torn apart by swirling shadows. A player with a passive Wisdom (Perception) score of 13 or greater discerns that it appeared to be reaching a hand toward the players, and that it appeared to be calling out. A player who saw the face and succeeds on a DC 13 Wisdom (Insight) check discerns that it bore an expression of grief and concern.
 

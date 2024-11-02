@@ -83,16 +83,16 @@ You can [[Using This Guide|click here]] to learn how to use and read this guide.
 [[Нулевая сессия]]. Setting expectations and clarifying player triggers.
 [[Создание персонажа]]. Developing character bonds, flaws, and motivations.
 ## Chapter 2 - The Land of Barovia
-[[Lore of Barovia]]. A compendium of the magic, geography, culture, factions, and religions of Barovia.
+[[Лор Баровии]]. A compendium of the magic, geography, culture, factions, and religions of Barovia.
 [[История Баровии]]. A narrative history of Barovia and the Von Zarovich family.
-[[Strahd von Zarovich]]. A guide to Strahd's personality, relationships, goals, allies, and tactics.
+[[Страд фон Зарович]]. A guide to Strahd's personality, relationships, goals, allies, and tactics.
 ## Chapter 3 - Running the Game
-[[Adventure Summary]]. Summaries of the campaign's six narrative acts.
-[[Running the Adventure]]. A guide to reading—and running—this guide.
+[[Краткое содержание приключения]]. Summaries of the campaign's six narrative acts.
+[[Ведение приключения]]. A guide to reading—and running—this guide.
 ## Act I - Into the Mists
 [[Act I Summary]]. A summary of the players' first passage into Barovia.
 [[Арка A - Побег из Дома Смерти]]. The players are lured into a haunted house and must escape before a ravenous evil awakens.
-[[Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]]. The players arrive in the Village of Barovia amidst an ongoing siege and must defend themselves and their new friends from Strahd's undead legions.
+[[Арка B - Добро Пожаловать в Баровию|Арка B - Добро Пожаловать в Баровию]]. The players arrive in the Village of Barovia amidst an ongoing siege and must defend themselves and their new friends from Strahd's undead legions.
 [[Arc C - Into the Valley|Arc C - Into the Valley]]. The players venture forth to the Town of Vallaki, receiving a mysterious fortunetelling and facing trials and tribulations along the way.
 ## Act II - The Shadowed Town
 [[Act II Summary]]. A summary of the players' adventures in the town of Vallaki.
