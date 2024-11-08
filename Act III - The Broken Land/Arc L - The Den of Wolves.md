@@ -9,7 +9,7 @@ There, the players meet Zuleika Krezkova—a **werewolf** cleric of Mother Night
 The players can locate the werewolves’ den in one of two ways:
 
 * They can recruit the monster hunter Ezmerelda d’Avenir to their cause in [[Arc K - The Fallen Abbey]]. (After tracking Ilya Krezkov and the werewolf pack for the past several days, Ezmerelda strongly suspects that Ilya is a captive within the den.) Upon joining the players, Ezmerelda asks them to aid her in investigating the werewolves' den the following day.
-* They can use the _suggestion_ spell or similar magic to compel the werewolves in [[Arc C - Into the Valley|Arc C - Into the Valley]] or [[Arc E - The Missing Vistana]] to lead them to the den.
+* They can use the _suggestion_ spell or similar magic to compel the werewolves in [[Арка C - В Долину|Арка C - В Долину]] or [[Arc E - The Missing Vistana]] to lead them to the den.
 
 In the former case, before she leads the players to the den, Ezmerelda proposes the following plan:
 

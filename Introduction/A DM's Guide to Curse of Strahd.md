@@ -93,7 +93,7 @@ You can [[Using This Guide|click here]] to learn how to use and read this guide.
 [[Act I Summary]]. A summary of the players' first passage into Barovia.
 [[Арка A - Побег из Дома Смерти]]. The players are lured into a haunted house and must escape before a ravenous evil awakens.
 [[Арка B - Добро Пожаловать в Баровию|Арка B - Добро Пожаловать в Баровию]]. The players arrive in the Village of Barovia amidst an ongoing siege and must defend themselves and their new friends from Strahd's undead legions.
-[[Arc C - Into the Valley|Arc C - Into the Valley]]. The players venture forth to the Town of Vallaki, receiving a mysterious fortunetelling and facing trials and tribulations along the way.
+[[Арка C - В Долину|Арка C - В Долину]]. The players venture forth to the Town of Vallaki, receiving a mysterious fortunetelling and facing trials and tribulations along the way.
 ## Act II - The Shadowed Town
 [[Act II Summary]]. A summary of the players' adventures in the town of Vallaki.
 [[Arc D - St. Andral's Feast]]. The players investigate a theft of sacred bones from Vallaki's church.

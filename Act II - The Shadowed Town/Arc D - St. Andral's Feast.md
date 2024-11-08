@@ -10,11 +10,11 @@ The players have until the night of their fifth day after arriving in Vallaki to
 Can the players defeat Volenta's plan and restore the church's protection? Or will the church be lost in darkness and blood, its flickering light snuffed out in the shadows?
 
 > [!abstract]+ **An Early Start**
-> If the players bring Ireena to St. Andral's Church on their first night in Vallaki (i.e., "day zero" in Vallaki), they arrive to find Father Lucian finishing a service to his congregation. After giving reassurances to Wilemina Rikalova (see [[Arc C - Into the Valley#Exiting the Inn|Arc C - Into the Valley]] for more information about Wilemina), Father Lucian welcomes the players and Ireena to the church and offers his assistance.
+> If the players bring Ireena to St. Andral's Church on their first night in Vallaki (i.e., "day zero" in Vallaki), they arrive to find Father Lucian finishing a service to his congregation. After giving reassurances to Wilemina Rikalova (see [[Арка C - В Долину#Exiting the Inn|Arc C - Into the Valley]] for more information about Wilemina), Father Lucian welcomes the players and Ireena to the church and offers his assistance.
 > 
 > If told that Ireena hopes to find sanctuary at the church, Father Lucian is glad to offer her a pallet to sleep on in the chapel. After Ireena offers to compensate him for his kindness, Father Lucian considers her request, then invites her to assist with Yeska's chores and education for the duration of her stay—a request which Ireena graciously accepts.
 > 
-> The following morning, after St. Andral's bones are stolen as described below, Ireena visits the players at the Blue Water Inn before their conversation with Urwin Martikov described in [[Arc C - Into the Valley#Urwin's Advice|Arc C - Into the Valley]] and asks them to visit the church to speak with Father Lucian about an "incident." (Father Lucian has asked her not to speak of the incident outside of the church, for fear of raising a panic.) The remainder of this arc then proceeds normally.
+> The following morning, after St. Andral's bones are stolen as described below, Ireena visits the players at the Blue Water Inn before their conversation with Urwin Martikov described in [[Арка C - В Долину#Urwin's Advice|Arc C - Into the Valley]] and asks them to visit the church to speak with Father Lucian about an "incident." (Father Lucian has asked her not to speak of the incident outside of the church, for fear of raising a panic.) The remainder of this arc then proceeds normally.
 # D1. St. Andral's Church
 <span class="citation"><em>This scene takes place in Chapter 5: Area N1.</em></span>
 

@@ -122,7 +122,7 @@ If the players aid them in securing entry to Vallaki, Doru and Donavich are deep
 ## O3b. The Rider’s Guidance
 The journey from Vallaki to <span class="citation">I. Black Carriage (p. 37)</span> is eight and one-quarter miles long and takes two hours and forty-five minutes.
 
-Approximately one-quarter mile and five minutes before the players reach the western <span class="citation">B. Gates of Barovia (p. 33)</span>, if they didn’t kill the <span class="citation">Skeletal Rider (p. 31)</span> in [[Arc C - Into the Valley]], they encounter it once again. Read:
+Approximately one-quarter mile and five minutes before the players reach the western <span class="citation">B. Gates of Barovia (p. 33)</span>, if they didn’t kill the <span class="citation">Skeletal Rider (p. 31)</span> in [[Арка C - В Долину]], they encounter it once again. Read:
 
 <div class="description">
 <p>The Old Svalich Road takes you eastward, briefly touching the southern shore of Lake Zarovich before bending around a craggy mountain spur. Not long after departing the promontory where the old windmill stands, the road plunges back into a dark, gloomy wood cloistered between two mountain peaks.</p>
@@ -315,7 +315,7 @@ In addition, revise this area’s description as follows as Rahadin leads the pl
 <p>Twenty feet inside the castle is a second set of doors, manned by two figures. To the left stands a handsome young man with long, blond hair, his soft features sharpened by a frozen smile. To the right, a pale-skinned woman in an old wedding gown stands stiffly. Her hair, as black as a raven’s feathers, cascades over her shoulders, and her lips are pulled daintily back to reveal two, fine-pointed fangs. As you approach, both bow deeply to Rahadin—the man with a cat’s mocking grace, the woman with a jerking, guarded motion—and step aside to pull open the doors for your passage.</p>
 </div>
 
-The players recognize the man as Escher, Strahd’s **vampire spawn** consort, who they previously met in [[Arc C - Into the Valley]]. The woman is Sasha Ivliskova, a **vampire spawn** and Strahd’s eldest vampiric bride.
+The players recognize the man as Escher, Strahd’s **vampire spawn** consort, who they previously met in [[Арка C - В Долину]]. The woman is Sasha Ivliskova, a **vampire spawn** and Strahd’s eldest vampiric bride.
 
 ![[Escher.png]]
 <span class="credit">"Escher" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>

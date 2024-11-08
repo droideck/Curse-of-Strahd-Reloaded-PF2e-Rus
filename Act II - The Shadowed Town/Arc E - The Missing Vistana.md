@@ -16,7 +16,7 @@ If the players return to Vallaki, confront Rictavio, and persuade him that they�
 
 > [!lore]+ **Strahd’s Bounty**
 >
-> When Strahd received Madam Eva’s [[Arc C - Into the Valley#C8. Black Carriage|most recent fortelling]], he learned that he could not control the raw power of the Fanes without a token of the *Rozana’s* divinity. Strahd also learned of two means by which he could obtain such a token: by sacrificing a memento of his past at the Whispering Wall by Yester Hill, or by securing a mortal descendant who bore a divine spark of the Ladies Three themselves. Strahd’s preference is, of course, the latter.
+> When Strahd received Madam Eva’s [[Арка C - В Долину#C8. Black Carriage|most recent fortelling]], he learned that he could not control the raw power of the Fanes without a token of the *Rozana’s* divinity. Strahd also learned of two means by which he could obtain such a token: by sacrificing a memento of his past at the Whispering Wall by Yester Hill, or by securing a mortal descendant who bore a divine spark of the Ladies Three themselves. Strahd’s preference is, of course, the latter.
 >
 > Strahd knows that a descendant of one of the Ladies lives somewhere in the valley, and knows which signs will lead him to them. To this end, he has dispatched his spies across Barovia in search of them. Though Strahd doesn’t know it, his cupbearer and most recent consort—the **vampire spawn** Escher—has taken it upon himself to pursue the descendant as well.
 > 
@@ -58,7 +58,7 @@ If the players return to Vallaki, confront Rictavio, and persuade him that they�
 # E1. Blinsky Toys
 <span class="citation"><em>This scene takes place in Chapter 5: Area N7.</em></span>
 
-After receiving Madam Eva’s request in [[Arc C - Into the Valley]] to purchase and deliver a toy for her great grand-niece, Arabelle, the players can get directions to Vallaki’s local toy shop, Blinsky Toys, by asking Urwin Martikov, Danika Dorakova, or most native Vallakians for directions. Blinsky Toys can now be found on the northern edge of Vallaki's town square, which is as described in <span class="citation">N8. Town Square (p. 119)</span>.
+After receiving Madam Eva’s request in [[Арка C - В Долину]] to purchase and deliver a toy for her great grand-niece, Arabelle, the players can get directions to Vallaki’s local toy shop, Blinsky Toys, by asking Urwin Martikov, Danika Dorakova, or most native Vallakians for directions. Blinsky Toys can now be found on the northern edge of Vallaki's town square, which is as described in <span class="citation">N8. Town Square (p. 119)</span>.
 
 > [!profile]+ **Profile: Gadof Blinsky**
 >
@@ -663,7 +663,7 @@ If read, the burned journal page now reads only as follows:
 <p>In truth, this "virtuous" calling began as an obsessive effort to destroy a vampire that murdered my child, and it has become for me a tedious and bleak career. Even as my life of hunting monsters began, I felt the weight of time on my weary shoulders. Today I am a man who has simply lived too long. Like a regretful lich, I find myself inexorably bound to an existence I sought out of madness and, seemingly, must now endure for all eternity. Of course I shall die, but whether I shall ever rest in my grave haunts my idle thoughts, and torments me in my dreams.</p>
 </div>
 
-The handwriting matches the handwriting of the excerpt of *Van Richten's Guide to Vampires* found in [[Арка B - Добро Пожаловать в Баровию#Settling In|Arc B - Welcome to Barovia]] and the manuscript on werewolves obtained in [[Arc C - Into the Valley#C4d. The Dancing Fire|Arc C - Into the Valley]]. The remainder of the text is unreadable—scorched by heat or burned away to ash.
+The handwriting matches the handwriting of the excerpt of *Van Richten's Guide to Vampires* found in [[Арка B - Добро Пожаловать в Баровию#Settling In|Arc B - Welcome to Barovia]] and the manuscript on werewolves obtained in [[Арка C - В Долину#C4d. The Dancing Fire|Arc C - Into the Valley]]. The remainder of the text is unreadable—scorched by heat or burned away to ash.
 # E7. The Road Back
 The players’ activities at Lake Baratok attract the attention of a pair of **werewolves**, who lurk in the woods east of the lake, silently waiting for the players to return to the road.
 
@@ -757,7 +757,7 @@ In battle, the werewolves prioritize players wielding silvered weapons, if any. 
 The players experience no other encounters on their journey to Vallaki.
 
 > [!info]+ **The Curse of Lycanthropy**
-> If a player is infected with lycanthropy, see the **Lycanthropy in Barovia** infobox in [[Arc C - Into the Valley#C11. The Werewolf's Hunt|Arc C - Into the Valley]] for more information about the curse.
+> If a player is infected with lycanthropy, see the **Lycanthropy in Barovia** infobox in [[Арка C - В Долину#C11. The Werewolf's Hunt|Arc C - Into the Valley]] for more information about the curse.
 # E8. Return to Vallaki
 The players' return to Vallaki from Lake Baratok is three and one-quarter miles long and takes approximately one hour.
 

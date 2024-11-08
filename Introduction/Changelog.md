@@ -14,17 +14,17 @@
 * Added an additional warning regarding homebrewing or modifications/additions in [[Арка A - Побег из Дома Смерти]]
 * Addressed the possibility of players visiting the church early in [[Арка B - Добро Пожаловать в Баровию|Арка B - Добро Пожаловать в Баровию]]
 * Modified the *fire bottles* to use distilled wine in [[Арка B - Добро Пожаловать в Баровию|Арка B - Добро Пожаловать в Баровию]]
-* Clarified Muriel's behavior during a *speak with animals* spell in [[Arc C - Into the Valley|Arc C - Into the Valley]]
-* Clarified that infected lycanthropes must kill an innocent to embrace the curse in [[Arc C - Into the Valley|Arc C - Into the Valley]]
-* Changed Tatyana from Strahd's "true love" to his "true desire" in [[Arc C - Into the Valley|Arc C - Into the Valley]]
-* Fixed Kerez and Korga not recognizing the players in [[Arc C - Into the Valley|Arc C - Into the Valley]]
-* Moved the Tarokka reading to the Ivlis River Crossroad and removed Madam Eva's teleportation in [[Arc C - Into the Valley|Arc C - Into the Valley]]
-* Clarified that the strix doesn't target Muriel in [[Arc C - Into the Valley|Arc C - Into the Valley]]
-* Added a response for Strahd if the players ask to be released from Barovia in [[Arc C - Into the Valley|Arc C - Into the Valley]]
-* Modified Madam Eva's reading regarding the *Tome of Strahd* in [[Arc C - Into the Valley|Arc C - Into the Valley]] to prevent players from mistaking the skeletal rider for the "wandering soul" in her foretelling
-* Added an additional **wolf** encounter in [[Arc C - Into the Valley|Arc C - Into the Valley]] and revised the **wolf** statblock
-* Replaced some wolves in the Werewolf's Hunt encounter in [[Arc C - Into the Valley|Arc C - Into the Valley]]with an additional werewolf
-* Clarified in [[Arc C - Into the Valley|Arc C - Into the Valley]] that the werewolf pack did not hunt humans before Kiril's rise to power
+* Clarified Muriel's behavior during a *speak with animals* spell in [[Арка C - В Долину|Арка C - В Долину]]
+* Clarified that infected lycanthropes must kill an innocent to embrace the curse in [[Арка C - В Долину|Арка C - В Долину]]
+* Changed Tatyana from Strahd's "true love" to his "true desire" in [[Арка C - В Долину|Арка C - В Долину]]
+* Fixed Kerez and Korga not recognizing the players in [[Арка C - В Долину|Арка C - В Долину]]
+* Moved the Tarokka reading to the Ivlis River Crossroad and removed Madam Eva's teleportation in [[Арка C - В Долину|Арка C - В Долину]]
+* Clarified that the strix doesn't target Muriel in [[Арка C - В Долину|Арка C - В Долину]]
+* Added a response for Strahd if the players ask to be released from Barovia in [[Арка C - В Долину|Арка C - В Долину]]
+* Modified Madam Eva's reading regarding the *Tome of Strahd* in [[Арка C - В Долину|Арка C - В Долину]] to prevent players from mistaking the skeletal rider for the "wandering soul" in her foretelling
+* Added an additional **wolf** encounter in [[Арка C - В Долину|Арка C - В Долину]] and revised the **wolf** statblock
+* Replaced some wolves in the Werewolf's Hunt encounter in [[Арка C - В Долину|Арка C - В Долину]]with an additional werewolf
+* Clarified in [[Арка C - В Долину|Арка C - В Долину]] that the werewolf pack did not hunt humans before Kiril's rise to power
 * Clarified that Ezmerelda's map of Barovia doesn't mark locations other than settlements in [[Arc E - The Missing Vistana]]
 * Added an NPC profile for Van Richten in [[Arc E - The Missing Vistana]]
 * Explained how Van Richten responds if the players attempt to recruit him in [[Arc E - The Missing Vistana]]
@@ -71,8 +71,8 @@
 * Updated Strahd's goals in [[Страд фон Зарович]] to note that Strahd requires a scapegoat sacrifice (i.e., Rahadin) to escape during the Grand Conjunction
 * Revised the flesh mound's second phase in [[Арка A - Побег из Дома Смерти]] to allow for an automatic critical hit against the mound when its ***innocent heart*** is damaged.
 * Replaced Madam Eva's invitation in [[Арка B - Добро Пожаловать в Баровию|Арка B - Добро Пожаловать в Баровию]] with a request by Ismark Kolyanovich for the players to seek Eva's guidance on how to defeat Strahd
-* Moved the March of the Dead from [[Арка B - Добро Пожаловать в Баровию|Арка B - Добро Пожаловать в Баровию]] to [[Arc C - Into the Valley|Arc C - Into the Valley]]
-* Added an extended sequence involving Strahd's spy and the March of the Dead before the Tarokka reading in [[Arc C - Into the Valley|Arc C - Into the Valley]]
+* Moved the March of the Dead from [[Арка B - Добро Пожаловать в Баровию|Арка B - Добро Пожаловать в Баровию]] to [[Арка C - В Долину|Арка C - В Долину]]
+* Added an extended sequence involving Strahd's spy and the March of the Dead before the Tarokka reading in [[Арка C - В Долину|Арка C - В Долину]]
 * Added information regarding the players' ability to ambush the vampire spawn before retrieving the bones in [[Arc D - St. Andral's Feast]]
 * Gave Volenta a smoke bomb escape reaction in [[Arc D - St. Andral's Feast]]
 * Added information regarding their potential banishment from Vallaki if they alienate Baron Vallakovich in [[Arc E - The Missing Vistana]]
@@ -109,7 +109,7 @@
 * Changed the Flesh Mound's engulf to an action and added a new **rupture*** bonus action to the mound's first phase in [[Арка A - Побег из Дома Смерти]]
 * Clarified the removal of the vials of alchemist's fire from Ezmerelda's wagon in [[Arc E - The Missing Vistana]]
 ## Hotfix 2.0.7.2 (Apr. 15, 2024)
-* Rolled back an unfinished/discarded rework of the old Watchtower in [[Arc C - Into the Valley]]
+* Rolled back an unfinished/discarded rework of the old Watchtower in [[Арка C - В Долину]]
 * Added artwork of Vladimir Horngaard in [[Arc M - The Dragon's Manor]]
 ## Hotfix 2.0.7.1 (Apr. 12, 2024)
 * Increased the XP earned for defeating Izek in [[Arc F - Lady Wachter's Wish]] and/or [[Arc G - The Strazni Siblings]]
@@ -157,7 +157,7 @@
 [[Арка B - Добро Пожаловать в Баровию]]
 * Gave Doru vampire lore to share
 
-[[Arc C - Into the Valley]]
+[[Арка C - В Долину]]
 * Made Eva's request regarding Arabelle more urgent and enticing
 * Added additional information about werewolf lycanthropy
 * Added box notifying DMs regarding absence of random encounters
@@ -268,7 +268,7 @@
 * Added footnotes referencing intentional homages/inspirations in [[Arc J - The Stolen Gem]] (Ludmilla's speech to Muriel) and [[Arc M - The Dragon's Manor]] (Brother Marek's speech to the players).
 # Hotfix 2.0.6.2 (Feb. 1, 2024)
 * Updated table of contents to include [[Arc L - The Den of Wolves]] and [[Arc M - The Dragon's Manor]].
-* Added Muriel's relaying of Strahd's Tarokka reading from [[Arc C - Into the Valley]] at the end of [[Arc J - The Stolen Gem]]
+* Added Muriel's relaying of Strahd's Tarokka reading from [[Арка C - В Долину]] at the end of [[Arc J - The Stolen Gem]]
 # Hotfix 2.0.6.1 (Jan. 31, 2024)
 * Delayed Ezmerelda's request to investigate the werewolf den in [[Arc L - The Den of Wolves]] to one day after she first meets the players in [[Arc K - The Fallen Abbey]]
 * Corrected the travel time from the Old Svalich Road to Argynvostholt in [[Arc M - The Dragon's Manor]]
@@ -280,8 +280,8 @@
 * Added information regarding the Devourer and Strahd's intentions for Ireena to [[История Баровии]]
 * Modified Izek's history such that he obtained the *amber shard* immediately prior to the **dire wolf** attack that took his arm in [[История Баровии]]
 * Removed an excess skill proficiency from Ireena's sidekick statblock in [[Арка B - Добро Пожаловать в Баровию]]
-* Added NPC profile for Morgantha in [[Arc C - Into the Valley]]
-* Added a justification for Father Petrovich's presence by the Blue Water Inn in [[Arc C - Into the Valley]]
+* Added NPC profile for Morgantha in [[Арка C - В Долину]]
+* Added a justification for Father Petrovich's presence by the Blue Water Inn in [[Арка C - В Долину]]
 * Clarified the absence of real sunlight in Barovia during the fight with Volenta in [[Arc D - St. Andral's Feast]]
 * Transferred information regarding the *Tome of Strahd* from the deprecated [[Arc D - The Tome of Strahd]] to [[Arc H - The Lost Soul]]
 * Modified Rahadin's trial in [[Arc D - St. Andral's Feast]] to discourage players from attacking Rahadin
@@ -327,7 +327,7 @@
 * Fixed assorted typos
 * Removed Muriel's reference to Kavan as "Blood-Drinker" in [[Arc J - The Stolen Gem]].
 * Revised Strahd's wager at Yester Hill in [[Arc J - The Stolen Gem]] to use player-offered collateral, rather than the players' lives.
-* Removed information about embracing a werewolf's curse from Van Richten's manuscript in [[Arc C - Into the Valley]]
+* Removed information about embracing a werewolf's curse from Van Richten's manuscript in [[Арка C - В Долину]]
 # Version 2.0.5 (Dec. 13, 2023)
 **General Changes**
 * Changed unique monster spells to use in-line "lambda" spellcasting formatting  
@@ -364,7 +364,7 @@
 * Clarified that Doru doesn't fight in self-defense  
 * Clarified the point at which the players learn the identity of the vampire who bit Ireena  
 
-**[[Arc C - Into the Valley]]**
+**[[Арка C - В Долину]]**
 * Rebalanced the **zombie plague spreader** to avoid nova turns  
 * Removed Escher's scar  
 * Revised the consequences for disrespect toward Strahd  
@@ -456,7 +456,7 @@
 * moved the Tome of Strahd in Vallakovich mansion to Victor’s workroom
 * fixed assorted typos
 # Version 2.0.3 (Jul. 10, 2023)
-* Added [[Arc C - Into the Valley]]
+* Added [[Арка C - В Долину]]
 * Moved Van Richten’s weapon cache further southwest down the Old Svalich Road.
 * Added an “Ireena Joins the Party” sidebar presenting Ireena as a sidekick member of the party.
 * Moved the Huntress’s Forest Fane to Yester Hill and the Seeker’s Mountain Fane to Old Bonegrinder.
