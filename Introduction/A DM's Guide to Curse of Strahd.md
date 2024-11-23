@@ -95,19 +95,19 @@ You can [[Using This Guide|click here]] to learn how to use and read this guide.
 [[Арка B - Добро Пожаловать в Баровию|Арка B - Добро Пожаловать в Баровию]]. The players arrive in the Village of Barovia amidst an ongoing siege and must defend themselves and their new friends from Strahd's undead legions.
 [[Арка C - В Долину|Арка C - В Долину]]. The players venture forth to the Town of Vallaki, receiving a mysterious fortunetelling and facing trials and tribulations along the way.
 ## Act II - The Shadowed Town
-[[Act II Summary]]. A summary of the players' adventures in the town of Vallaki.
-[[Arc D - St. Andral's Feast]]. The players investigate a theft of sacred bones from Vallaki's church.
-[[Arc E - The Missing Vistana]]. The players follow the trail of a kidnapped Vistani across western Barovia. 
-[[Arc F - Lady Wachter's Wish]]. The players are invited to join a dangerous conspiracy to overthrow Vallaki's burgomaster.
-[[Arc G - The Strazni Siblings]]. The players encounter the dark dreams of Vallaki's Captain of the Guard.
-[[Arc H - The Lost Soul]]. The players help the children of two feuding noble houses stage a daring ghostly rescue.
-[[Arc I - The Walls of Krezk]]. The players journey to the ruins of Berez to earn passage to the village of Krezk.
+[[Акт II - Краткое содержание]]. A summary of the players' adventures in the town of Vallaki.
+[[Арка D - Пир Св. Андрала]]. The players investigate a theft of sacred bones from Vallaki's church.
+[[Арка E - Пропавшая вистана]]. The players follow the trail of a kidnapped Vistani across western Barovia. 
+[[Арка F - Желание Леди Вахтер]]. The players are invited to join a dangerous conspiracy to overthrow Vallaki's burgomaster.
+[[Арка G - Брат и сестра Стражни]]. The players encounter the dark dreams of Vallaki's Captain of the Guard.
+[[Акт II - Город в Тенях/Арка H - Потерянная душа]]. The players help the children of two feuding noble houses stage a daring ghostly rescue.
+[[Арка I - Стены Крезка]]. The players journey to the ruins of Berez to earn passage to the village of Krezk.
 ## Act III - The Broken Land
 [[Act III Summary]]. A summary of the players' adventures across the broader Barovian valley.
 [[Arc J - The Stolen Gem]]. The players fend off a druidic tribe causing trouble for the Wizard of Wines winery.
-[[Arc K - The Fallen Abbey]]. The players recruit a new ally and restore the Abbot's tainted divinity.
+[[Арка K - Падшее аббатство]]. The players recruit a new ally and restore the Abbot's tainted divinity.
 [[Arc L - The Den of Wolves]]. The players stake out and infiltrate a den of werewolves.
-[[Arc M - The Dragon's Manor]]. The players investigate a haunted manor and unearth the message of the silver dragon Argynvost.
+[[Арка M - Поместье Дракона]]. The players investigate a haunted manor and unearth the message of the silver dragon Argynvost.
 [[Arc N - Tales of Vallaki]]. Coming soon.
 [[Arc O - Dinner with the Devil]]. The players dine with Strahd and his court at Castle Ravenloft.
 [[Arc P - Ravenloft Heist]]. The players raid Castle Ravenloft while Strahd is away.

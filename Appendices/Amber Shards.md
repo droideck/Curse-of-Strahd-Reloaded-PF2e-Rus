@@ -5,7 +5,7 @@ Though they don't carry the full essence of the vestiges, each amber shard bears
 > [!info]+ **Finding Amber Shards**
 > The players have an opportunity to obtain an amber shard:
 > * during [[Создание персонажа]]
-> * after defeating Izek Strazni in [[Arc F - Lady Wachter's Wish]] / [[Arc G - The Strazni Siblings]] (see [[#Seriach, the Hell Hound Whisperer]])
+> * after defeating Izek Strazni in [[Арка F - Желание Леди Вахтер]] / [[Арка G - Брат и сестра Стражни]] (see [[#Seriach, the Hell Hound Whisperer]])
 > * after raiding the Castle Ravenloft treasury in [[Arc P - Ravenloft Heist]] (see [[#Great Taar Haak, the Five-Headed Destroyer]])
 > 
 > You should not, however, add additional shards for the players to obtain.
