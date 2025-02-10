@@ -8,13 +8,13 @@ _Приключение для четырёх персонажей 5-го уро
 
 > [!abstract]+ **Просьба Леди Вахтер**
 > Если игроки убивают Айзека, не приняв миссию Леди Вахтер в [[Arc F - Lady Wachter's Wish]], Леди Вахтер посылает Эрнста Ларнака следующим утром пригласить их на чай в особняк Вахтеров в тот же день "в свете их недавних достижений". Если игроки отклоняют приглашение Эрнста, Леди Вахтер лично посещает таверну "Синяя Вода" тем же вечером, одетая в тёмно-синий плащ с капюшоном, и просит поговорить с ними наедине.
-> 
+>
 > Независимо от того, как она встречается с игроками, Леди Вахтер поздравляет их с освобождением Валлаки от тирании и жестокости Айзека и прямо просит их благословения на то, чтобы добиваться должности Бургомистра от Барона Валлаковича. Она рада принять помощь игроков в этом деле, если они предложат, но в противном случае заверяет их, что верит в возможность мирно убедить его отречься.
-> 
+>
 > Если игроки опасаются предоставить Леди Вахтер "власть" этой должности, Леди Вахтер успокаивает их, говоря, что бургомистр Валлаки не обладает никакой внутренней властью, кроме той, что предоставлена горожанами. "Признаюсь, я не знакома с полномочиями королев и герцогинь за Туманами", — уступает она, — "но в Баровии бургомистр — это администратор города, а не его правитель".
-> 
+>
 > "Я бы платила жалованье городской страже, да", — говорит она, — "но они богобоязненные люди, верящие в Утреннего Бога — они не колеблясь свергли бы меня, если бы почувствовали, что мои указы вредят их соседям". Она иронично добавляет: "Уверяю вас: я не желаю *править* Валлаки. Мои стремления, будучи клерикальными, куда более скучны".
-> 
+>
 > Если игроки всё ещё подозревают возможность того, что она может предать их Страду, она насмешливо фыркает и указывает, что игроки убили Айзека — к которому она сама не могла прикоснуться. "Если кто и должен бояться, так это я", — говорит она, слегка истерически смеясь. — "Группа вооружённых, могущественных чужаков прибыла в мой маленький город и убила самое сильное существо в его стенах. Я здесь только потому, что верю в вашу добрую волю и вашу любовь к моим соседям".)
 # G1. Таверна "Синяя Вода"
 ## G1a. Визит Айзека
@@ -66,11 +66,11 @@ _Приключение для четырёх персонажей 5-го уро
 > [!abstract]+ **Помощь Урвина**
 >
 > Если игроки просят помощи Урвина в отслеживании Айзека, Урвин встречается с ними в общем зале следующим утром, чтобы поделиться следующей информацией, хотя вежливо отказывается раскрывать свои источники:
-> 
+>
 > - Айзека большую часть дня сопровождают два валлакийских **стражника**. Стражники внимательно следят за окружением, что затрудняет возможность устроить засаду. Однако Айзек обычно отпускает стражников и удаляется в одно из нескольких излюбленных мест для выпивки около заката.
 > - Ежедневное расписание Айзека меняется, но он неизменно принимает обед на городской площади Валлаки, который доставляет повар Барона. Каждую ночь он возвращается в особняк Барона Валлаковича для сна.
 > - Странные фигуры были замечены входящими и выходящими из особняка Вахтеров, дома Леди Фионы Вахтер, одного из самых яростных политических врагов Барона. Ходят слухи, что один из её слуг следил за Айзеком по городу последние две недели. Она может предложить помощь.
-> 
+>
 > Если игроки отправляются в поместье Леди Вахтер искать её помощи, они начинают [[Arc G - Lady Wachter's Wish]].
 # G2. Улицы Валлаки
 Через день после своего визита в таверну "Синяя Вода" Айзек приказывает городской страже начать развешивать объявления с просьбой о информации о местонахождении женщины, соответствующей описанию Ирины. Каждое объявление включает набросок, примерно соответствующий внешности Ирины, и предлагает награду в пять золотых монет за информацию, доставленную Айзеку Стражни в особняк Барона.
@@ -87,11 +87,11 @@ _Приключение для четырёх персонажей 5-го уро
 
 > [!lore]+ **Жертвоприношение Айзека**
 > Вскоре после того, как Айзек приводит Ирину в особняк, Ирина требует узнать причину её похищения. Если Ирина не знает о своих отношениях с Айзеком, Айзек раскрывает их; в противном случае Айзек требует узнать, почему она держалась от него подальше, несмотря на это знание.
-> 
+>
 > В любом случае, Ирина встревожена глубиной психопатии и одержимости Айзека, а её верность приёмной семье и деревне злит Айзека, который считает её "подделкой", посланной обмануть его. Впадая в безумие, Айзек решает, что должен принести Ирину в жертву в пламени, чтобы вернуть к себе свою "настоящую" сестру.
-> 
+>
 > На рассвете утра Фестиваля Пылающего Солнца Айзек убирает подношения Утреннему Богу — благовония, солёное мясо, деревянные фигурки и украшения — из полой внутренности плетёного солнца, сваливает их на пол своей спальни и тайно заменяет их связанной и с кляпом во рту Ириной. Затем Айзек настаивает на том, чтобы лично охранять и сопровождать плетёное солнце на Фестиваль.
-> 
+>
 > Если игрокам не удастся спасти Ирину, плетёное солнце доставляют на городскую площадь в девять часов утра и сжигают в полдень на пике "празднеств", убивая Ирину.
 # G4. Спасение
 Игроки могут спасти Ирину из лап Айзека, сначала получив доступ к его спальне в особняке Барона. Они могут сделать это, проникнув в особняк тайно или штурмуя его открыто.
@@ -192,13 +192,13 @@ Izek spins, striking at their foes' weapons. Izek attempts an Athletics check to
 Izek conjures a volley of fiery orbs that rain down on a point within 60 ft. that he can see. that explodes in a 10-foot burst. Creatures in the burst take 2d6 fire damage (DC 26 basic Reflex save). The flame drake can't use Flame Volley again for 1d4 rounds.</p>
 
 <h3>Reactions and Free Actions</h3>
-<p><strong>Reactive Strike</strong> ⮌<br>
+<p><strong>Reactive Strike</strong> ↻<br>
 When a creature within reach uses a manipulate action or a move action, leaves a square during a move action, or uses a ranged attack, Izek can make a melee Strike against that creature.</p>
 
-<p><strong>Forceful Retreat</strong> ⮌<br>
+<p><strong>Forceful Retreat</strong> ↻<br>
 In response to taking damage from a melee attack, Izek makes a Shove attack against the attacker. He can then immediately move up to 15 ft. away from the attacker without provoking opportunity attacks.</p>
 
-<p><strong>Vengeful Strike</strong> ⮌<br>
+<p><strong>Vengeful Strike</strong> ↻<br>
 In response to taking damage from an attack or spell, Izek can move up to 15 ft. toward the attacker without provoking opportunity attacks. He can then immediately make an attack against that creature with his battleaxe.</p>
 
 <hr>
@@ -268,11 +268,11 @@ When Izek is reduced to 0 hit points, his arms and axe are engulfed in flames, t
 <p><strong>Flaming Wave</strong> ◆◆ [arcane, electricity] A wave of flames sweeps out from Izek that deals 6d6 fire damage in a 60-foot line (DC 26 basic Reflex save). It ignites flammable objects in the area that aren't being worn or carried. It can't use Flaming Wave again for 1d4 rounds.</p>
 
 <h3>Reactions and Free Actions</h3>
-<p><strong>Hot Pursuit</strong> ⮌ In response to taking damage from an attack or spell, Izek propels himself forward with a jet of crackling flames, moving up to 30 feet without provoking opportunity attacks. He can then immediately make a Burning Punch attack against a creature within range.</p>
+<p><strong>Hot Pursuit</strong> ↻ In response to taking damage from an attack or spell, Izek propels himself forward with a jet of crackling flames, moving up to 30 feet without provoking opportunity attacks. He can then immediately make a Burning Punch attack against a creature within range.</p>
 
-<p><strong>Reactive Strike</strong> ⮌ When a creature within reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using, Izek can make a melee Strike against that creature.</p>
+<p><strong>Reactive Strike</strong> ↻ When a creature within reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using, Izek can make a melee Strike against that creature.</p>
 
-<p><strong>Retaliatory Burn</strong> ⮌ (1/round) In response to taking damage from a melee attack made with a metal weapon, Izek causes the object to glow red-hot until the start of his next turn. It casts <strong>Heat Metal</strong> on it as a reaction.</p>
+<p><strong>Retaliatory Burn</strong> ↻ (1/round) In response to taking damage from a melee attack made with a metal weapon, Izek causes the object to glow red-hot until the start of his next turn. It casts <strong>Heat Metal</strong> on it as a reaction.</p>
 
 <h3>Passive Abilities</h3>
 <p><strong>Multiple Reactions</strong> Izek can take up to two reactions per round. If Izek would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>

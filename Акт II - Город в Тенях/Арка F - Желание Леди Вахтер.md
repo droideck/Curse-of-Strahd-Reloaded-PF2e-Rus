@@ -146,7 +146,7 @@ _Приключение для четырёх персонажей 5-го уро
 
 > [!info]+ **Что известно Леди Вахтер**
 > Если спросить о различных фракциях и местах по всей Баровии, Леди Вахтер может предоставить следующую информацию:
-> 
+>
 > * ***Лесной Народ.*** "Они потомки коренных жителей долины, и ныне они поклоняются графу фон Заровичу как богу. Они используют Холм Былого как место сбора, но живут по всему Сваличскому лесу."
 > * ***Аргинвостхольт.*** Леди Вахтер делится информацией из <span class="citation">Сведения о Валлаки (стр. 96)</span>.
 > * ***Янтарный храм.*** Леди Вахтер может рассказать, что однажды слышала об "ордене рыцарей", обитавшем в заброшенном поместье на западе, который, как говорили, охранял место под названием "Янтарный храм". (Она узнала об этом от своей наставницы, болотной ведьмы Бабы Лысаги, которую она называет просто "Лиса".) Однако больше она ничего не знает.
@@ -251,7 +251,7 @@ _Приключение для четырёх персонажей 5-го уро
 Если игроки настаивают, что Мадам Ева предвидела существование *Солнечного меча*, она делает паузу, затем отмечает, что, как бы "провидица Вистани" ни *верила* в то, что она видела, "будущее печально известно своей сложностью для толкования". Она готова признать — хотя и с некоторым весельем — что, несмотря на свои сомнения, она может быть более склонна поверить аргументам игроков, если сам меч будет найден.
 > [!design]- **Заметки по дизайну: Сюжетная арка Леди Вахтер**
 > Леди Вахтер впервые представлена как циничный, хотя и полезный союзник. Когда игроки помогают ей освободить Валлаки от тирании Айзека, а позже помогают восстановить душу её дочери в [[Акт II - Город в Тенях/Арка H - Потерянная душа]], Леди Вахтер постепенно становится менее циничной и более открытой к надежде на лучшее будущее.
-> 
+>
 > Зажжение игроками маяка Аргинвостхольта в [[Arc Q - A Shining Beacon]] вдохновляет Леди Вахтер надеяться на будущее без Страда фон Заровича. Она становится верным союзником в борьбе против Страда после того, как игроки получают *Солнечный меч* в [[Arc S - The Amber Temple]].
 
 ***Принятие задания.*** Если игроки принимают задание Леди Вахтер, она обещает, что пошлёт одного из своих помощников проинформировать их о расписании Айзека Стражни — и предоставить бутылку отравленного вина — на следующее утро.
@@ -315,7 +315,7 @@ _Приключение для четырёх персонажей 5-го уро
 
 > [!info]+ **Быть пойманными**
 > Если Айзек обнаруживает игроков, он требует узнать, следили ли игроки за ним, и обвиняет их в том, что они "шпионы и преступники". Игроки могут обмануть его при успешной @Check[deception|dc:15|traits:action:lie]{проверке Обмана для лжи}. При провале Айзек приказывает любым находящимся поблизости стражникам арестовать игроков и заковать в колодки; если игроки сопротивляются, или если поблизости нет стражников, Айзек атакует, пытаясь самостоятельно вырубить игроков.
-> 
+>
 > Если игроки обнаружены, но успешно обманывают Айзека относительно своих намерений, и если Айзек ранее видел игроков в компании Ирины Коляны, он немедленно требует сообщить её местонахождение. Игроки могут обмануть Айзека с помощью ещё одной успешной @Check[deception|dc:15|traits:action:lie]{проверки Обмана для лжи}. Если игроки отрицают любую связь с Ириной, СЛ становится 20. Если он поймает игроков на лжи, Айзек холодно клянётся "выбить из них правду" и атакует.
 
 ### 1. Городская площадь
@@ -421,13 +421,13 @@ Izek spins, striking at their foes' weapons. Izek attempts an Athletics check to
 Izek conjures a volley of fiery orbs that rain down on a point within 60 ft. that he can see. that explodes in a 10-foot burst. Creatures in the burst take 2d6 fire damage (DC 26 basic Reflex save). The flame drake can't use Flame Volley again for 1d4 rounds.</p>
 
 <h3>Reactions and Free Actions</h3>
-<p><strong>Reactive Strike</strong> ⮌<br>
+<p><strong>Reactive Strike</strong> ↻<br>
 When a creature within reach uses a manipulate action or a move action, leaves a square during a move action, or uses a ranged attack, Izek can make a melee Strike against that creature.</p>
 
-<p><strong>Forceful Retreat</strong> ⮌<br>
+<p><strong>Forceful Retreat</strong> ↻<br>
 In response to taking damage from a melee attack, Izek makes a Shove attack against the attacker. He can then immediately move up to 15 ft. away from the attacker without provoking opportunity attacks.</p>
 
-<p><strong>Vengeful Strike</strong> ⮌<br>
+<p><strong>Vengeful Strike</strong> ↻<br>
 In response to taking damage from an attack or spell, Izek can move up to 15 ft. toward the attacker without provoking opportunity attacks. He can then immediately make an attack against that creature with his battleaxe.</p>
 
 <hr>
@@ -497,11 +497,11 @@ When Izek is reduced to 0 hit points, his arms and axe are engulfed in flames, t
 <p><strong>Flaming Wave</strong> ◆◆ [arcane, electricity] A wave of flames sweeps out from Izek that deals 6d6 fire damage in a 60-foot line (DC 26 basic Reflex save). It ignites flammable objects in the area that aren't being worn or carried. It can't use Flaming Wave again for 1d4 rounds.</p>
 
 <h3>Reactions and Free Actions</h3>
-<p><strong>Hot Pursuit</strong> ⮌ In response to taking damage from an attack or spell, Izek propels himself forward with a jet of crackling flames, moving up to 30 feet without provoking opportunity attacks. He can then immediately make a Burning Punch attack against a creature within range.</p>
+<p><strong>Hot Pursuit</strong> ↻ In response to taking damage from an attack or spell, Izek propels himself forward with a jet of crackling flames, moving up to 30 feet without provoking opportunity attacks. He can then immediately make a Burning Punch attack against a creature within range.</p>
 
-<p><strong>Reactive Strike</strong> ⮌ When a creature within reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using, Izek can make a melee Strike against that creature.</p>
+<p><strong>Reactive Strike</strong> ↻ When a creature within reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using, Izek can make a melee Strike against that creature.</p>
 
-<p><strong>Retaliatory Burn</strong> ⮌ (1/round) In response to taking damage from a melee attack made with a metal weapon, Izek causes the object to glow red-hot until the start of his next turn. It casts <strong>Heat Metal</strong> on it as a reaction.</p>
+<p><strong>Retaliatory Burn</strong> ↻ (1/round) In response to taking damage from a melee attack made with a metal weapon, Izek causes the object to glow red-hot until the start of his next turn. It casts <strong>Heat Metal</strong> on it as a reaction.</p>
 
 <h3>Passive Abilities</h3>
 <p><strong>Multiple Reactions</strong> Izek can take up to two reactions per round. If Izek would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>

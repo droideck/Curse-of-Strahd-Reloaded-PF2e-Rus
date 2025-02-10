@@ -7,11 +7,15 @@ cover: preview.png
 <img class="image-light" src="https://publish-01.obsidian.md/access/7db64b11c71d88572ddc6cd06b888976/images/cover-light.png">
 
 
-**Unbalanced encounters. Unorganized chapters. Overwhelming lore. And *Dungeons & Dragons'* most challenging villain.** *Curse of Strahd* has earned its reputation as 5th Edition's most notorious module—but the official campaign can often be more difficult for Dungeon Masters than their players.
+**Unbalanced encounters. Unorganized chapters. Overwhelming lore. And *Dungeons & Dragons'* most challenging villain.** *Curse of Strahd* has earned its reputation as 5th Edition's most notorious module—but the official campaign can often be more difficult for Game Masters than their players.
 
 That's where ***Curse of Strahd: Reloaded*** comes in. As your personal *Curse of Strahd* guide, *Reloaded* will help you take your players on an unforgettable journey through the Mists—one that's been revised to be as easy and enjoyable as possible to run. 
 
 Whether you're looking for a guide to roleplaying Strahd von Zarovich, a comprehensive history of Barovia, or a full *Curse of Strahd* campaign walkthrough, look no further—for you've come to the right place.
+
+> [!warning]+ **Pathfinder 2e Difficulty**
+> This guide sets difficulty pretty high and it assumes that Mythic rules will be used at some point of the adventure (to be updated).
+> As a Pathfinder 2e GM, I suggest for you to check carefully the encounters before running them as written. If you want easier times for your party, consider dropping difficulty by one step (or using 3 player version even though you play 4 player party).
 
 > [!info]- **I'm a new DM. Why use a guide at all?**
 > 
@@ -37,7 +41,7 @@ Whether you're looking for a guide to roleplaying Strahd von Zarovich, a compreh
 # Your Personal *Curse of Strahd* Guide
 *Curse of Strahd: Reloaded* aims to transform the original adventure into something far more accessible, cohesive, and resonant. That's why this DM's guide to *Curse of Strahd*:
 
-* **Simplifies** your preparation material, presenting the campaign in an organized, Dungeon Master-friendly format.
+* **Simplifies** your preparation material, presenting the campaign in an organized, Game Master-friendly format.
 * **Guides** you through complex scenes with NPC profiles, pre-written descriptions, and tips for table management.
 * **Enhances** your players' experience by filling in gaps, tying off loose ends, and presenting a more immersive and cohesive narrative.
 * **Elevates** the gameplay and story, pruning and refining adventure material while ensuring all content serves the greater narrative.
@@ -80,54 +84,57 @@ You can [[Using This Guide|click here]] to learn how to use and read this guide.
 > Want to download *Reloaded* as an Obsidian Vault for use, editing, and review on your local device? You can download all files using the [Github Repository](https://github.com/DragnaCarta/Curse-of-Strahd-Reloaded) .
 # Table of Contents
 ## Chapter 1 - Beginning the Campaign
-[[Нулевая сессия]]. Setting expectations and clarifying player triggers.
-[[Создание персонажа]]. Developing character bonds, flaws, and motivations.
+[[Session Zero]]. Setting expectations and clarifying player triggers.
+[[Character Creation]]. Developing character bonds, flaws, and motivations.
 ## Chapter 2 - The Land of Barovia
-[[Лор Баровии]]. A compendium of the magic, geography, culture, factions, and religions of Barovia.
-[[История Баровии]]. A narrative history of Barovia and the Von Zarovich family.
-[[Страд фон Зарович]]. A guide to Strahd's personality, relationships, goals, allies, and tactics.
+[[Lore of Barovia]]. A compendium of the magic, geography, culture, factions, and religions of Barovia.
+[[History of Barovia]]. A narrative history of Barovia and the Von Zarovich family.
+[[Strahd von Zarovich]]. A guide to Strahd's personality, relationships, goals, allies, and tactics.
 ## Chapter 3 - Running the Game
-[[Краткое содержание приключения]]. Summaries of the campaign's six narrative acts.
-[[Ведение приключения]]. A guide to reading—and running—this guide.
+[[Adventure Summary]]. Summaries of the campaign's six narrative acts.
+[[Running the Adventure]]. A guide to reading—and running—this guide.
 ## Act I - Into the Mists
 [[Act I Summary]]. A summary of the players' first passage into Barovia.
-[[Арка A - Побег из Дома Смерти]]. The players are lured into a haunted house and must escape before a ravenous evil awakens.
-[[Арка B - Добро Пожаловать в Баровию|Арка B - Добро Пожаловать в Баровию]]. The players arrive in the Village of Barovia amidst an ongoing siege and must defend themselves and their new friends from Strahd's undead legions.
-[[Арка C - В Долину|Арка C - В Долину]]. The players venture forth to the Town of Vallaki, receiving a mysterious fortunetelling and facing trials and tribulations along the way.
+[[Arc A - Escape From Death House]]. The players are lured into a haunted house and must escape before a ravenous evil awakens.
+[[Act I - Into the Mists/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]]. The players arrive in the Village of Barovia amidst an ongoing siege and must defend themselves and their new friends from Strahd's undead legions.
+[[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]]. The players venture forth to the Town of Vallaki, receiving a mysterious fortunetelling and facing trials and tribulations along the way.
 ## Act II - The Shadowed Town
-[[Акт II - Краткое содержание]]. A summary of the players' adventures in the town of Vallaki.
-[[Арка D - Пир Св. Андрала]]. The players investigate a theft of sacred bones from Vallaki's church.
-[[Арка E - Пропавшая вистана]]. The players follow the trail of a kidnapped Vistani across western Barovia. 
-[[Арка F - Желание Леди Вахтер]]. The players are invited to join a dangerous conspiracy to overthrow Vallaki's burgomaster.
-[[Арка G - Брат и сестра Стражни]]. The players encounter the dark dreams of Vallaki's Captain of the Guard.
-[[Акт II - Город в Тенях/Арка H - Потерянная душа]]. The players help the children of two feuding noble houses stage a daring ghostly rescue.
-[[Арка I - Стены Крезка]]. The players journey to the ruins of Berez to earn passage to the village of Krezk.
+[[Act II Summary]]. A summary of the players' adventures in the town of Vallaki.
+[[Arc D - St. Andral's Feast]]. The players investigate a theft of sacred bones from Vallaki's church.
+[[Arc E - The Missing Vistana]]. The players follow the trail of a kidnapped Vistani across western Barovia. 
+[[Arc F - Lady Wachter's Wish]]. The players are invited to join a dangerous conspiracy to overthrow Vallaki's burgomaster.
+[[Arc G - The Strazni Siblings]]. The players encounter the dark dreams of Vallaki's Captain of the Guard.
+[[Arc H - The Lost Soul]]. The players help the children of two feuding noble houses stage a daring ghostly rescue.
+[[Arc I - The Walls of Krezk]]. The players journey to the ruins of Berez to earn passage to the village of Krezk.
 ## Act III - The Broken Land
 [[Act III Summary]]. A summary of the players' adventures across the broader Barovian valley.
 [[Arc J - The Stolen Gem]]. The players fend off a druidic tribe causing trouble for the Wizard of Wines winery.
-[[Арка K - Падшее аббатство]]. The players recruit a new ally and restore the Abbot's tainted divinity.
+[[Arc K - The Fallen Abbey]]. The players recruit a new ally and restore the Abbot's tainted divinity.
 [[Arc L - The Den of Wolves]]. The players stake out and infiltrate a den of werewolves.
-[[Арка M - Поместье Дракона]]. The players investigate a haunted manor and unearth the message of the silver dragon Argynvost.
+[[Arc M - The Dragon's Manor]]. The players investigate a haunted manor and unearth the message of the silver dragon Argynvost.
 [[Arc N - Tales of Vallaki]]. Coming soon.
 [[Arc O - Dinner with the Devil]]. The players dine with Strahd and his court at Castle Ravenloft.
 [[Arc P - Ravenloft Heist]]. The players raid Castle Ravenloft while Strahd is away.
 [[Arc Q - A Shining Beacon]]. The players redeem the Abbot, defeat the werewolf Kiril Stoyanovich, and light the beacon of Argynvostholt.
+## Act IV - Secrets of the Ancient
+[[Act IV Summary]]. Coming soon.
+[[Arc R - Trials of the Mountain]]. The players ascend the treacherous Tsolenka Pass while surviving Strahd's predations.
+[[Arc S - A Sword of Sunlight]]. Coming soon.
+[[Arc T - The Cavern of Lights]]. Coming soon.
 
 > [!tip]+ **Under Construction**
 > *Curse of Strahd: Reloaded* is an ongoing project. New releases, including additional arcs and edits to existing arcs, are released regularly. You can sign up to receive update notifications in your email inbox by joining the author's free community on [Patreon](https://www.patreon.com/DragnaCarta).
 > 
 > Alternatively, if you'd like to read drafts, outlines, and notes for upcoming releases, you can do so by becoming a paid supporter of DragnaCarta's [Patreon](https://www.patreon.com/DragnaCarta). Doing so also allows you to join an exclusive Discord community of new and experienced DMs running *Reloaded* themselves.
 > 
-> The guide is currently projected to be completed in the fall of 2024, with regular additions and revisions released approximately once per month. If you'd like to read a list of the most recent updates, you can also check out the guide's [[Changelog|changelog]]. If you'd like to provide suggestions, feedback, or critiques regarding the current version of the guide, you can do so [here](https://docs.google.com/forms/d/e/1FAIpQLSc3Sfz-BBrJSNnqd327mAXznr0Bx3lBzGe7mUCO69KnH88kjA/viewform).
-## Act IV - Secrets of the Ancient
-[[Act IV Summary]]. Coming soon.
-[[Arc R - Trials of the Mountain]]. Coming soon.
-[[Arc S - The Amber Temple]]. Coming soon.
-[[Arc T - The Monster Hunter]]. Coming soon.
-[[Arc U - The Ladies of the Fanes]]. Coming soon.
+> The guide is currently projected to be completed in the spring of 2025, with regular additions and revisions released approximately once per month. If you'd like to read a list of the most recent updates, you can also check out the guide's [[Changelog|changelog]]. If you'd like to provide suggestions, feedback, or critiques regarding the current version of the guide, you can do so [here](https://docs.google.com/forms/d/e/1FAIpQLSc3Sfz-BBrJSNnqd327mAXznr0Bx3lBzGe7mUCO69KnH88kjA/viewform).
 ## Act V - The Curse of Strahd
 [[Act V Summary]]. Coming soon.
-[[Arc V - The Curse of Strahd]]. Coming soon.
+[[Arc U - The Monster Hunter]]. Coming soon.
+[[Arc V - The Witch of Berez]]. Coming soon.
+[[Arc W - The Ladies of the Fanes]]. Coming soon.
+[[Arc V - The Whispering Wall]]. Coming soon.
+[[Arc X - The Curse of Strahd]]. Coming soon.
 [[Epilogue]]. Coming soon.
 ## Appendices
 [[Non-Player Characters]]. A compendium of every major NPC in the adventure.
@@ -147,7 +154,43 @@ This work includes material taken from the System Reference Document 5.1 (“SRD
 
 ***Special Thanks to*** **Twi**, whose deliberation and creativity made this revision possible;  **Ziopliukas** and **Paintknight** for their encouragement and support; **Cheese** and **Nancy** for their assistance in balancing and playtesting encounters; **Friendly**, **Faisal**, **shmamy**, **yaboicorny**, **Busdriver**, **Eliza**, and **Scarfe** for their frequent counsel and feedback; and [**GPT-4**](https://chat.openai.com/) and [Claude 3.5 Sonnet](https://claude.ai/) for assistance in brainstorming and revision.
 
-***Additional thanks to*** a_Kyrill, ActualPaperweight, Aeristria, aevinpaos, Alantes, Alcibiades, AlexanderThulin, Alfie, alfie104, Allnightlight, Anp117, Aonbarr, Aquilon, arkansandragoness, Arkayne, Arow-Remade, Autumn, AvengingBlowfish, Awox, Az, beau_motion, BeaverBoy99, Ben, BenD, Berzingh, BetaMax-Arcana, boganlanks, Booyahg, Bous237, boxfriend, Bruuneri, calebisdrawing, cesargm, chroma900, ClanRedHead, cleo, continuity, corrinisacat, CrackedSkeleton, CrazyEnough1757, Crazymajor, Cryptid, CSEngineAlt, Daeplin, Dakota Official, DarthHarambae, dead_dads, DerkLucas, Dice, DND Ravenloftenjoyer, Draziray, Dumaka, DumpsterFireMaster, Eban921, Ebonhawk, ElderDovah, Elijah, Elijah-Rafael, Ella, ELQUEMANDA4, Ep, Eradu, ericthealfabee1, Eve, Exdeth, Faisal, farlet10, Ferrisderby, Fezznick, FinRingil, Franz, FriendlyInstance5722, FrozenEcho, Fugi, Fugicara, Galahadred, glorious-blue, gloriouslarper, GodSpeeD, Goldorgh, gr4v3dgr, Gray, greenglowstix, GreenTie, Guilhermo, hakich, hashtagpuglife, Helan, Howard, InconditeCullion, IneptHackberry, InsideNervous, Ishna, Ispanicos, jabberdoot, JaeOnasi, Jakers, Jeby, JehutyPT, JoeyGrizzle, joshuacc, JRL, justadmhero, kaitlin, Kaiya, Knight of the Nine, KrempelRitter, le_ptit_lulu, LFrog, Lif, LiquidAnalog, Llewinidas, LordMordor, Lucky Actor, LususNaturae, Lyrics42, madelineblack, Massiah, mattjanor, Maurycy-skell, Merfie, Miata07, MikaFirefly, Milvus, Mon5teRico, Mr_Gelan, MSD, murdoc, Murhapuro, Naro-Alk'arin, NerfWesPls, Nessa, NobodyJustBrad, nultra, Numerous-Ad-1357, nyletak, nyrafernvale, Ostheim, pgsmith2000, pirate_femme, PJ, PM_me_your_PhDs, pookmeister, presley, Pugs, Pyrosophy, QueenOfThorns, RaePi, rave98, rawnan, redhavirr, RickymQrk, Rofeletan, Rustyroo, Schelling, shananigans, ShapKees, Shard, Sherlock, Sigmarius, sigmarius, Silent Scribe, Silver, SkroxiousDM, SnackoSaurusRex, snarkycatboy, snickduck, sodneu, Søren, Starless, stevexec, StoRmVoRtex, styx, sunirgerep, szemere, taffer, TehBestAtGames, terrible_boots, terribleOpera, Theatretech37, Timetheif, Tirrigon, UniquelyDefined, Unyielding_Capybara, Ur, Walui, Werben, whatistheancient, Windsock, Wolkensieger, XeroChance0, xxItsAJackalxx, Yakei, Yazstromo, Zifbox, and Zumarius for feedback, playtesting, and review.
+***Additional thanks to*** a_Kyrill, ActualPaperweight, Aeristria, aevinpaos, Alantes, Alcibiades, AlexanderThulin, Alfie, alfie104, Allnightlight, Anp117, Aonbarr, Aquilon, arkansandragoness, Arkayne, Arow-Remade, Autumn, AvengingBlowfish, Awox, Az, beau_motion, BeaverBoy99, BenD, Berzingh, BetaMax-Arcana, boganlanks, Booyahg, Bous237, boxfriend, Bruuneri, calebisdrawing, cesargm, chroma900, ClanRedHead, cleo, continuity, corrinisacat, CrackedSkeleton, CrazyEnough1757, Crazymajor, Crimson-1, Cryptid, CSEngineAlt, Daeplin, Dakota Official, DanPrime, DarthHarambae, dead_dads, DerkLucas, Dice, DND Ravenloftenjoyer, Draziray, Dumaka, DumpsterFireMaster, Eban921, Ebonhawk, ElderDovah, Elijah, Elijah-Rafael, Ella, ELQUEMANDA4, Ep, Eradu, ericthealfabee1, Eve, Exdeth, Faisal, farlet10, Ferrisderby, Fezznick, FinRingil, Franz, FriendlyInstance5722, FrozenEcho, Fugi, Fugicara, Galahadred, glorious-blue, gloriouslarper, gmbenjamin, GodSpeeD, Goldorgh, gr4v3dgr, Gray, greenglowstix, GreenTie, Guilhermo, hakich, hashtagpuglife, Helan, Howard, InconditeCullion, IneptHackberry, InsideNervous, Ishna, Ispanicos, jabberdoot, JaeOnasi, Jakers, Jeby, JehutyPT, JoeyGrizzle, joshuacc, JRL, justadmhero, kaitlin, Kaiya, Knight of the Nine, KrempelRitter, le_ptit_lulu, LFrog, Lif, LiquidAnalog, Llewinidas, LordMordor, Lucky Actor, LususNaturae, Lyrics42, madelineblack, Massiah, mattjanor, Maurycy-skell, Merfie, Miata07, MikaFirefly, Milvus, Mon5teRico, Mr_Gelan, MSD, murdoc, Murhapuro, Naro-Alk'arin, Neokke, NerfWesPls, Nessa, NobodyJustBrad, nultra, Numerous-Ad-1357, nyletak, nyrafernvale, Ostheim, pgsmith2000, pirate_femme, PJ, PM_me_your_PhDs, pookmeister, presley, Pugs, Pyrosophy, QueenOfThorns, RaePi, rave98, rawnan, redhavirr, RickymQrk, Rofeletan, Rustyroo, Schelling, shananigans, ShapKees, Shard, Sherlock, Sigmarius, sigmarius, Silent Scribe, Silver, SkroxiousDM, SnackoSaurusRex, snarkycatboy, snickduck, sodneu, Søren, Starless, stevexec, StoRmVoRtex, styx, sunirgerep, szemere, taffer, TehBestAtGames, terrible_boots, terribleOpera, Theatretech37, Timetheif, Tirrigon, UniquelyDefined, Unyielding_Capybara, Ur, Walui, Werben, whatistheancient, Windsock, Wolkensieger, XeroChance0, xxItsAJackalxx, Yakei, Yazstromo, Zifbox, and Zumarius for feedback, playtesting, and review.
+
+## Pathfinder License Notices
+
+### Pathfinder Community Use Notice
+
+This guide uses trademarks and/or copyrights owned by Paizo Inc., which are used under Paizo's Community Use Policy ([paizo.com/communityuse](https://paizo.com/communityuse)). We are expressly prohibited from charging you to use or access this content. This guide is not published, endorsed, or specifically approved by Paizo. For more information about Paizo Inc. and Paizo products, visit [paizo.com](https://paizo.com).
+
+### ORC License Notice
+
+This product is licensed under the ORC License held in the Library of Congress at TX 9-307-067 and available online at various locations including [paizo.com/orclicense](https://paizo.com/orclicense), [azoralaw.com/orclicense](https://azoralaw.com/orclicense), and others. All warranties are disclaimed as set forth therein.
+
+**Attribution** This product is based on the following Licensed Material:
+
+**Pathfinder Player Core** © 2023 Paizo Inc., Designed by Logan Bonner, Jason Bulmahn, Stephen Radney-MacFarland, and Mark Seifter. Authors: Alexander Augunas, Kate Baker, Logan Bonner, Jason Bulmahn, Carlos Cabrera, Calder CaDavid, James Case, Eleanor Ferron, Steven Hammond, Joan Hong, Vanessa Hoskins, James Jacobs, Jenny Jarzabski, Erik Keith, Dustin Knight, Lyz Liddell, Luis Loza, Patchen Mortimer, Dennis Muldoon, Stephen Radney-MacFarland, Mikhail Rekun, David N. Ross, Michael Sayre, Mark Seifter, Kendra Leigh Speedling, Mark Thompson, Clark Valentine, Andrew White, Landon Winkler, and Linda Zayas-Palmer
+
+**Pathfinder GM Core** © 2023 Paizo Inc., Designed by Logan Bonner and Mark Seifter. Authors: Amirali Attar Olyaee, Logan Bonner, Creighton Broadhurst, Jason Bulmahn, James Case, Jesse Decker, Eleanor Ferron, Fabby Garza Marroquín, Jaym Gates, Matthew Goetz, James Jacobs, Brian R. James, Jenny Jarzabski, Dustin Knight, Jason LeMaitre, Lyz Liddell, Luis Loza, Ron Lundeen, Stephen Radney-MacFarland, David N. Ross, Michael Sayre, Mark Seifter, Owen K.C. Stephens, Amber Stewart, Clark Valentine, Landon Winkler, and Linda Zayas-Palmer
+
+**Pathfinder Monster Core** © 2024 Paizo Inc., Authors: Alexander Augunas, Dennis Baker, Kate Baker, Joshua Birdsong, Joseph Blomquist, Logan Bonner, Jason Bulmahn, James Case, John Compton, Paris Crenshaw, Adam Daigle, Darrin Drader, Brian Duckwitz, Robert N. Emerson, Scott Fernandez, Eleanor Ferron, Leo Glass, Matthew Goodall, BJ Hensley, Thurston Hillman, Vanessa Hoskins, James Jacobs, Jenny Jarzabski, Miko Kallio, Jason Keeley, Jeff Lee, Lyz Liddell, Luis Loza, Ron Lundeen, Robert G. McCreary, Philippe-Antoine Menard, Jacob W. Michaels, Dave Nelson, Jason Nelson, Tim Nightengale, Stephen Radney-MacFarland, Mikhail Rekun, Patrick Renie, Alex Riggs, David N. Ross, Michael Sayre, Mark Seifter, Chris S. Sims, Amber Stewart, Jeffrey Swank, William Thompson, Jason Tondro, Clark Valentine, Landon Winkler, Tonya Woldridge, and Linda Zayas-Palmer
+
+**Pathfinder War of Immortals** © 2024 Paizo Inc., Authors: James Case, Liane Merciel, and Michael Sayre, Jessica Catalan, Matt Chapmond, Steven Hammond, Steven Helt, Brent Holtsberry, Jason Keeley, Michelle Y. Kim, Luis Loza, Erik Mona, AJ Neuro, JK Saavedra, Tony Saunders, Andrew Stoeckle, Greg A. Vaughan and Ruvaid Virk.
+
+**Pathfinder Gamemastery Guide** © 2020, Paizo Inc.; Authors: Alexander Augunas, Jesse Benner, John Bennett, Logan Bonner, Clinton J. Boomer, Jason Bulmahn, James Case, Paris Crenshaw, Jesse Decker, Robert N. Emerson, Eleanor Ferron, Jaym Gates, Matthew Goetz, T.H. Gulliver, Kev Hamilton, Sasha Laranoa Harving, BJ Hensley, Vanessa Hoskins, Brian R. James, Jason LeMaitre, Lyz Liddell, Luis Loza, Colm Lundberg, Ron Lundeen, Stephen Radney-MacFarland, Jessica Redekop, Alistair Rigg, Mark Seifter, Owen K.C. Stephens, Amber Stewart, Christina Stiles, Landon Winkler, and Linda Zayas-Palmer.
+
+**Pathfinder Core Rulebook (Second Edition)** © 2019, Paizo Inc.; Designers: Logan Bonner, Jason Bulmahn, Stephen Radney-MacFarland, and Mark Seifter.
+
+**Pathfinder Advanced Player Guide** © 2020, Paizo Inc.; Authors: Logan Bonner, Lyz Liddell, and Mark Seifter.
+
+**Pathfinder Bestiary (Second Edition)** © 2019, Paizo Inc.; Authors: Alexander Augunas, Logan Bonner, Jason Bulmahn, John Compton, Paris Crenshaw, Adam Daigle, Eleanor Ferron, Leo Glass, Thurston Hillman, James Jacobs, Jason Keeley, Lyz Liddell, Ron Lundeen, Robert G. McCreary, Tim Nightengale, Stephen Radney-MacFarland, Alex Riggs, David N. Ross, Michael Sayre, Mark Seifter, Chris S. Sims, Jeffrey Swank, Jason Tondro, Tonya Woldridge, and Linda Zayas-Palmer.
+
+**Pathfinder Bestiary 2 (Second Edition)** © 2020, Paizo Inc.; Authors: Alexander Augunas, Dennis Baker, Jesse Benner, Joseph Blomquist, Logan Bonner, Paris Crenshaw, Adam Daigle, Jesse Decker, Darrin Drader, Brian Duckwitz, Robert N. Emerson, Scott Fernandez, Keith Garrett, Scott Gladstein, Matthew Goodall, T.H. Gulliver, BJ Hensley, Tim Hitchcock, Vanessa Hoskins, James Jacobs, Brian R. James, Jason Keeley, John Laffan, Lyz Liddell, Colm Lundberg, Ron Lundeen, Jason Nelson, Randy Price, Jessica Redekop, Patrick Renie, Alistair Rigg, Alex Riggs, David N. Ross, David Schwartz, Mark Seifter, Amber Stewart, Jeffrey Swank, Russ Taylor, and Jason Tondro.
+
+**Pathfinder Bestiary 3 (Second Edition)** © 2021, Paizo Inc.; Authors: Logan Bonner, James Case, Jessica Catalan, John Compton, Paris Crenshaw, Adam Daigle, Katina Davis, Erik Scott de Bie, Jesse Decker, Brian Duckwitz, Hexe Fey, Keith Garrett, Matthew Goodall, Violet Gray, Alice Grizzle, Steven Hammond, Sasha Laranoa Harving, Joan Hong, James Jacobs, Michelle Jones, Virginia Jordan, TJ Kahn, Mikko Kallio, Jason Keeley, Joshua Kim, Avi Kool, Jeff Lee, Lyz Liddell, Luis Loza, Ron Lundeen, Philippe-Antoine Menard, Patchen Mortimer, Dennis Muldoon, Andrew Mullen, Quinn Murphy, Dave Nelson, Jason Nelson, Samantha Phelan, Stephen Radney-MacFarland, Danita Rambo, Shiv Ramdas, BJ Recio, Jessica Redekop, Mikhail Rekun, Patrick Renie, Alex Riggs, David N. Ross, Simone D. Sallé, Michael Sayre, Mark Seifter, Sen.H.H.S, Abigail Slater, Rodney Sloan, Shay Snow, Pidj Sorensen, Kendra Leigh Speedling, Tan Shao Han, William Thompson, Jason Tondro, Clark Valentine, Ruvaid Virk, Skylar Wall, Andrew White, and Landon Winkler.
+  
+**Reserved Material:** This product contains no Reserved Material.
+
+**Expressly Designated Licensed Material:** This product contains no Expressly Designated Licensed Material.
 # About the Author
 **DragnaCarta** first began DMing in 2008 with the 4th Edition "Red Box." Since then, he has run three complete *Curse of Strahd* campaigns, including [*Curse of Strahd: Twice Bitten*](https://www.youtube.com/watch?v=fiu6bM9RxbM), a Rules-As-Written Actual Play featuring five other *Curse of Strahd* DMs as players.
  
