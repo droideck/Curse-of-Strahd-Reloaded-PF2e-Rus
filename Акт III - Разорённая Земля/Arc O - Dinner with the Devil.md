@@ -387,7 +387,7 @@ In addition, remove the description of “sad and majestic organ tones" from the
 </div>
 
 ### Introductions
-If they have previously encountered them in [[Арка D - Пир Св. Андрала]] and [[Arc J - The Stolen Gem]], the players recognize the dainty woman as Volenta Popofsky and the tall woman as Ludmilla Vilisevic. Volenta and Ludmilla recognize the players—Ludmilla regarding them with an icy disdain, and Volenta draining her glass as she scowls at them below her mask.
+If they have previously encountered them in [[Арка D - Пир Св. Андрала]] and [[Арка J - Украденный самоцвет]], the players recognize the dainty woman as Volenta Popofsky and the tall woman as Ludmilla Vilisevic. Volenta and Ludmilla recognize the players—Ludmilla regarding them with an icy disdain, and Volenta draining her glass as she scowls at them below her mask.
 
 Escher and Sasha then close the entry doors behind them, joining the players and other consorts in the great entry. If uninterrupted, Anastrasya attempts to introduce the players to Volenta and Ludmilla—though she adds, with an amused smile, that she “believes they may have already met." 
 

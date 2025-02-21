@@ -108,7 +108,7 @@ You can [[Using This Guide|click here]] to learn how to use and read this guide.
 [[Arc I - The Walls of Krezk]]. The players journey to the ruins of Berez to earn passage to the village of Krezk.
 ## Act III - The Broken Land
 [[Act III Summary]]. A summary of the players' adventures across the broader Barovian valley.
-[[Arc J - The Stolen Gem]]. The players fend off a druidic tribe causing trouble for the Wizard of Wines winery.
+[[Арка J - Украденный самоцвет]]. The players fend off a druidic tribe causing trouble for the Wizard of Wines winery.
 [[Arc K - The Fallen Abbey]]. The players recruit a new ally and restore the Abbot's tainted divinity.
 [[Arc L - The Den of Wolves]]. The players stake out and infiltrate a den of werewolves.
 [[Arc M - The Dragon's Manor]]. The players investigate a haunted manor and unearth the message of the silver dragon Argynvost.
@@ -187,7 +187,9 @@ This product is licensed under the ORC License held in the Library of Congress a
 **Pathfinder Bestiary 2 (Second Edition)** © 2020, Paizo Inc.; Authors: Alexander Augunas, Dennis Baker, Jesse Benner, Joseph Blomquist, Logan Bonner, Paris Crenshaw, Adam Daigle, Jesse Decker, Darrin Drader, Brian Duckwitz, Robert N. Emerson, Scott Fernandez, Keith Garrett, Scott Gladstein, Matthew Goodall, T.H. Gulliver, BJ Hensley, Tim Hitchcock, Vanessa Hoskins, James Jacobs, Brian R. James, Jason Keeley, John Laffan, Lyz Liddell, Colm Lundberg, Ron Lundeen, Jason Nelson, Randy Price, Jessica Redekop, Patrick Renie, Alistair Rigg, Alex Riggs, David N. Ross, David Schwartz, Mark Seifter, Amber Stewart, Jeffrey Swank, Russ Taylor, and Jason Tondro.
 
 **Pathfinder Bestiary 3 (Second Edition)** © 2021, Paizo Inc.; Authors: Logan Bonner, James Case, Jessica Catalan, John Compton, Paris Crenshaw, Adam Daigle, Katina Davis, Erik Scott de Bie, Jesse Decker, Brian Duckwitz, Hexe Fey, Keith Garrett, Matthew Goodall, Violet Gray, Alice Grizzle, Steven Hammond, Sasha Laranoa Harving, Joan Hong, James Jacobs, Michelle Jones, Virginia Jordan, TJ Kahn, Mikko Kallio, Jason Keeley, Joshua Kim, Avi Kool, Jeff Lee, Lyz Liddell, Luis Loza, Ron Lundeen, Philippe-Antoine Menard, Patchen Mortimer, Dennis Muldoon, Andrew Mullen, Quinn Murphy, Dave Nelson, Jason Nelson, Samantha Phelan, Stephen Radney-MacFarland, Danita Rambo, Shiv Ramdas, BJ Recio, Jessica Redekop, Mikhail Rekun, Patrick Renie, Alex Riggs, David N. Ross, Simone D. Sallé, Michael Sayre, Mark Seifter, Sen.H.H.S, Abigail Slater, Rodney Sloan, Shay Snow, Pidj Sorensen, Kendra Leigh Speedling, Tan Shao Han, William Thompson, Jason Tondro, Clark Valentine, Ruvaid Virk, Skylar Wall, Andrew White, and Landon Winkler.
-  
+
+**Pathfinder Lost Omens: Knights of Lastwall** © 2021, Paizo Inc.; Authors: Jessica Catalan, Banana Chan, Ryan Costello, Katina Davis, Alastor Guzman, Ron Lundeen, Ianara Natividad, Erin Roberts, Ashton Sperry, and Isabelle Thorne.
+
 **Reserved Material:** This product contains no Reserved Material.
 
 **Expressly Designated Licensed Material:** This product contains no Expressly Designated Licensed Material.

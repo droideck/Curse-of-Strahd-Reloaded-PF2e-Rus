@@ -32,7 +32,7 @@
 * Added rules regarding the destruction of the hag coven's contract in [[Акт II - Город в Тенях/Арка H - Потерянная душа]]
 * Made it more difficult to accidentally trigger combat with the hag coven in [[Акт II - Город в Тенях/Арка H - Потерянная душа]]
 * Added a fail-forward plotline for players defeated by Baba Lysaga in [[Арка I - Стены Крезка]]
-* Clarified that *spirit guardians* damages the roots in [[Arc J - The Stolen Gem]]
+* Clarified that *spirit guardians* damages the roots in [[Арка J - Украденный самоцвет]]
 * Clarified how Ezmerelda responds upon learning that the players stole from her wagon in [[Арка K - Падшее аббатство]]
 * Reworked [[Arc L - The Den of Wolves]] to remove Kiril's return and add additional evil werewolves loyal to Kiril
 * Made Vladimir Horngaard's flame attacks deal fire damage instead of cold damage in [[Арка M - Поместье Дракона]]
@@ -52,12 +52,12 @@
 * Increased dungeon hall trapdoor recharge time to 24 hours in [[Arc P - Ravenloft Heist]]
 # Version 2.0.8.5 (July 25, 2024)
 * Clarified how often and how many times the clock chimes in [[Arc O - Dinner with the Devil]]
-* Replaced a reference to Ludmilla's ***vengeful ward*** with her ***shroud of shadows*** in [[Arc J - The Stolen Gem]]
+* Replaced a reference to Ludmilla's ***vengeful ward*** with her ***shroud of shadows*** in [[Арка J - Украденный самоцвет]]
 # Version 2.0.8.4 (July 21, 2024)
 * Revised Ludmilla's second-phase claws, mist shards, dissipate, asphyxiate, poison mist, and ambush features in [[Arc P - Ravenloft Heist]]
 * Changed the title of Arc M to [[Арка M - Поместье Дракона]]
 # Version 2.0.8.3 (July 20, 2024)
-* Removed Ludmilla's phase-one fly speed, changed her ***vengeful ward*** feature to a ***shroud of shadows*** bonus action, and modified the text of her ***shroud of shadows*** and ***mage's reprisal*** abilities in [[Arc J - The Stolen Gem]] and [[Arc P - Ravenloft Heist]]
+* Removed Ludmilla's phase-one fly speed, changed her ***vengeful ward*** feature to a ***shroud of shadows*** bonus action, and modified the text of her ***shroud of shadows*** and ***mage's reprisal*** abilities in [[Арка J - Украденный самоцвет]] and [[Arc P - Ravenloft Heist]]
 # Version 2.0.8.2 (July 20, 2024)
 * Added milestones and XP to [[Arc P - Ravenloft Heist]]
 # Version 2.0.8.1 (July 19, 2024)
@@ -79,10 +79,10 @@
 * Added information regarding Lady Wachter's knowledge and character arc in [[Арка F - Желание Леди Вахтер]]
 * Moved Erasmus's plea to arrive just before dawn in [[Акт II - Город в Тенях/Арка H - Потерянная душа]]
 * Added information regarding the players' failure to return a heartstone in [[Акт II - Город в Тенях/Арка H - Потерянная душа]]
-* Removed references to the Fane leeches and the dagger of Leo Dilisnya in [[Акт II - Город в Тенях/Арка H - Потерянная душа]], [[Арка I - Стены Крезка]] and [[Arc J - The Stolen Gem]].
+* Removed references to the Fane leeches and the dagger of Leo Dilisnya in [[Акт II - Город в Тенях/Арка H - Потерянная душа]], [[Арка I - Стены Крезка]] and [[Арка J - Украденный самоцвет]].
 * Added information regarding other areas of Berez in [[Арка I - Стены Крезка]]
 * Redistributed milestone XP in [[Act III Summary]]
-* Added additional reason for the players to return to Kavan's cairn in [[Arc J - The Stolen Gem]]
+* Added additional reason for the players to return to Kavan's cairn in [[Арка J - Украденный самоцвет]]
 * Added NPC profiles for Otto and Zygfrek Belview in [[Арка K - Падшее аббатство]]
 * Added additional details regarding potential attempts to escape the *silverthorn collars* in [[Arc L - The Den of Wolves]]
 * Added additional information regarding Zuleika's ability to lift the Oath of the New Moon in [[Arc L - The Den of Wolves]]
@@ -205,7 +205,7 @@
 * Added NPC profile for Baron Dmitri Krezkov
 * Added travel times
 
-[[Arc J - The Stolen Gem]]
+[[Арка J - Украденный самоцвет]]
 * Relettered arc to compensate for removal of [[Arc D - The Tome of Strahd]]
 * Clarified that Ludmilla's *contingency* spell can't be countered
 * Changed Strahd to instruct the players to meet him at the entrance to the stone circle
@@ -264,11 +264,11 @@
 * Locked Ezmerelda's wagon and reworked the trap protecting her wagon in [[Арка E - Пропавшая вистана]]
 * Revised Ezmerelda's statistics in [[Арка K - Падшее аббатство]]
 * Modified the Abbot's wrath in [[Арка K - Падшее аббатство]] to punish the flesh golem while Vasilka watches, rather than punishing Vasilka
-* Added level markers for [[Arc J - The Stolen Gem]], [[Арка K - Падшее аббатство]], [[Arc L - The Den of Wolves]], and [[Арка M - Поместье Дракона]].
-* Added footnotes referencing intentional homages/inspirations in [[Arc J - The Stolen Gem]] (Ludmilla's speech to Muriel) and [[Арка M - Поместье Дракона]] (Brother Marek's speech to the players).
+* Added level markers for [[Арка J - Украденный самоцвет]], [[Арка K - Падшее аббатство]], [[Arc L - The Den of Wolves]], and [[Арка M - Поместье Дракона]].
+* Added footnotes referencing intentional homages/inspirations in [[Арка J - Украденный самоцвет]] (Ludmilla's speech to Muriel) and [[Арка M - Поместье Дракона]] (Brother Marek's speech to the players).
 # Hotfix 2.0.6.2 (Feb. 1, 2024)
 * Updated table of contents to include [[Arc L - The Den of Wolves]] and [[Арка M - Поместье Дракона]].
-* Added Muriel's relaying of Strahd's Tarokka reading from [[Арка C - В Долину]] at the end of [[Arc J - The Stolen Gem]]
+* Added Muriel's relaying of Strahd's Tarokka reading from [[Арка C - В Долину]] at the end of [[Арка J - Украденный самоцвет]]
 # Hotfix 2.0.6.1 (Jan. 31, 2024)
 * Delayed Ezmerelda's request to investigate the werewolf den in [[Arc L - The Den of Wolves]] to one day after she first meets the players in [[Арка K - Падшее аббатство]]
 * Corrected the travel time from the Old Svalich Road to Argynvostholt in [[Арка M - Поместье Дракона]]
@@ -292,8 +292,8 @@
 * Modified the names of the lambda spells cast by the coven in [[Акт II - Город в Тенях/Арка H - Потерянная душа]] to avoid confusion with RAW spells.
 * Removed disadvantage on ranged attacks made by the **Ba'al Verzi Avenger** in [[Акт II - Город в Тенях/Арка H - Потерянная душа]]
 * Clarified the tactics of the **gallows speaker** in [[Акт II - Город в Тенях/Арка H - Потерянная душа]]
-* Clarified the behavior of the druids if alerted in [[Arc J - The Stolen Gem]]
-* Pushed back Baron Krezkov's invitation to stay at his family's home in [[Арка K - Падшее аббатство]] until after the players have completed [[Arc J - The Stolen Gem]]
+* Clarified the behavior of the druids if alerted in [[Арка J - Украденный самоцвет]]
+* Pushed back Baron Krezkov's invitation to stay at his family's home in [[Арка K - Падшее аббатство]] until after the players have completed [[Арка J - Украденный самоцвет]]
 * Added an NPC profile for Ezmerelda d'Avenir in [[Арка K - Падшее аббатство]]
 * Changed the name of Anna Krezkova's ancestor in [[Арка K - Падшее аббатство]]
 * Added [[Glossary
@@ -309,8 +309,8 @@
 • Replaced Victor's decision to cast *fly* in battle against the hags in [[Акт II - Город в Тенях/Арка H - Потерянная душа]] with a casting of *greater invisibility*
 • Clarified how the players can obtain Erasmus's knowledge of gallows speakers in [[Акт II - Город в Тенях/Арка H - Потерянная душа]]  
 • Clarified where the hag coven stands upon the players' return and the hags' sizes in [[Акт II - Город в Тенях/Арка H - Потерянная душа]]  
-• Revised the area description of the Whispering Wall in [[Arc J - The Stolen Gem]]  
-• Added spell save DCs to the *twilight crest* in [[Arc J - The Stolen Gem]]  
+• Revised the area description of the Whispering Wall in [[Арка J - Украденный самоцвет]]  
+• Added spell save DCs to the *twilight crest* in [[Арка J - Украденный самоцвет]]  
 • Gave Izek the ***indomitable*** feature (if Izek would be paralyzed or stunned, he is slowed instead.)  
 • Clarified that two-phase bosses retain conditions in their second forms but excess damage doesn't carry over  
 • Clarified the date(s) on which Rahadin delivers Strahd's dinner invitation in [[Arc O - Dinner with the Devil]]  
@@ -319,14 +319,14 @@
 * Changed enemies with multiple reactions per round to lose only one reaction if they would lose their reactions and aren't incapacitated (e.g., if hit by *shocking grasp*)
 # Hotfix 2.0.5.3 (Jan. 3, 2024)
 * Added [Challenge Ratings 2.0](https://dragna.io/challenge-rated) encounter balancing information for smaller and larger parties. (Credit to @Cheese on the Patreon Discord.)
-* Added room codes to winery scenes in [[Arc J - The Stolen Gem]]
+* Added room codes to winery scenes in [[Арка J - Украденный самоцвет]]
 * Fixed assorted typos
 # Hotfix 2.0.5.2 (Dec. 14, 2023)
 * Removed Ezmerelda's knowledge of Kiril Stoyanovich's real name and replaced it with a nickname
 # Hotfix 2.0.5.1 (Dec. 13, 2023)
 * Fixed assorted typos
-* Removed Muriel's reference to Kavan as "Blood-Drinker" in [[Arc J - The Stolen Gem]].
-* Revised Strahd's wager at Yester Hill in [[Arc J - The Stolen Gem]] to use player-offered collateral, rather than the players' lives.
+* Removed Muriel's reference to Kavan as "Blood-Drinker" in [[Арка J - Украденный самоцвет]].
+* Revised Strahd's wager at Yester Hill in [[Арка J - Украденный самоцвет]] to use player-offered collateral, rather than the players' lives.
 * Removed information about embracing a werewolf's curse from Van Richten's manuscript in [[Арка C - В Долину]]
 # Version 2.0.5 (Dec. 13, 2023)
 **General Changes**
@@ -334,7 +334,7 @@
 * Added new artwork by artist Caleb Cleveland  
 * Merged Act IV into Act III  
 * Fixed assorted typos
-* Added [[Arc J - The Stolen Gem]], the first half of [[Арка K - Падшее аббатство]], and the beginning of [[Arc O - Dinner with the Devil]].
+* Added [[Арка J - Украденный самоцвет]], the first half of [[Арка K - Падшее аббатство]], and the beginning of [[Arc O - Dinner with the Devil]].
 
 **[[A DM's Guide to Curse of Strahd]]**
 * Clarified that monsters do not award XP  
