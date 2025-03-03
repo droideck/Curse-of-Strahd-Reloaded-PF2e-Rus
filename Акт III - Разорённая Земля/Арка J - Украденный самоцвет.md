@@ -225,7 +225,7 @@ _Приключение для четырёх персонажей 6-го уро
 
 Когда игроки входят в эту область, Мюриэль шепчет, что что-то не так, отмечая, что дорога "не пахла смертью", когда она проходила здесь в последний раз.
 
-Дорога здесь скрывает ловушку с шипами, замаскированную как описано в <span class="citation">Ложный след (стр. 30)</span>. Пучки лиан (и источник запаха тления) — это пять **[Убийственных Лоз](https://2e.aonprd.com/Monsters.aspx?ID=555)**, скрытых благодаря использованию их способности ***ложный облик***.
+Дорога здесь скрывает ловушку с шипами, замаскированную как описано в <span class="citation">Ложный след (стр. 30)</span>. Пучки лиан (и источник запаха тления) — это пять **[Элитных Убийственных Лоз](https://2e.aonprd.com/Monsters.aspx?ID=555)**, скрытых благодаря использованию их способности ***ложный облик***.
 
 ---
 #### Spiked Pit Trap - Hazard 6
@@ -234,7 +234,7 @@ _Electricity, Evocation, Magical, Trap_
 **Stealth** DC 24 (expert)
 
 **Disable**
-DC 30 Thievery (master) to disable the runes, or **dispel magic** (5th level; counteract DC 30) to counteract the trap.
+DC 26 Thievery (expert) to disable the trap
 
 **Pitfall - ↻** **Trigger** A creature moves onto the leaf-covered hide;
 **Effect** The triggering creature falls in and takes falling damage (10 bludgeoning damage) and is targeted by a spike's Strike. A falling creature can attempt to Grab an Edge with a DC 24 Reflex save.
@@ -599,9 +599,10 @@ In response to being attacked by a creature it can see, the druid casts Oaken Re
 
 Если игроки освобождают воронов из клеток, они присоединяются к отряду как **рой воронов** под предводительством ворона, которого пытала Сильвия.
 
-<div class="statblock"> <h2>Druid Naturalist - Creature 5</h2> <em>Medium humanoid (human)</em> <hr> <strong>Perception</strong> +13; darkvision<br> <strong>Languages</strong> Common, Grippli<br> <strong>Skills</strong> Acrobatics +11, Athletics +9, Diplomacy +10, Medicine +11, Nature +14, Religion +11, Stealth +11, Survival +11<br> <strong>Str</strong> +2, <strong>Dex</strong> +4, <strong>Con</strong> +1, <strong>Int</strong> +1, <strong>Wis</strong> +4, <strong>Cha</strong> +0 <hr> <strong>AC</strong> 21<br> <strong>HP</strong> 71<br> <strong>Fortitude</strong> +10, <strong>Reflex</strong> +13, <strong>Will</strong> +13<br> <strong>Speed</strong> 25 feet, climb 20 feet <hr> <h3>Melee Attacks</h3> <p><strong>Staff</strong> ◆ +11 (two-hand d8), <strong>Damage</strong> 1d4+4 bludgeoning</p> <h3>Ranged Attacks</h3> <p><strong>Dart</strong> ◆ +13 (agile, thrown 20 feet), <strong>Damage</strong> 1d4+4 piercing</p> <hr> <h3>Reactive Abilities</h3> <p><strong>Gift of the Gulthias</strong> ↻<br> In response to being attacked by a creature it can see, the druid casts barkskin, provided it has a 2nd-level spell slot available.</p> <hr> <h3>Spellcasting</h3> <p><strong>Primal Prepared Spells</strong> DC 23, attack +13; Focus Points 1<br> <strong>3rd (2 slots)</strong> thunderburst, summon plant or fungus<br> <strong>2nd (3 slots)</strong> animal form, barkskin, entangle, speak with animals<br> <strong>1st (3 slots)</strong> jump, pass without trace, shillelagh<br> <strong>Cantrips (3rd)</strong> acid splash, guidance, know direction, produce flame, tanglefoot</p> <hr> <h3>Inventory</h3> <ul> <li>Staff</li> <li>Darts (4)</li> </ul> </div>
+<div class="statblock"> <h2>Druid Naturalist - Creature 5</h2> <em>Medium humanoid (human)</em> <hr> <strong>Perception</strong> +13; darkvision<br> <strong>Languages</strong> Common, Grippli<br> <strong>Skills</strong> Acrobatics +11, Athletics +9, Diplomacy +10, Medicine +11, Nature +14, Religion +11, Stealth +11, Survival +11<br> <strong>Str</strong> +2, <strong>Dex</strong> +4, <strong>Con</strong> +1, <strong>Int</strong> +1, <strong>Wis</strong> +4, <strong>Cha</strong> +0 <hr> <strong>AC</strong> 21<br> <strong>HP</strong> 71<br> <strong>Fortitude</strong> +10, <strong>Reflex</strong> +13, <strong>Will</strong> +13<br> <strong>Speed</strong> 25 feet, climb 20 feet <hr> <h3>Melee Attacks</h3> <p><strong>Staff</strong> ◆ +11 (two-hand d8), <strong>Damage</strong> 1d4+4 bludgeoning</p> <h3>Ranged Attacks</h3> <p><strong>Dart</strong> ◆ +13 (agile, thrown 20 feet), <strong>Damage</strong> 1d4+4 piercing</p> <hr> <h3>Reactive Abilities</h3> <p><strong>Gift of the Gulthias</strong> ↻<br> In response to being attacked by a creature it can see, the druid casts barkskin, provided it has a 2nd-level spell slot available.</p> <hr> <h3>Spellcasting</h3> <p><strong>Primal Prepared Spells</strong> DC 23, attack +13; Focus Points 1<br> <strong>3rd (2 slots)</strong> noise blast, haste<br> <strong>2nd (3 slots)</strong> animal form, barkskin, entangle, speak with animals<br> <strong>1st (3 slots)</strong> jump, pass without trace, shillelagh<br> <strong>Cantrips (3rd)</strong> void warp, guidance, know direction, electric arc, tanglefoot</p> <hr> <h3>Inventory</h3> <ul> <li>Staff</li> <li>Darts (4)</li> </ul> </div>
 
 <div class="statblock"> <h2>Swarm of Mandragoras - Creature 4</h2> <em>Large plant (mindless, swarm)</em> <hr> <strong>Perception</strong> +9; darkvision<br> <strong>Skills</strong> Athletics +11, Stealth +12 (+14 amid decaying plant matter or fungus)<br> <strong>Str</strong> +3, <strong>Dex</strong> +4, <strong>Con</strong> +5, <strong>Int</strong> -5, <strong>Wis</strong> +1, <strong>Cha</strong> -3 <hr> <strong>AC</strong> 20<br> <strong>HP</strong> 65; fast healing 5<br> <strong>Immunities</strong> critical hits, fire, precision, visual<br> <strong>Resistances</strong> bludgeoning 5, electricity 5, piercing 5, slashing 3<br> <strong>Weaknesses</strong> area damage 5, splash damage 5, fire 5<br> <strong>Fortitude</strong> +13, <strong>Reflex</strong> +12, <strong>Will</strong> +7<br> <strong>Speed</strong> 30 feet, climb 30 feet <hr> <h3>Offensive Actions</h3> <p><strong>Swarming Bites</strong> ◆<br> Each enemy in the swarm's space takes 2d8 piercing damage (DC 19 basic Reflex save) and is exposed to mandragora venom. A successful save negates the poison exposure.</p> <p><strong>Piercing Shriek</strong> ◆ (auditory, mental, primal)<br> <strong>Frequency</strong> once per day<br> The mandragora emits an unsettling shriek. Each non-mandragora creature within 30 feet must attempt a DC 19 Will save.<br> <strong>Critical Success</strong> The creature is unaffected<br> <strong>Success</strong> The creature is Sickened 1<br> <strong>Failure</strong> The creature is Sickened 2<br> <strong>Critical Failure</strong> The creature is Sickened 2 and Slowed 1. As long as the creature remains sickened, this slowed condition value can't be reduced below 1</p> <hr> <h3>Reactive Abilities</h3> <p><strong>Blood Drain</strong> ◇<br> <strong>Trigger</strong> An enemy takes damage from the mandragora swarm's Swarming Bites action<br> <strong>Effect</strong> The mandragora swarm drains blood from the creature, dealing 2d6 damage. If the creature is a demon, fey, or sorcerer, the mandragora gains temporary Hit Points equal to the damage dealt. A creature that has its blood drained by a mandragora is Drained 1 until it receives healing of any kind or amount.</p> <hr> <h3>Additional Abilities</h3> <p><strong>Blood Scent</strong><br> A mandragora can smell creatures with blood as an imprecise sense at a range of 30 feet, and it can smell demons, fey, and sorcerers with blood as a precise sense at a range of 30 feet.</p> <p><strong>Vulnerability to Supernatural Darkness</strong><br> Whenever the mandragora swarm begins its turn in an area of magical darkness, it is slowed 1 on that turn.</p> <p><strong>Mandragora Venom</strong> (poison)<br> <strong>Saving Throw</strong> DC 20 Fortitude<br> <strong>Maximum Duration</strong> 6 rounds<br> <strong>Stage 1</strong> 1d6 poison damage and Stupefied 1 (1 round)<br> <strong>Stage 2</strong> 1d6 poison damage, Confused, and Stupefied 1 (1 round)<br> <strong>Stage 3</strong> 2d6 poison damage, Confused, and Stupefied 1 (1 round)</p> </div>
+
 ## J3d. Первый этаж
 Первый этаж винодельни в основном такой, как описано в <span class="citation">W2. Погрузочный док (стр. 176)</span>, <span class="citation">W3. Мастерская бондаря (стр. 176)</span>, <span class="citation">W4. Хранилище бочек (стр. 176)</span>, <span class="citation">W5. Веранда (стр. 176)</span> и <span class="citation">W8. Склад (стр. 176)</span>. Две тягловые лошади Мартиковых оказались в ловушке в <span class="citation">W1. Конюшни (стр. 176)</span> из-за толстых рядов ядовитой лозы-бритвы (см. выше), покрывающих двери.
 
@@ -744,676 +745,653 @@ In response to being attacked by a creature it can see, the druid casts Oaken Re
 
 > [!info]+ **Очищение небес**
 > Стриксы — ресурс ограниченный, и требуется время и материалы, чтобы создать новых. Победа над **большими стриксами**, защищающими Лоргота, вновь очищает небеса для Хранителей Пера и их воронов, по крайней мере временно.
-# J4. The Path to Yester Hill
-If the players agree to travel to Yester Hill the following morning, Muriel wakes them two hours before dawn. 
 
-After asking the players whether they had a good night’s rest, Muriel quietly informs them that she’ll need to make a quick detour en route to Yester Hill to meet with a contact she has in the area—a man named Kavan. While she can’t be sure, she has reason to believe that Kavan might have more information about the druids’ plans and defenses. 
+# J4. Путь к Холму Былого
+Если игроки соглашаются отправиться к Холму Былого следующим утром, Мюриэль будит их за два часа до рассвета.
 
-If the players appear receptive, Muriel asks them to promise not to share this detour with Davian, who she believes would likely disapprove. She’s reluctant to provide more information than that, promising only that Kavan is neither dangerous nor a servant of Strahd, and that she’ll share more when they meet him. 
+После того, как она спросит игроков, хорошо ли они отдохнули, Мюриэль тихо сообщает им, что ей нужно будет сделать небольшой крюк по пути к Холму Былого, чтобы встретиться со своим контактом в этом районе — человеком по имени Каван. Хотя она не может быть уверена, у неё есть основания полагать, что Каван может иметь больше информации о планах и защите друидов.
 
-If pressed, Muriel shares only that Kavan is a spirit that dwells in the Svalich Wood, and that she intends to summon and speak with him as she has multiple times before. (Muriel doesn’t know Kavan’s history, nor his relationship to the druids, and can’t read the inscription on his cairn.)
+Если игроки проявляют интерес, Мюриэль просит их пообещать не рассказывать об этом крюке Давиану, который, по её мнению, вероятно, не одобрил бы этого. Она неохотно предоставляет больше информации, обещая лишь, что Каван не опасен и не является слугой Страда, и что она расскажет больше, когда они встретятся с ним.
 
-The journey from the Wizard of Wines to Yester Hill is 2.5 miles and 50 minutes long. As the players set off, read:
+Если её прижать, Мюриэль поделится лишь тем, что Каван — это дух, обитающий в Сваличском лесу, и что она намеревается вызвать его и поговорить с ним, как делала это много раз прежде. (Мюриэль не знает истории Кавана, ни его отношений с друидами, и не может прочитать надпись на его каирне.)
 
-<div class="description"> 
-<p>A thin, chilling mist curls through the vineyard, twisting around your ankles as you set off from the winery toward the main path. You head south, cold moonlight filtering in from the lower clouds and casting long shadows across the loamy earth. </p>
-<p>The velvet cloak of the night sky rests silently overhead, but it's soon swallowed by the gnarled canopy of the Svalich Wood, whose long, dark branches reach over the path like skeletal limbs. The mist is thicker here, the air crisp and chill, and a palpable silence seems to envelop the entirety of the wood. The quiet is only occasionally broken by the snap of a twig underfoot, the squelch of mud beneath your boots, or the distant hoot of a mournful owl.</p>
+Путь от Винного Волшебника до Холма Былого составляет 2,5 мили и занимает 50 минут. Когда игроки отправляются в путь, прочтите:
+
+<div class="description"> 
+<p>Тонкий, леденящий туман вьётся по винограднику, обвиваясь вокруг ваших лодыжек, когда вы отправляетесь от винодельни к главной тропе. Вы направляетесь на юг, холодный лунный свет проникает сквозь нижние облака и отбрасывает длинные тени на рыхлую землю.</p>
+<p>Бархатный плащ ночного неба безмолвно раскинулся над головой, но вскоре его поглощает искривлённый полог Сваличского леса, чьи длинные, тёмные ветви нависают над тропой, словно скелетные конечности. Туман здесь гуще, воздух свежий и холодный, и ощутимая тишина, кажется, окутывает весь лес. Тишину лишь изредка нарушает треск ветки под ногами, хлюпанье грязи под вашими сапогами или отдалённое уханье печальной совы.</p>
 </div>
 
-As the players travel south, four **swarms of ravens** take off from a nearby tree and follow them down the road, flying above the canopy. Muriel informs the players that the ravens likely want to help, and that they can keep watch in the skies while the players traverse the road. (The ravens perch in the branches of nearby trees whenever the players stop on the road.)
+Когда игроки движутся на юг, четыре **стаи воронов** взлетают с ближайшего дерева и следуют за ними по дороге, летя над пологом леса. Мюриэль сообщает игрокам, что вороны, вероятно, хотят помочь, и что они могут наблюдать в небе, пока игроки идут по дороге. (Вороны садятся на ветви близлежащих деревьев, когда игроки останавливаются на дороге.)
 
-While traveling along the path, Muriel notes wistfully that she used to walk it with a friend of hers not long ago. "It's so strange," she says quietly, "how quickly things can change for the worse." If asked, Muriel can share that her "friend" was Elric Martikov, Elvir's twin brother and her own betrothed, and that Elric proposed to her during a walk in the woods along this very path. If asked her "friend's" fate, Muriel replies curtly, "He died," and refuses to elaborate; if pushed, she shares only that his death is too fresh and painful in her mind to relive it.
-## J4a. Kavan’s Cairn
-Three-quarters of a mile and fifteen minutes south of the winery, if she is with the players, Muriel briefly leads them off of the main path and onto an old and overgrown footpath. If the players follow, read:
+Путешествуя по тропе, Мюриэль с грустью отмечает, что она обычно ходила по ней со своим другом не так давно. "Как странно," — тихо говорит она, — "как быстро всё может измениться к худшему." Если спросить, Мюриэль может рассказать, что её "другом" был Элрик Мартиков, брат-близнец Эльвира и её собственный жених, и что Элрик сделал ей предложение во время прогулки по лесу по этой самой тропе. Если спросить о судьбе её "друга", Мюриэль резко отвечает: "Он умер", и отказывается вдаваться в подробности; если настаивать, она лишь говорит, что его смерть слишком свежа и болезненна в её памяти, чтобы переживать её заново.
+
+## J4a. Каирн Кавана
+В трёх четвертях мили и пятнадцати минутах пути к югу от винодельни, если Мюриэль с игроками, она ненадолго сворачивает с главной тропы на старую заросшую тропинку. Если игроки следуют за ней, прочтите:
 
 <div class="description">
-<p>The footpath veers deeper into the undergrowth, the vines and underbrush clutching at your clothing like soft, grasping hands as you cut forward through the tangled flora. The trees grow close together here, and the air grows thick with heavy silence. </p>
-<p>It's not long, however, before the path opens up into a small, mossy clearing, illuminated faintly by pale moonlight. A soft, crisp wind dances through the trees here, the rustling of the leaves sounding almost like a cacophony of whispers. At the center of the clearing stands a tall mound of large, black stones—an ancient cairn adorned with lichens, red blooms, and a collection of strange runes. </p>
+<p>Тропинка уходит глубже в подлесок, лианы и кустарник цепляются за вашу одежду, словно мягкие, хватающие руки, пока вы пробираетесь сквозь спутанную растительность. Деревья растут здесь близко друг к другу, и воздух становится густым от тяжёлой тишины.</p>
+<p>Однако вскоре тропа выводит на небольшую, поросшую мхом поляну, слабо освещённую бледным лунным светом. Мягкий, свежий ветер танцует здесь между деревьями, шелест листьев звучит почти как какофония шёпота. В центре поляны стоит высокий холм из больших чёрных камней — древний каирн, украшенный лишайниками, красными цветами и коллекцией странных рун.</p>
 </div>
 
-A player who speaks Druidic notices that the runes on the mound form an epitaph. They read: 
+Игрок, который говорит на Друидском, замечает, что руны на холме образуют эпитафию. Они гласят:
 
 <div class="description" style="text-align: center">
-<p>KAVAN, THE BLOOD-DRINKER
+<p>КАВАН, КРОВОПИЙЦА
 <br>
-FORSAKEN OF THE ROZANA
+ОТВЕРГНУТЫЙ ВЕРДАНИ
 <br>
-FIRST AND LAST CHIEFTAIN OF THE BALINOK MOUNTAINS.
+ПЕРВЫЙ И ПОСЛЕДНИЙ ВОЖДЬ БАЛИНОКСКИХ ГОР.
 <br>
-MAY HIS SPIRIT REAP THE HARVEST OF HIS ARROGANCE</p>
+ПУСТЬ ЕГО ДУХ ПОЖИНАЕТ ПЛОДЫ СВОЕЙ НАДМЕННОСТИ</p>
 </div>
 
-Unless prevented, Muriel kneels before the cairn, produces a dagger from her boot, and makes a cut across her palm, allowing a few drops of blood to drip into a basin at the base of the cairn. (She then quickly curls her palm into a fist, hiding her **wereraven** regeneration as it quickly knits the wound shut.)
+Если её не остановить, Мюриэль преклоняет колени перед каирном, достаёт кинжал из своего сапога и делает надрез на ладони, позволяя нескольким каплям крови упасть в чашу у основания каирна. (Затем она быстро сжимает ладонь в кулак, скрывая свою регенерацию **оборотня-ворона**, которая быстро заживляет рану.)
 
-When she does, read:
+Когда она это делает, прочтите:
 
 <div class="description">
-<p>As Muriel's blood drips into the basin, the low curtain of mist around the cairn seems to quiver. The mists rise, gently swirling into the air, until the spectral form of a man steps forth from their moonlit depths.</p>
-<p>His face is lined and weather-worn, his thick brow creased above dark, piercing eyes. He is clad in simple, leather armor and roughspun cloth, his arms and chest marked with a tapestry of scars and tattoos that seem to shimmer in the pale, eerie light. Earrings forged of animal bone and jagged obsidian hang down to his shoulders, which are near-covered by a cascade of long, dark hair.</p>
-<p>His hands are calloused and rough, a wooden buckler grasped in his left. In his right hand, he wields a long, wicked spear forged of mist, its point seeming to devour the ethereal light that suffuses the clearing. </p>
-<p>"Greetings, Muriel Vinshaw," the spirit rumbles. "I see you have brought new companions this time."</p>
+<p>Когда кровь Мюриэль капает в чашу, низкий занавес тумана вокруг каирна, кажется, дрожит. Туман поднимается, мягко кружась в воздухе, пока из его освещённых луной глубин не выступает призрачная фигура мужчины.</p>
+<p>Его лицо испещрено морщинами и обветрено, толстые брови нахмурены над тёмными, пронзительными глазами. Он одет в простую кожаную броню и грубую ткань, его руки и грудь отмечены узором из шрамов и татуировок, которые, кажется, мерцают в бледном, жутком свете. Серьги из костей животных и зазубренного обсидиана свисают до его плеч, которые почти скрыты каскадом длинных, тёмных волос.</p>
+<p>Его руки мозолистые и грубые, в левой он держит деревянный баклер. В правой руке он сжимает длинное, зловещее копьё, сотканное из тумана, его остриё, кажется, поглощает эфирный свет, наполняющий поляну.</p>
+<p>"Приветствую, Мюриэль Виншоу," — громыхает дух. "Я вижу, на этот раз ты привела новых спутников."</p>
 </div>
 
 ![[Kavan.png]]
-<span class="credit">"Kavan" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
-Muriel introduces the spirit as the **ghost** of Kavan, an ancestor of the Mountain Folk, and introduces the players by name.
+<span class="credit">"Каван" от Caleb Cleveland. Поддержите его на <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-> [!lore]+ **Kavan's Legacy**
-> Long before Strahd arrived in the valley, Kavan was the young chieftain of one of several tribes of the First Folk that dwelled among the Balinok Mountains. Ambitious and proud, he entered the Whispering Wall in defiance of the ancient strictures. There, an echo of the Devourer whispered to him the secrets of the Huntress’s sacred spear, and the means by which he could claim its power for his own.
->
-> Kavan stole the Huntress’s spear from the Forest Fane, and used the Devourer’s secrets to strengthen his warriors and deface the shrines of the Ladies Three. Named “Blood-Drinker" for the power of his spear and his savage rituals in combat, Kavan waged brutal war on the neighboring tribes, seeking to unite them beneath the glory of his own tribe and banner.
->
-> The druids of the First Folk, horrified by his blasphemy, withdrew to the sacred village of Soldav on Mount Ghakis. There, they named him “enemy," banishing him from the holy center of their faith. The Ladies, weakened by Kavan’s acts, withdrew their grace from their people, leaving them despondent under the new tyrant’s rule.
->
-> Kavan lived long enough to see his sons and daughters turn and squabble amongst themselves, fracturing the nation he had worked long ago to build. As Kavan lay sick and dying in his elder years, the last news he received was that of a new invasion—this time, from the east, as King Dostron the Hellborn swept into the valley in search of new lands to conquer.
->
-> When Kavan died, instead of burying him in a place of honor upon Yester Hill with the great chieftains of the past, the druids he had once spurned buried his body in a lonely cairn far away from Yester Hill, cursing his spirit to linger amidst the twilight without glory, fear, or favor.
+Мюриэль представляет духа как **призрака** Кавана (используйте статблок [Призрак простолюдина](https://2e.aonprd.com/Monsters.aspx?ID=3007), масштабированный до 10-го уровня), предка Горного Народа, и представляет игроков по имени.
 
-Kavan greets the players warmly, hailing them as warriors, and asking to know their "clans and victories." If asked about his own clan, his smile fades, and he declines to respond, noting only that his relationship with his people is complex.
+> [!lore]+ **Наследие Кавана**
+> Задолго до прибытия Страда в долину, Каван был молодым вождём одного из нескольких племён Первого Народа, обитавшего среди Балинокских гор. Амбициозный и гордый, он вошёл в Шепчущую Стену вопреки древним запретам. Там эхо Пожирателя прошептало ему секреты священного копья Охотницы и средства, с помощью которых он мог присвоить его силу себе.
+>
+> Каван украл копьё Охотницы из Лесного Капища и использовал секреты Пожирателя, чтобы усилить своих воинов и осквернить святилища Трёх Леди. Прозванный "Кровопийцей" за силу своего копья и свои жестокие ритуалы в бою, Каван вёл жестокую войну против соседних племён, стремясь объединить их под славой своего собственного племени и знамени.
+>
+> Друиды Первого Народа, ужаснувшись его богохульству, удалились в священную деревню Солдав на горе Гхакис. Там они назвали его "врагом", изгнав из святого центра своей веры. Леди, ослабленные деяниями Кавана, лишили свой народ своей милости, оставив их в отчаянии под властью нового тирана.
+>
+> Каван жил достаточно долго, чтобы увидеть, как его сыновья и дочери ссорятся между собой, раскалывая нацию, которую он давно стремился построить. Когда Каван лежал больной и умирающий в преклонные годы, последней новостью, которую он получил, было известие о новом вторжении — на этот раз с востока, когда король Дострон Адский вторгся в долину в поисках новых земель для завоевания.
+>
+> Когда Каван умер, вместо того, чтобы похоронить его в почётном месте на Холме Былого вместе с великими вождями прошлого, друиды, которых он когда-то презирал, похоронили его тело в одиноком каирне вдали от Холма Былого, проклиная его дух пребывать в сумерках без славы, страха или благосклонности.
 
-Once the players have introduced themselves, Muriel begins by informing Kavan that they’ve come to seek his knowledge of the druids of Yester Hill. As she does, Kavan notices something in the woods. Read:
+Каван тепло приветствует игроков, приветствуя их как воинов, и спрашивая об их "кланах и победах". Если его спросят о его собственном клане, его улыбка исчезает, и он отказывается отвечать, отмечая лишь, что его отношения с его народом сложны.
 
-<div class="description">
-<p>You hear a rustling from the woods behind you, and the ravens above you shuffle uneasily. The spirit’s gaze snaps to a point across your shoulders and he holds up a hand, his grip tightening around the haft of his spear. “Hold, Muriel Vinshaw," he murmurs. “We are not alone. Something watches us from the shadows."</p>
-</div>
-
-A player with a passive Wisdom (Perception) score of 17 or higher sees a humanoid silhouette flicker in the trees before vanishing amidst the darkness. (The silhouette is Strahd, but cannot be recognized in the darkness.)
-
-> [!abstract]+ **Investigating the Silhouette**
-> If a player investigates the place where the silhouette appeared, read:
->
-> <hr>
->
-> Dead leaves crunch underfoot as you pass between the trees, and the thick mud squelches beneath your boots. There’s no sign of any living soul amidst the cold darkness, however, though you notice a faint, reddish light flickering in the distance, like a campfire obscured by branches and brambles.
->
-> <hr>
->
-> The light comes from Beucephalus, Strahd’s **nightmare.**
->
-> If the player moves toward or attempts to interact with the light, read:
->
-> <hr>
->
-> Suddenly, the ambient sounds of the forest - the whispering wind, the rustling leaves, even the distant hooting of an owl - go eerily silent. From the depths of the shadows, where the trees are thickest and the light dare not penetrate, comes a deep, lurking malevolence. 
->
-> The air seems to hum with tension, like the tendons of a beast waiting to pounce, and you cannot help but feel, to the very depths of your soul, that you are being watched by something powerful, old, and almost unfathomably patient.
->
-> And then—the sensation fades. The quiet sounds of the woods return. And, a heartbeat later, the crimson light flickers out.
->
-> <hr>
->
-> As the player moves to depart the clearing, read:
->
-> <hr>
->
-> You notice a faint glitter of cold, cerulean light from the forest floor, half-concealed by mulch and dimly illuminated by the little moonlight that pierces through the canopy.
->
-> <hr>
->
-> If the player investigates the light, read:
->
-> <hr>
->
->  As you sift through the underbrush, your fingers brush against something hard and smooth, half-buried in the soil.
->
->  It appears to be a small statuette of a butterfly, no larger than the palm of your hand and carved from petrified wood, which is embedded with small, glittering blue minerals that seem to dance with captured moonlight. The figurine's wings are outstretched, as though caught in mid-flight.
-
-At Muriel’s request, Kavan can share the following information about the Forest Folk of Yester Hill:
-
-* The druids of the Forest Folk have been more active lately, gathering berserkers from the northern basin and leading blights of the Gulthias Tree down to the lands below. They appear to have obtained a new leader: a dark-skinned woman clad in a white gown and a golden tiara, with piercing eyes and a pair of sharp fangs. Kavan believes her to be a mage, having seen her conjure strange lights and sounds. (This is Ludmilla Vilisevic, one of Strahd’s vampiric brides.)
-* Recently, the Forest Folk of Yester Hill—which Kavan’s people once called Sarmizeget—obtained something both new and yet incredibly old: an enchanted gemstone once belonging to Kavan's people that he thought lost long ago. The Forest Folk have constructed an enormous effigy of wood and earth atop the hill, within the great stone circle that serves as their meeting place, and placed the gemstone within the statue’s chest.
-* Some of the Forest Folk appear to be preparing to instill the power of the gemstone within the statue, which is woven from the roots of the Gulthias Tree that grows atop Yester Hill. The ritualists have bonded themselves to the tree’s bloodthirsty roots, and plan to harness the power of the eternal storm above Yester Hill to give life to the being within the statue.
-* The Gulthias Tree is a dark and corrupted entity, and an accomplice to the druids’ will. Kavan warns them that the tree might attempt to obstruct their efforts, but informs them that radiance burns it and slows its new growth. He notes that the tree thirsts especially for cursed blood, which strengthens and restores it.
-* There are more than a dozen druids and berserkers now atop Yester Hill, though more have been arriving every day. They appear to be waiting for the one they call the “Shadowed Lord"—the lord of the fortress to the east. (Kavan is referring to Strahd von Zarovich and Castle Ravenloft.)
-
-Kavan advises the players that the druids of the Forest Folk appear to be far less capable than their ancestors. Should the players succeed in disrupting their ritual — such as by removing the gemstone from the statue’s chest before the ritual is complete— the resulting backlash from the storm’s harnessed energy could kill any surviving ritualists.
-
-Should the players express interest in destroying the Gulthias Tree itself, Kavan warns them against doing so, noting that, while he does not know the source of its power, it is the host to a great and terrible evil. He can share, however, that until the mage taught the druids to command its children, the tree took little action on its own and appeared content to remain atop Yester Hill. Should the players defeat the druids of the Forest Folk, he notes, they will likely find the Gulthias Tree to pose little threat to them or their friends.
-
-As the players depart, or if they have additional questions about Kavan, the Forest Folk, or the enchanted gemstones, Kavan informs them that one of the druids—an elder named Svarog—wields a gnarled wand forged of petrified wood. Kavan asks them to retrieve Svarog's wand, which was once wielded by the spiritual leaders among his people. "Should you return it to me and prove that you are trustworthy," he promises, "I shall tell you where you may find a weapon of great strength to aid you in your fight.
-
-> [!abstract]+ **Kavan's Shame**
-> If a player asks Kavan about his epitaph, he replies, "I failed my people in life. In death, I wish to atone for those mistakes."
-## J4b. The Nightmare
-After departing Kavan’s cairn, the players can return to the path and continue traveling south to Yester Hill. After one and one-quarter miles and an additional twenty-five minutes, the players encounter Strahd von Zarovich riding his **nightmare**, Beucephalus. Read:
+После того, как игроки представятся, Мюриэль начинает с того, что сообщает Кавану, что они пришли, чтобы узнать о его знаниях о друидах Холма Былого. Когда она это делает, Каван замечает что-то в лесу. Прочтите:
 
 <div class="description">
-<p>"Good evening," echoes a voice from ahead of you, "or, perhaps, good morning?"</p>
-<p>A tall, pale figure emerges from the inky darkness betwixt the trees, riding atop a fiery steed. The figure's eyes burn through the shadows like smoldering coals, and his alabaster skin seems as cold as marble in the moonlight. He is immaculate in dark, tailored armor, and beneath his pristine, obsidian-black hair, his lips—as red as fresh blood—curl into a satisfied, malevolent smile.</p>
-<p>The steed beneath him snorts, flames dancing from its nostrils as its fiery mane flickers like a hellish halo around its head. Wisps of acrid smoke fill the air with a scent like sulfur and burnt flesh, and powerful muscles flex faintly beneath the contours of its coal-black hide. You notice a flash of metal, gleaming with gold and deep burgundy, glittering within the saddlebags strapped to the beast’s back.</p>
-<p>The man's heel clicks against his steed's side, and it steps obediently forward to obstruct your path. Strahd's smile widens as he drinks in the sight of you, his gaze boring through the dancing shadows that lurk amidst the path.</p>
+<p>Вы слышите шорох из леса позади вас, и вороны над вами беспокойно шевелятся. Взгляд духа устремляется в точку за вашими плечами, и он поднимает руку, его хватка сжимается вокруг древка копья. "Подожди, Мюриэль Виншоу," — бормочет он. "Мы не одни. Что-то наблюдает за нами из теней."</p>
 </div>
 
-Beucephalus is as described in <span class="citation">Crypt 39 (p. 93)</span>. In addition to having 104 hit points, it also gains the following feature:
+Игрок, который успешно проходит @Check[type:perception|dc:24], видит человеческий силуэт, мелькнувший среди деревьев, прежде чем исчезнуть в темноте. (Силуэт принадлежит Страду, но его невозможно распознать в темноте.)
 
-* ***Ethereal Escape (Recharge 5-6).*** In response to Beucephalus or its rider taking damage, Beucephalus can use its reaction to use its ***ethereal stride*** ability.
+> [!abstract]+ **Исследование силуэта**
+> Если игрок исследует место, где появился силуэт, прочтите:
+>
+> <hr>
+>
+> Сухие листья хрустят под ногами, когда вы проходите между деревьями, и густая грязь хлюпает под вашими сапогами. Однако среди холодной темноты нет никаких признаков живой души, хотя вы замечаете слабый красноватый свет, мерцающий вдалеке, как костёр, скрытый ветвями и кустарниками.
+>
+> <hr>
+>
+> Свет исходит от Беуцефала, **кошмара** Страда.
+>
+> Если игрок движется к свету или пытается взаимодействовать с ним, прочтите:
+>
+> <hr>
+>
+> Внезапно окружающие звуки леса — шепчущий ветер, шелестящие листья, даже отдалённое уханье совы — становятся жутко тихими. Из глубин теней, где деревья гуще всего и свет не смеет проникать, исходит глубокая, затаившаяся злоба.
+>
+> Воздух, кажется, гудит от напряжения, как сухожилия зверя, готового броситься, и вы не можете не чувствовать, до самых глубин вашей души, что за вами наблюдает что-то могущественное, древнее и почти непостижимо терпеливое.
+>
+> А затем — ощущение исчезает. Тихие звуки леса возвращаются. И через мгновение красный свет гаснет.
+>
+> <hr>
+>
+> Когда игрок собирается покинуть поляну, прочтите:
+>
+> <hr>
+>
+> Вы замечаете слабое мерцание холодного лазурного света с лесной подстилки, наполовину скрытого перегноем и тускло освещённого лунным светом, проникающим сквозь полог леса.
+>
+> <hr>
+>
+> Если игрок исследует свет, прочтите:
+>
+> <hr>
+>
+> Когда вы перебираете подлесок, ваши пальцы касаются чего-то твёрдого и гладкого, наполовину зарытого в почву.
+>
+> Это, кажется, маленькая статуэтка бабочки, не больше ладони, вырезанная из окаменелого дерева, в которое вкраплены маленькие, мерцающие синие минералы, которые, кажется, танцуют в пойманном лунном свете. Крылья фигурки расправлены, словно пойманные в полёте.
 
-The object in Beucephalus’ saddlebags is **Strahd’s animated armor** (as described in **Strahd’s Animated Armor**, p. 227). It is currently disassembled and inactive, though it attacks with its ***shocking bolt*** action if the players disturb it.
+По просьбе Мюриэль, Каван может поделиться следующей информацией о Лесном Народе Холма Былого:
+
+* Друиды Лесного Народа в последнее время стали более активными, собирая берсерков из северного бассейна и ведя порождения Дерева Гультиас вниз к землям внизу. Кажется, они обрели нового лидера: темнокожую женщину, одетую в белое платье и золотую тиару, с пронзительными глазами и парой острых клыков. Каван считает её магом, видев, как она вызывает странные огни и звуки. (Это Людмила Вилисевич, одна из вампирских невест Страда.)
+* Недавно Лесной Народ Холма Былого — который народ Кавана когда-то называл Сармизегет — получил нечто одновременно новое и невероятно старое: зачарованный драгоценный камень, когда-то принадлежавший народу Кавана, который он считал давно утерянным. Лесной Народ построил огромное чучело из дерева и земли на вершине холма, внутри большого каменного круга, который служит местом их встреч, и поместил драгоценный камень в грудь статуи.
+* Некоторые из Лесного Народа, кажется, готовятся вложить силу драгоценного камня в статую, которая сплетена из корней Дерева Гультиас, растущего на вершине Холма Былого. Ритуалисты связали себя с кровожадными корнями дерева и планируют использовать силу вечной бури над Холмом Былого, чтобы дать жизнь существу внутри статуи.
+* Дерево Гультиас — тёмная и испорченная сущность, и пособник воли друидов. Каван предупреждает их, что дерево может попытаться помешать их усилиям, но сообщает им, что сияние обжигает его и замедляет его новый рост. Он отмечает, что дерево особенно жаждет проклятой крови, которая укрепляет и восстанавливает его.
+* Сейчас на вершине Холма Былого находится более дюжины друидов и берсерков, хотя с каждым днём прибывает всё больше. Они, кажется, ждут того, кого называют "Теневым Владыкой" — владыку крепости на востоке. (Каван имеет в виду Страда фон Заровича и Замок Равенлофт.)
+
+Каван советует игрокам, что друиды Лесного Народа кажутся гораздо менее способными, чем их предки. Если игрокам удастся сорвать их ритуал — например, удалив драгоценный камень из груди статуи до завершения ритуала — последующая отдача от обузданной энергии бури может убить всех выживших ритуалистов.
+
+Если игроки выразят интерес к уничтожению самого Дерева Гультиас, Каван предостерегает их от этого, отмечая, что, хотя он не знает источника его силы, оно является вместилищем великого и ужасного зла. Однако он может сообщить, что, пока маг не научил друидов командовать его детьми, дерево мало действовало само по себе и, казалось, было довольно оставаться на вершине Холма Былого. Если игроки победят друидов Лесного Народа, отмечает он, они, вероятно, обнаружат, что Дерево Гультиас представляет мало угрозы для них или их друзей.
+
+Когда игроки уходят, или если у них есть дополнительные вопросы о Каване, Лесном Народе или зачарованных драгоценных камнях, Каван сообщает им, что один из друидов — старейшина по имени Сварог — владеет узловатым жезлом из окаменелого дерева. Каван просит их вернуть жезл Сварога, которым когда-то владели духовные лидеры среди его народа. "Если вы вернёте его мне и докажете, что вы достойны доверия," — обещает он, — "я расскажу вам, где вы можете найти оружие великой силы, чтобы помочь вам в вашей борьбе."
+
+> [!abstract]+ **Стыд Кавана**
+> Если игрок спросит Кавана о его эпитафии, он ответит: "Я подвёл свой народ при жизни. В смерти я хочу искупить эти ошибки."
+
+## J4b. Кошмар
+После ухода от каирна Кавана игроки могут вернуться на тропу и продолжить путь на юг к Холму Былого. Через полторы мили и дополнительные двадцать пять минут игроки встречают Страда фон Заровича, едущего на своём **[Высшем Кошмаре](https://2e.aonprd.com/Monsters.aspx?ID=3106)** Беуцефале. Прочтите:
+
+<div class="description">
+<p>"Добрый вечер," — эхом разносится голос впереди вас, — "или, возможно, доброе утро?"</p>
+<p>Высокая, бледная фигура появляется из чернильной темноты между деревьями, восседая на огненном скакуне. Глаза фигуры горят сквозь тени, как тлеющие угли, а его алебастровая кожа кажется холодной, как мрамор в лунном свете. Он безупречен в тёмных, сшитых на заказ доспехах, и под его безупречными, обсидианово-чёрными волосами его губы — красные, как свежая кровь — изгибаются в удовлетворённой, злобной улыбке.</p>
+<p>Скакун под ним фыркает, пламя танцует из его ноздрей, а его огненная грива мерцает, как адский нимб вокруг его головы. Клубы едкого дыма наполняют воздух запахом серы и горелой плоти, а мощные мышцы слегка напрягаются под контурами его угольно-чёрной шкуры. Вы замечаете вспышку металла, сверкающего золотом и тёмно-бордовым, мерцающего в седельных сумках, привязанных к спине зверя.</p>
+<p>Каблук мужчины щёлкает о бок его скакуна, и тот послушно выступает вперёд, чтобы преградить вам путь. Улыбка Страда расширяется, когда он впитывает ваш вид, его взгляд пронизывает танцующие тени, которые таятся среди тропы.</p>
+</div>
+
+Беуцефал описан в <span class="citation">Crypt 39 (стр. 93)</span>. Помимо 104 очков здоровья, он также получает следующую особенность:
+
+* ***Эфирный шаг.*** Накладывает Эфирное путешествие по желанию на себя и своего всадника.
+* ***Эфирный побег (Перезарядка 1d4 раунда).*** В ответ на получение урона Беуцефалом или его всадником, Беуцефал может использовать свою реакцию, чтобы применить свою способность ***эфирный шаг***.
+
+Объект в седельных сумках Беуцефала — это **оживлённые доспехи Страда** (как описано в **Оживлённые доспехи Страда**, стр. 227). В настоящее время они разобраны и неактивны, хотя они атакуют своим действием ***шокирующий разряд***, если игроки потревожат их (используйте заклинание Электрическая дуга - 5-го ранга).
 
 ![[Strahd and Beucephalus.png]]
-<span class="credit">"Strahd and Beucephalus" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">"Страд и Беуцефал" от Caleb Cleveland. Поддержите его на <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-### Greeting Strahd
-Strahd greets the players with familiarity. He also addresses their companions as follows:
+### Приветствие Страда
+Страд приветствует игроков с фамильярностью. Он также обращается к их спутникам следующим образом:
 
-* If Ireena is present, he bows lightly and greets her with a polite smile. "Lady Kolyana," he says. "A pleasure, as always."
-* If Muriel is present, he greets her with lazy, feigned surprise, asking the players to introduce him to their "new friend." His eyes then flicker to Muriel's hairline, and he suggests, quietly, that she appears familiar, before wondering aloud whether they have met before. (Muriel's eyes widen, and she swiftly denies it. Strahd knows, of course, that Muriel is the **wereraven** that eavesdropped on him at Tser Pool in [[Арка C - В Долину]]. He allows her to live because he presumes she has already delivered her message, and because he has already accepted the need to sacrifice his *animated armor* in Arabelle's place.)
+* Если присутствует Ирина, он слегка кланяется и приветствует её вежливой улыбкой. "Леди Коляна," — говорит он. "Удовольствие, как всегда."
+* Если присутствует Мюриэль, он приветствует её с ленивым, притворным удивлением, прося игроков представить ему их "нового друга". Затем его глаза мельком смотрят на линию волос Мюриэль, и он тихо предполагает, что она кажется знакомой, прежде чем вслух задуматься, не встречались ли они раньше. (Глаза Мюриэль расширяются, и она быстро отрицает это. Страд, конечно, знает, что Мюриэль — это **оборотень-ворон**, который подслушивал его у Заводи Тсер в [[Act I - Into the Mists/Arc C - Into the Valley]]. Он позволяет ей жить, потому что предполагает, что она уже доставила своё сообщение, и потому что он уже принял необходимость пожертвовать своими *оживлёнными доспехами* вместо Арабель.)
 
-Strahd then asks what business the players might have on the road to Yester Hill—especially at such a dark and forsaken time of night. “I find that it is always the final hours before dawn that I most enjoy," Strahd says, “but I confess I did not expect to find kindred spirits on such a lonely path this eve."
+Затем Страд спрашивает, какие дела могут быть у игроков на дороге к Холму Былого — особенно в такое тёмное и заброшенное время ночи. "Я нахожу, что всегда именно последние часы перед рассветом я наиболее наслаждаюсь," — говорит Страд, — "но признаюсь, я не ожидал найти родственные души на такой одинокой тропе этим вечером."
 
-If the players attempt to conceal their purpose, Strahd guesses aloud that they have come for much the same reason he has—to witness the Forest Folks’ great “triumph," the birth of the **tree blight** they call Wintersplinter. “Although," he notes with amusement, his dark eyes glittering in the darkness, “I would hazard to guess that you have come not to celebrate their druids’ mighty victory, but to vanquish it—by sword and spell."
+Если игроки пытаются скрыть свою цель, Страд вслух догадывается, что они пришли по той же причине, что и он — чтобы стать свидетелями великого "триумфа" Лесного Народа, рождения **древесного чудовища**, которое они называют Раскол Зимы. "Хотя," — отмечает он с весельем, его тёмные глаза мерцают в темноте, — "я бы предположил, что вы пришли не для того, чтобы отпраздновать могучую победу их друидов, а чтобы победить её — мечом и заклинанием."
 
-In either case, Strahd invites the players to walk alongside him as he rides to Yester Hill, “for the road is dark, and company always welcome." If they decline, he chides them for their rudeness and directs Beucephalus forward before vanishing amidst the shadows ahead. (This is Beucephalus’s ***ethereal stride*** feature, spiriting it and Strahd away to the Ethereal Plane.)
-### Walking with Strahd
-If the players accept Strahd’s invitation and walk alongside him, he begins by asking them how they have enjoyed their time in Barovia following their last meeting. If the players drove off Volenta Popofsky in ***Arc E: St. Andral’s Feast***, Strahd notes that she appears to have had *quite* the memorable encounter with them—a tale he quite enjoyed hearing upon her return to Castle Ravenloft. (“Like my other brides, she does always endeavor to please me—though I must abashedly confess that my favor can be a fickle one.")
+В любом случае, Страд приглашает игроков идти рядом с ним, пока он едет к Холму Былого, "ибо дорога темна, а компания всегда приветствуется." Если они отказываются, он упрекает их за грубость и направляет Беуцефала вперёд, прежде чем исчезнуть среди теней впереди. (Это особенность Беуцефала ***эфирный шаг***, уносящая его и Страда на Эфирный план.)
 
-If the players ask, Strahd is glad to introduce his **nightmare** steed, Beucephalus. “The Wonder-Horse, they called him in life," Strahd notes, tracing his hands through the flames of the nightmare’s mane. “He is a different sort of wonder now."
+### Прогулка со Страдом
+Если игроки принимают приглашение Страда и идут рядом с ним, он начинает с того, что спрашивает их, как им понравилось их время в Баровии после их последней встречи. Если игроки прогнали Воленту Поповскую в [[Arc D - St. Andral's Feast]], Страд отмечает, что у неё, похоже, была *весьма* запоминающаяся встреча с ними — история, которую он с удовольствием выслушал по её возвращении в Замок Равенлофт. ("Как и другие мои невесты, она всегда стремится угодить мне — хотя я должен смущённо признать, что моя благосклонность может быть непостоянной.")
 
-If the players inquire as to the dinner at Ravenloft, or if the players previously rejected Rahadin’s invitation to dine with Strahd in [[Arc O - Dinner with the Devil]], Strahd shares that he is looking forward to dining with them at his castle, and that he hopes that they share his enthusiasm.
+Если игроки спросят, Страд с радостью представит своего **кошмарного** скакуна, Беуцефала. "Чудо-Конь, называли его при жизни," — отмечает Страд, проводя руками сквозь пламя гривы кошмара. "Теперь он другого рода чудо."
 
-If the players inquire as to the contents of Strahd’s saddlebags, Strahd merely states that they are his personal belongings—an old possession that he has come to dispose of in exchange for something new. (Strahd won’t elaborate further.)
+Если игроки спросят об ужине в Равенлофте, или если игроки ранее отклонили приглашение Рахадина на ужин со Страдом в [[Arc O - Dinner with the Devil]], Страд делится тем, что он с нетерпением ждёт ужина с ними в своём замке, и что он надеется, что они разделяют его энтузиазм.
 
-If the players ask whether Strahd was the silhouette watching them by Kavan’s cairn, Strahd smiles faintly. Instead of answering their question, he says, "Intriguingly, I was not the first creature called 'blood-drinker' in this valley. Can you guess who that was?" Regardless of the players' answer, he then shares the following tale:
+Если игроки спросят о содержимом седельных сумок Страда, Страд лишь заявляет, что это его личные вещи — старое владение, которое он пришёл выбросить в обмен на что-то новое. (Страд не будет вдаваться в подробности.)
+
+Если игроки спросят, был ли Страд силуэтом, наблюдавшим за ними у каирна Кавана, Страд слегка улыбается. Вместо того, чтобы отвечать на их вопрос, он говорит: "Интересно, я не был первым существом, названным 'кровопийцей' в этой долине. Можете ли вы угадать, кто им был?" Независимо от ответа игроков, затем он делится следующей историей:
 
 <div class="description">
-<p>"Long before my time, in the centuries before it came under my protection, Barovia was ruled by a different kind of darkness. His name was Kavan, warlord of the Mountain Tribes, and he swept forth from the Balinok Mountains like a raging storm to slaughter all who stood in his path. They called him Blood-Drinker, for the cursed spear he carried and his own, terrible thirst.</p>
-<p>"Kavan, you see, was not of my kin. He was something far worse—a man of mortal lusts and ambitions. He drank the blood of his victims and buried himself beneath the red-stained soil when he slept, bathing in their terror and pain."</p>
-<p>"His reign, though it lasted no longer than his lifetime, was an era of bloody excess—a testament to the depths of human brutality." Strahd's smile is thin and sharp, like broken glass. "Remember his tale as you walk these lands, for the echoes of the past never leave us, and the blood Kavan spilled still stains these hallowed hills."</p>
+<p>"Задолго до моего времени, за века до того, как она попала под мою защиту, Баровией правила другая тьма. Его звали Каван, военачальник Горных Племён, и он вырвался из Балинокских гор, как бушующая буря, чтобы убить всех, кто стоял на его пути. Его называли Кровопийцей, за проклятое копьё, которое он носил, и его собственную, ужасную жажду.</p>
+<p>"Каван, видите ли, не был моего рода. Он был чем-то гораздо худшим — человеком смертных вожделений и амбиций. Он пил кровь своих жертв и зарывался под красную от крови землю, когда спал, купаясь в их ужасе и боли."</p>
+<p>"Его правление, хотя и длилось не дольше его жизни, было эпохой кровавых излишеств — свидетельством глубин человеческой жестокости." Улыбка Страда тонкая и острая, как разбитое стекло. "Помните его историю, когда идёте по этим землям, ибо эхо прошлого никогда не покидает нас, и кровь, пролитая Каваном, до сих пор пятнает эти священные холмы."</p>
 </div>
 
-### Strahd's Wager
-As he and the players approach Yester Hill, Strahd asks them—in a bored, disinterested tone—why he should allow them to meddle in the affairs of his servants at Yester Hill. “After all," he notes, with a gleam in his eyes, “they do work so *hard* in their efforts to please me."
+### Пари Страда
+Когда он и игроки приближаются к Холму Былого, Страд спрашивает их — скучным, незаинтересованным тоном — почему он должен позволить им вмешиваться в дела его слуг на Холме Былого. "В конце концов," — отмечает он, с блеском в глазах, — "они так *усердно* трудятся в своих усилиях угодить мне."
 
-As in his first encounter with the players, Strahd is glad to accept any reasonable argument that the players might make in support of Strahd’s neutrality, though he once again revels in playing Devil’s advocate throughout the conversation. Strahd might eventually accept the following arguments, among others:
+Как и при первой встрече с игроками, Страд рад принять любой разумный аргумент, который игроки могут привести в пользу нейтралитета Страда, хотя он снова наслаждается ролью адвоката дьявола на протяжении всего разговора. Страд может в конечном итоге принять следующие аргументы, среди прочих:
 
-* As with Volenta, Strahd appears to enjoy seeing his servants tested and challenged. Allowing the players to fight the Forest Folk at Yester Hill will provide an additional opportunity to do so.
-* Strahd appears to be interested enough in the players to have invited them to dine personally at his castle. Killing the players now, before they’ve had a chance to do so, would be a waste.
-* The Wizard of Wines is an economic pillar of the Barovian community. Depriving Strahd’s people of wine would do harm to an old and honorable family, and bring sadness and despair to the people they serve.
+* Как и с Волентой, Страд, кажется, наслаждается тем, что его слуги проверяются и испытываются. Позволение игрокам сражаться с Лесным Народом на Холме Былого предоставит дополнительную возможность для этого.
+* Страд, кажется, достаточно заинтересован в игроках, чтобы пригласить их лично пообедать в своём замке. Убийство игроков сейчас, до того, как у них была возможность сделать это, было бы пустой тратой времени.
+* Винный Волшебник является экономической опорой баровийского сообщества. Лишение народа Страда вина нанесло бы вред старой и почётной семье и принесло бы печаль и отчаяние людям, которым они служат.
 
-> [!abstract] **The Players Attack**
-> If the players move to attack Strahd or Beucephalus at any point, Beucephalus immediately uses its ***ethereal escape*** reaction to step into the Ethereal Plane, bringing Strahd along with it. Strahd then reappears astride Beucephalus a short distance away the following round, whereupon he chides the players for their hastiness and rudeness.
+> [!abstract] **Игроки атакуют**
+> Если игроки в какой-либо момент атакуют Страда или Беуцефала, Беуцефал немедленно использует свою реакцию ***эфирный побег***, чтобы шагнуть в Эфирный план, взяв с собой Страда. Затем Страд снова появляется верхом на Беуцефале на небольшом расстоянии в следующем раунде, после чего он упрекает игроков за их поспешность и грубость.
 >
-> If the players then move to attack Strahd or Beucephalus again, Strahd doesn’t return a second time, instead proceeding directly to meet the druids of Yester Hill.
+> Если игроки затем снова атакуют Страда или Беуцефала, Страд не возвращается во второй раз, вместо этого направляясь прямо на встречу с друидами Холма Былого.
 
-If the players successfully convince Strahd to allow them to fight the Forest Folk, upon reaching the base of Yester Hill, Strahd notes that he is impressed by their audacity, and offers the following wager: if the players succeed in their task, they may meet him at the base of the Whispering Wall to the west of Yester Hill after the ritual, where he will offer them a gift—and share with them a secret. (If asked what the players will lose should they fail, Strahd merely smiles, and notes that their "opponent" likely has plans for that eventuality.)
-# J5. Yester Hill
-The final stretch of the trail that leads to Yester Hill is as described in <span class="citation">Y1. Trail (p. 197)</span>. However, read the following additional text when the players arrive at the base of Yester Hill:
+Если игроки успешно убеждают Страда позволить им сразиться с Лесным Народом, по достижении подножия Холма Былого Страд отмечает, что он впечатлён их смелостью, и предлагает следующее пари: если игроки преуспеют в своей задаче, они могут встретиться с ним у подножия Шепчущей Стены к западу от Холма Былого после ритуала, где он предложит им подарок — и поделится с ними секретом. (Если спросить, что игроки потеряют в случае неудачи, Страд лишь улыбается и отмечает, что их "противник", вероятно, имеет планы на этот случай.)
 
-<div class="description">
-<p>A flash of brilliant viridian light suddenly flickers from within an enormous ring of stacked boulders atop the hilltop. As you watch, the light thrums like an unsteady heartbeat—even as it slowly, gradually, and yet steadily grows in intensity. You think you can faintly hear the distant sound of drumming echoing across the mountains from atop the hill.</p>
-</div>
-
-When the players arrive at Yester Hill, if Strahd has accompanied them, he informs them that, if they wish to make good on their bet, they must first meet him at the point where the road meets the top of the hill. (He promises the players that he'll "make sure the festivities don't start without you," adding, "You must meet your opponent, after all.") If the players accept, he notes that he will "see them at the top," and vanishes astride Beucephalus.
-
-The players can climb the trail straight to <span class="citation">Y3. Druids Circle (p. 197)</span> at the top of the hill. (They don't need to travel through the berserker cairns, which are as described in <span class="citation">Y2. Berserker Cairns (p. 197)</span> and which they pass during their ascent up the hill, in order to do so.)
-
-> [!info]+ **The Swarms of Ravens**
-> The **swarms of ravens** that accompanied the players to Yester Hill follow in the skies behind them, but don't join in the fighting. (If the players mention this, Muriel points out that they'd be of little use when attacking against more dangerous foes than the blights of the winery, but notes her belief that they may find some way to help all the same.)
->
-> Although the ravens won't act as combatants in battle, they can aid the players in their fight against Ludmilla and in their efforts to escape should the ritual fail. See [[#Ludmilla & Muriel]] and [[#Stopping the Ritual]] for more information on how the ravens help.
-## J5a. Entering the Circle
-The druids' circle is largely as described in <span class="citation">Y3. Druids' Circle (p. 197)</span>. However, add the following text to the end of the area's description:
+# J5. Холм Былого
+Последний участок тропы, ведущей к Холму Былого, описан в <span class="citation">Y1. Тропа (стр. 197)</span>. Однако прочтите следующий дополнительный текст, когда игроки прибывают к подножию Холма Былого:
 
 <div class="description">
-<p>A deep viridian light flashes from the statue's chest, and the swell of the drumbeat fills your ears. As you pass through the boulders, it's joined by the sound of chanting, which rumbles from a circle of thirteen figures that stand around the statue's base. Above the beast hides they wear, they bear antlers, wolfskins, and crowns crafted of wicked thorns, and crimson markings paint their faces a bloody hue.</p>
-<p>A circle of thick, black roots three feet high surrounds the chanting figures, just beneath a thin layer of pale, drifting mist. Several figures bearing stone axes and quarterstaffs form a protective ring around it, their mouths and forearms bearing jagged crimson markings. A dark-skinned woman clad in a white gown stands at their head, her eyes fixed upon the statue and her chin lifted proudly.</p>
+<p>Вспышка яркого изумрудного света внезапно мерцает внутри огромного кольца из сложенных валунов на вершине холма. Наблюдая, вы видите, как свет пульсирует, как неустойчивое сердцебиение — даже когда он медленно, постепенно и всё же неуклонно нарастает по интенсивности. Вы думаете, что можете слабо слышать отдалённый звук барабанного боя, эхом разносящийся по горам с вершины холма.</p>
 </div>
 
-Just beside the entrance to the ring of black boulders that forms the **Druids’ Circle** and ten feet above the ground hovers Strahd von Zarovich, who is seated on his **nightmare** Beucephalus. As the players enter the circle, if Strahd notices them, read:
+Когда игроки прибывают на Холм Былого, если Страд сопровождал их, он сообщает им, что, если они хотят выполнить своё пари, они должны сначала встретиться с ним в точке, где дорога встречается с вершиной холма. (Он обещает игрокам, что "убедится, что празднества не начнутся без вас", добавляя: "Вы должны встретиться со своим противником, в конце концов.") Если игроки соглашаются, он отмечает, что "увидит их наверху", и исчезает верхом на Беуцефале.
+
+Игроки могут подняться по тропе прямо к <span class="citation">Y3. Круг друидов (стр. 197)</span> на вершине холма. (Им не нужно проходить через каирны берсерков, которые описаны в <span class="citation">Y2. Каирны берсерков (стр. 197)</span> и мимо которых они проходят во время подъёма на холм, чтобы сделать это.)
+
+> [!info]+ **Стаи воронов**
+> **Стаи воронов**, сопровождавшие игроков к Холму Былого, следуют в небе позади них, но не присоединяются к сражению. (Если игроки упомянут об этом, Мюриэль указывает, что они были бы мало полезны при атаке против более опасных противников, чем порождения винодельни, но отмечает своё убеждение, что они могут найти какой-то способ помочь.)
+> 
+> Хотя вороны не будут действовать как бойцы в битве, они могут помочь игрокам в их борьбе против Людмилы и в их усилиях по спасению, если ритуал потерпит неудачу. См. [[#Провокации Людмилы]] и [[#J5f. Остановка ритуала]] для получения дополнительной информации о том, как помогают вороны.
+
+## J5a. Вход в Круг
+Круг друидов в основном описан в <span class="citation">Y3. Круг друидов (стр. 197)</span>. Однако добавьте следующий текст в конец описания области:
 
 <div class="description">
-<p>You hear a familiar cold, resonant voice pierce the air above you. "Quite the impressive display, wouldn't you say?" intones Strahd von Zarovich.</p>
-<p>He is mounted upon his fiery steed, which hovers nearly ten feet off of the ground above you. His cloak whips gently in the chill air, and a small, contemplative smile curves his lips as he turns a small object over in his hand. "Ludmilla was always one to put on a show."</p>
+<p>Глубокий изумрудный свет вспыхивает из груди статуи, и нарастание барабанного боя наполняет ваши уши. Когда вы проходите через валуны, к нему присоединяется звук песнопения, который грохочет из круга из тринадцати фигур, стоящих вокруг основания статуи. Над звериными шкурами, которые они носят, они несут рога, волчьи шкуры и короны, сплетённые из злых шипов, а малиновые отметины окрашивают их лица в кровавый оттенок.</p>
+<p>Круг из толстых, чёрных корней высотой в три фута окружает поющие фигуры, прямо под тонким слоем бледного, дрейфующего тумана. Несколько фигур, несущих каменные топоры и посохи, образуют защитное кольцо вокруг него, их рты и предплечья несут зазубренные малиновые отметины. Темнокожая женщина, одетая в белое платье, стоит во главе их, её глаза устремлены на статую, а подбородок гордо поднят.</p>
 </div>
 
-The thirteen figures around the statue’s base are thirteen **druid naturalists.** The four figures protecting them are two **druid assailants** and two **berserkers.** The woman is Ludmilla Vilisevic, one of Strahd’s vampiric brides.
+Прямо рядом со входом в кольцо чёрных валунов, образующих **Круг друидов**, и в десяти футах над землёй парит Страд фон Зарович, который сидит на своём **кошмаре** Беуцефале. Когда игроки входят в круг, если Страд замечает их, прочтите:
 
-> [!combat]- **Balancing the Ritual’s Guards**
-> The combat encounter with the **druid assailants** and **berserkers** (see [[#The Ritual Begins]] below) is a **bruising** combat encounter against a party of four 5th-level players, one CR 1 ally (Ireena Kolyana), and one CR 2 ally (Muriel Vinshaw), and will consume approximately 35% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
->
-> * ***Three Players.*** Reduce the number of druid assailants to one.
-> * ***Five Players.*** Reduce the number of berserkers to one.
-> * ***Six Players.*** Increase the number of berserkers to three.
+<div class="description">
+<p>Вы слышите знакомый холодный, резонирующий голос, пронзающий воздух над вами. "Довольно впечатляющее зрелище, не так ли?" — произносит Страд фон Зарович.</p>
+<p>Он восседает на своём огненном скакуне, который парит почти в десяти футах от земли над вами. Его плащ мягко колышется в холодном воздухе, и маленькая, задумчивая улыбка изгибает его губы, когда он переворачивает в руке маленький предмет. "Людмила всегда любила устраивать представления."</p>
+</div>
 
-A player who succeeds on a DC 14 Wisdom (Perception) check notices that the object in Strahd’s hand is an old, yet well-carved wooden chess piece: a pawn.
-## J5b. Ludmilla's Challenge
-Shortly after the players enter the circle, any players still looking at the circle of chanting druids see Ludmilla turn, notice them, and vanish in a curl of mist. She then reappears before the players in similar fashion, standing just thirty feet away.
+Тринадцать фигур вокруг основания статуи — это тринадцать **друидов-натуралистов.** Четыре фигуры, защищающие их, — это два **друида-нападающих** и два **берсерка (используйте статблок [Элитного охотника-минотавра](https://2e.aonprd.com/NPCs.aspx?ID=3099), но дайте ему особенность Ответный удар и сделайте его Средним или оставьте Большим, если вы используете Мифические правила).** Женщина — Людмила Вилисевич, одна из вампирских невест Страда.
+
+> [!combat]- **Мифическая корректировка**
+>  Я предлагаю сделать всех друидов Мифическими, чтобы у группы было достаточно Мифических очков для боя с Людмилой.
+
+> [!combat]- **Балансировка стражей ритуала**
+> Боевая встреча с **друидами-нападающими** и **берсерками** (см. [[Arc J - The Stolen Gem#J5c. The Ritual Begins|Ритуал начинается]] ниже) — это **Серьёзная** боевая встреча против группы из четырёх игроков 6-го уровня, одного союзника 4-го уровня (Ирина Коляна) и одного союзника 5-го уровня (Мюриэль Виншоу). Для групп меньшего или большего размера измените встречу следующим образом:
+> 
+> * ***Три игрока.*** Уменьшите количество друидов-нападающих до одного.
+> * ***Пять игроков.*** Увеличьте количество друидов-нападающих до трёх.
+> * ***Шесть игроков.*** Увеличьте количество берсерков и друидов-нападающих до трёх.
+
+Игрок, который успешно проходит @Check[type:perception|dc:24], замечает, что предмет в руке Страда — это старая, но хорошо вырезанная деревянная шахматная фигура: пешка.
+
+## J5b. Вызов Людмилы
+Вскоре после того, как игроки входят в круг, любые игроки, всё ещё смотрящие на круг поющих друидов, видят, как Людмила поворачивается, замечает их и исчезает в завитке тумана. Затем она снова появляется перед игроками аналогичным образом, стоя всего в тридцати футах от них.
 
 ![[Ludmilla.png]]
-<span class="credit">"Ludmilla Vilisevic" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">"Людмила Вилисевич" от Caleb Cleveland. Поддержите его на <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-> [!profile]+ **Ludmilla Vilisevic**
-> **Roleplaying Information**
-> ***Resonance.*** Ludmilla should inspire irritation with her refusal to let the players provoke her (and her evident inability to feel anger), discomfort with her detached and analytical personality, and anger for her condescension and intricate insults.
+> [!profile]+ **Профиль: Людмила Вилисевич**
+> **Информация для отыгрыша**
+> ***Резонанс.*** Людмила должна вызывать раздражение своим отказом позволить игрокам спровоцировать её (и её очевидной неспособностью чувствовать гнев), дискомфорт своей отстранённой и аналитической личностью, и гнев за её снисходительность и изощрённые оскорбления.
 >
-> ***Emotions.*** Ludmilla most often feels intrigued, annoyed, thoughtful, or (mildly) amused.
+> ***Эмоции.*** Людмила чаще всего чувствует интерес, раздражение, задумчивость или (слегка) веселье.
 >
-> ***Motivations.*** Ludmilla wants to conquer the secrets of magic and impress Strahd sufficiently to become his arcane advisor, as Khazan once was.
+> ***Мотивации.*** Людмила хочет покорить секреты магии и впечатлить Страда достаточно, чтобы стать его тайным советником, как когда-то был Хазан.
 >
-> ***Inspirations.*** When playing Ludmilla, channel Severus Snape (*Harry Potter*), Sherlock Holmes (*Sherlock*), and Dr. Gregory House (*House*).
+> ***Вдохновение.*** Играя Людмилу, обращайтесь к образам Северуса Снейпа (*Гарри Поттер*), Шерлока Холмса (*Шерлок*) и доктора Грегори Хауса (*Хаус*).
 >
-> **Character Information**
-> ***Persona.*** To the world, Ludmilla is an ambitious, detached, and sociopathic mage, dedicated to attaining knowledge and power at all costs.
+> **Информация о персонаже**
+> ***Личность.*** Для мира Людмила — амбициозный, отстранённый и социопатический маг, посвятивший себя обретению знаний и власти любой ценой.
 >
-> ***Morale.*** In a fight, Ludmilla would seek to lure her opponent into a pre-prepared trap, fleeing if outmatched and unable to meet the fight with some sort of advantage.
+> ***Мораль.*** В бою Людмила стремится заманить своего противника в заранее подготовленную ловушку, убегая, если её превосходят и она не может встретить бой с каким-либо преимуществом.
 >
-> ***Relationships.*** Ludmilla is Strahd's second-eldest vampiric bride and the matron of the coven of **Barovian witches** at Castle Ravenloft.
+> ***Отношения.*** Людмила — вторая старшая вампирская невеста Страда и покровительница ковена **баровийских ведьм** в Замке Равенлофт.
 
-Unless the players intervene, the following scene then unfolds:
+Если игроки не вмешаются, разворачивается следующая сцена:
 
-* Ludmilla greets Strahd respectfully, calling him "my Lord," and notes with concern—and a slight edge to her voice—that she had not known he would be bringing additional company.
-* Strahd gestures with a flourish toward the players, and notes, with obvious relish, that he had no hand in their arrival—but that he is intrigued by what Ludmilla will do next.
-* Ludmilla recognizes the pawn in Strahd’s hand and abruptly becomes stony-faced, her voice going sharp and cold. She then eyes the players with distaste, her lip curling, and notes, "Another one of your games, then. Very well, my Lord. I assure you, however, that you shall be disappointed."
-* Strahd gives Ludmilla a small smile, and says, “Perhaps. But I have always relished the opportunity for surprise." He and Beucephalus then vanish, disappearing into the Ethereal Plane through the use of Beucephalus’ ***ethereal stride***.
+* Людмила почтительно приветствует Страда, называя его "мой Лорд", и отмечает с беспокойством — и с лёгким оттенком в голосе — что она не знала, что он приведёт дополнительную компанию.
+* Страд жестом указывает на игроков и отмечает, с очевидным удовольствием, что он не имел никакого отношения к их прибытию — но что он заинтригован тем, что Людмила сделает дальше.
+* Людмила узнаёт пешку в руке Страда и внезапно становится каменно-лицей, её голос становится резким и холодным. Затем она смотрит на игроков с отвращением, её губа кривится, и отмечает: "Ещё одна из ваших игр, значит. Очень хорошо, мой Лорд. Однако я уверяю вас, что вы будете разочарованы."
+* Страд дарит Людмиле маленькую улыбку и говорит: "Возможно. Но я всегда наслаждался возможностью для сюрприза." Он и Беуцефал затем исчезают, исчезая в Эфирном плане через использование ***эфирного шага*** Беуцефала.
 
-Ludmilla then greets the players. If they have previously defeated Volenta in [[Арка D - Пир Св. Андрала]], Ludmilla's eyes narrow and she adds, "I have heard tell of your encounter with my sister-bride. I imagine you thought you could rest easy atop your laurels. But Volenta has always been a halfwit, a hothead, and a fool. You will find me a far less pleasant adversary—as these pitiful ravens and their ilk have done."
+Затем Людмила приветствует игроков. Если они ранее победили Воленту в [[Arc D - St. Andral's Feast]], глаза Людмилы сужаются, и она добавляет: "Я слышала о вашей встрече с моей сестрой-невестой. Я полагаю, вы думали, что можете спокойно почивать на лаврах. Но Волента всегда была полоумной, горячей головой и дурой. Вы обнаружите, что я гораздо менее приятный противник — как обнаружили эти жалкие вороны и им подобные."
 
-As this conversation unfolds, the two **berserkers** and two **druid assailants** split off from the protective ring around the circle of druids and approach the players, moving to flank Ludmilla. They arrive at Ludmilla's location two rounds after she first greets the players.
+По мере развития этого разговора два **берсерка** и два **друида-нападающих** отделяются от защитного кольца вокруг круга друидов и приближаются к игрокам, двигаясь, чтобы окружить Людмилу. Они прибывают к месту нахождения Людмилы через два раунда после того, как она впервые приветствует игроков.
 
-Ludmilla flees if attacked, using her ***misty step*** feature to teleport thirty feet into the air and toward the chanting druids. As she does, she creates a *shroud of mist* with a 60-foot radius centered on the statue to cover her retreat. (See **Shroud of Mist** below.)
+Людмила убегает, если на неё нападают, используя своё заклинание ***Перемещение***, чтобы телепортироваться на тридцать футов в воздух и по направлению к поющим друидам. При этом она создаёт *покров тумана* с радиусом 60 футов, центрированный на статуе, чтобы прикрыть своё отступление. (См. **Покров тумана** ниже.)
 
-Otherwise, Ludmilla can share the following information if asked:
+В противном случае, Людмила может поделиться следующей информацией, если её спросят:
 
-* Three months ago, when Doru's rebellion awoke Strahd from his slumber, there was a raven among them—but no ordinary raven. It seemed to possess an intelligence far beyond any ordinary beast.
-* Strahd took the raven captive, and when Ludmilla returned to the castle—"to my Lord's service"—she was granted permission to investigate its properties. She soon found that the raven swiftly regenerated any wounds dealt to it, even those that seemed to be mortal—except those inflicted by silver or necrotic magic. She surmised that she had discovered a **wereraven**—a mythic counterpart to the wolfish lycanthropes that ranged in packs across the Barovian valley.
-* With her research completed, Ludmilla moved to vivisect the creature, aiming to uncover any final hidden attributes. "It shrieked and squealed like a pig," she notes coldly, "but fortunately, the silver of its restraints burned it too fiercely for it to even contemplate the possibility of escape." (If Muriel is with the players, she begins to tremble, her hand curling tightly around the hilt of her shortsword until her knuckles turn white.)
-* When the raven finally expired, it reverted to the form of a man—seemingly proving Ludmilla's theory. Ludmilla took the body to Baba Lysaga—an old colleague and mentor of hers—in Berez. Through Baba Lysaga's guidance, she tracked the wereraven to a seditious and traitorous family that dwelled in the Wizard of Wines winery—the Martikov clan.
-* Baba Lysaga vowed to see the wereravens dead, and Ludmilla brokered an alliance between her and the druids of Yester Hill, who were eager to bring the downfall of any who defied their "Shadowed Lord." 
-* It was sheer luck that Baba Lysaga's scarecrows uncovered the source of the winery's fecundity—a pair of enchanted gemstones that the Forest Folk recognized as heirlooms stolen from their ancestors. The druids were, understandably, eager to reclaim their heritage from the feathered usurpers.
+* Три месяца назад, когда восстание Дору пробудило Страда от его сна, среди них был ворон — но не обычный ворон. Казалось, он обладал интеллектом, далеко превосходящим любого обычного зверя.
+* Страд взял ворона в плен, и когда Людмила вернулась в замок — "на службу моему Лорду" — ей было дано разрешение исследовать его свойства. Вскоре она обнаружила, что ворон быстро регенерирует любые раны, нанесённые ему, даже те, которые казались смертельными — кроме тех, которые были нанесены серебром или некротической магией. Она предположила, что обнаружила **оборотня-ворона** — мифического аналога волчьих ликантропов, которые бродили стаями по баровийской долине.
+* Завершив своё исследование, Людмила приступила к вивисекции существа, стремясь раскрыть любые окончательные скрытые атрибуты. "Он визжал и пищал, как свинья," — холодно отмечает она, — "но, к счастью, серебро его оков жгло его слишком сильно, чтобы он даже мог рассматривать возможность побега." (Если Мюриэль с игроками, она начинает дрожать, её рука крепко сжимается вокруг рукояти её короткого меча, пока её костяшки не белеют.)
+* Когда ворон наконец умер, он превратился в форму человека — по-видимому, доказывая теорию Людмилы. Людмила отнесла тело к Бабе Лысаге — старой коллеге и наставнице — в Берез. Благодаря руководству Бабы Лысаги она выследила оборотня-ворона до мятежной и предательской семьи, которая жила в винодельне Винный Волшебник — клана Мартиков.
+* Баба Лысага поклялась увидеть оборотней-воронов мёртвыми, и Людмила заключила союз между ней и друидами Холма Былого, которые стремились привести к падению любого, кто бросал вызов их "Теневому Владыке".
+* Это была чистая удача, что пугала Бабы Лысаги обнаружили источник плодородия винодельни — пару зачарованных драгоценных камней, которые Лесной Народ признал как реликвии, украденные у их предков. Друиды были, понятно, стремились вернуть своё наследие от пернатых узурпаторов.
 
-Ludmilla concludes by warning the players that, though they may view her as their enemy, their "raven friends" cannot be trusted. "What other secrets are they hiding from you, I wonder?" she asks, eyeing Muriel (if present) thoughtfully. "But a good specimen never holds its secrets for long."
-## J5c. The Ritual Begins
-As the conversation winds down, or if the players attack or attempt to bypass Ludmilla, read:
+Людмила заключает, предупреждая игроков, что, хотя они могут рассматривать её как своего врага, их "друзьям-воронам" нельзя доверять. "Какие ещё секреты они скрывают от вас, интересно?" — спрашивает она, задумчиво глядя на Мюриэль (если она присутствует). "Но хороший образец никогда не держит свои секреты долго."
+
+## J5c. Ритуал начинается
+Когда разговор заканчивается, или если игроки атакуют или пытаются обойти Людмилу, прочтите:
 
 <div class="description">
-<p>The dark storm roils overhead — and a single bolt of lightning lances down from the boiling clouds, surrounding the statue in a nimbus of white, blinding light. A deep groan seems to shudder through the very earth of the hill, and the wind around you whips up into a hot and heavy gale, tearing through the tall grass as it shrieks across the hilltop.</p>
-<p>The sounds of chanting and drum beats intensify—and sparks of deep, viridian energy begin to arc across the earth and toward the statue.</p>
+<p>Тёмная буря бурлит над головой — и одна молния пронзает кипящие облака, окружая статую нимбом белого, ослепляющего света. Глубокий стон, кажется, сотрясает саму землю холма, и ветер вокруг вас усиливается до горячего и тяжёлого шквала, разрывая высокую траву, когда он визжит по вершине холма.</p>
+<p>Звуки песнопения и барабанного боя усиливаются — и искры глубокой, изумрудной энергии начинают дугой проходить через землю и к статуе.</p>
 </div>
 
-The lightning strike signals the true beginning of the druids’ ritual. Once the ritual begins, the thirteen **druid naturalists** encircling the statue use their action each turn to continue chanting and beating their drums. While participating in the ritual, a druid can't move or use bonus actions or reactions.
+Удар молнии сигнализирует о настоящем начале ритуала друидов. После начала ритуала тринадцать **друидов-натуралистов**, окружающих статую, используют своё действие каждый ход, чтобы продолжать петь и бить в барабаны. Участвуя в ритуале, друид не может двигаться или использовать бонусные действия или реакции.
 
-> [!info]+ **Completing the Ritual**
-> To complete the ritual, the druids must use their actions to chant for 12 rounds, with at least one of them chanting each round. On each round that fewer than twelve druids are able to chant (e.g., because some druids have died, or due to a *silence* spell), roll a d12. 
+> [!info]+ **Завершение ритуала**
+> Чтобы завершить ритуал, друиды должны использовать свои действия для пения в течение 12 раундов, причём хотя бы один из них должен петь каждый раунд. В каждом раунде, когда меньше двенадцати друидов могут петь (например, потому что некоторые друиды умерли, или из-за заклинания *тишина*), бросьте d12.
 >
-> If the result is greater than the number of chanting druids that round, sparks of green lightning arc from the statue, shocking all creatures within the wall of roots. Each target must succeed on a DC 17 Constitution saving throw or take 7 (2d6) lightning damage and be dazed until the start of their next turn. (A dazed creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)
+> Если результат больше, чем количество поющих друидов в этом раунде, искры зелёной молнии дугой исходят от статуи, шокируя всех существ внутри стены корней. Каждая цель должна преуспеть в @Check[type:fortitude|dc:22|basic] или получить @Damage[(3d6)[lightning]] и стать Stunned 1 или Stunned 2 при критическом провале.
 >
-> The second time this lightning is triggered, the damage increases to 10 (3d6) lightning damage. The third time this lightning is triggered, the ritual is ruined, unleashing its destructive energy as described in **Stopping the Ritual** below.
+> Второй раз, когда эта молния срабатывает, урон увеличивается до @Damage[(4d6)[lightning]]. Третий раз, когда эта молния срабатывает, ритуал разрушается, высвобождая свою разрушительную энергию, как описано в **Остановка ритуала** ниже.
 
-> [!abstract]+ **The Ritual is Completed**
-> If the druids successfully complete the ritual, the **tree blight** Wintersplinter is born as described in <span class="citation">Druids’ Ritual (p. 200)</span>. The druid naturalists then turn to attack the players as Wintersplinter begins its march on the Wizard of Wines winery. (If the players don’t stop it, Wintersplinter destroys the winery as described in <span class="citation">Wintersplinter Attacks (p. 180)</span>, then returns to Yester Hill, where it stands dormant near its birthplace awaiting further orders.)
+> [!abstract]+ **Ритуал завершён**
+> Если друиды успешно завершают ритуал, **[Элитный древесный регент](https://2e.aonprd.com/Monsters.aspx?ID=2831) (сделайте его Мифическим или даже Мифическим зверем, если вы играете по этим правилам)** Раскол Зимы рождается, как описано в <span class="citation">Ритуал друидов (стр. 200)</span>. Друиды-натуралисты затем поворачиваются, чтобы атаковать игроков, когда Раскол Зимы начинает свой марш на винодельню Винный Волшебник. (Если игроки не остановят его, Раскол Зимы уничтожает винодельню, как описано в <span class="citation">Раскол Зимы атакует (стр. 180)</span>, затем возвращается на Холм Былого, где он стоит бездействующим возле своего места рождения, ожидая дальнейших приказов.)
 >
-> If the players are defeated, the druids stabilize them and bring them to the Gulthias Tree as sacrifices. Before binding the players, the druids remove any visible or easily found weapons, focuses, magic items, and containers (e.g., backpacks) from the players’ persons, which they store at the base of the statue that once held Wintersplinter. 
+> Если игроки побеждены, друиды стабилизируют их и приносят их к Дереву Гультиас в качестве жертв. Прежде чем связать игроков, друиды удаляют любое видимое или легко находимое оружие, фокусы, магические предметы и контейнеры (например, рюкзаки) с персон игроков, которые они хранят у основания статуи, которая когда-то содержала Раскол Зимы.
 >
-> All druids then depart from the hill except Svarog, who buries himself in mud nearby as described in <span class="citation">Hidden Graves (p. 198)</span>. Two **berserkers** also bury themselves in mud not far away. The players must succeed on a DC 11 Dexterity (Stealth) check to retrieve their belongings without awakening Svarog or his berserker guardians.
+> Все друиды затем уходят с холма, кроме Сварога, который зарывается в грязь поблизости, как описано в <span class="citation">Скрытые могилы (стр. 198)</span>. Два **берсерка** также зарываются в грязь неподалёку. Игроки должны преуспеть в @Check[type:stealth|dc:22], чтобы вернуть свои вещи, не разбудив Сварога или его берсеркеров-охранников.
 >
-> When the players regain consciousness, they find themselves disarmed and lashed to the trunk of the Gulthias Tree, with webs of small, black roots extruding from the tree’s base and penetrating their skin. A player is restrained while bound in this way, and poisoned for as long as the roots remain in their skin. A web of roots has AC 10, 10 hit points, and regenerates 10 hit points at initiative count 20 of each round if it has at least 1 hit point and isn’t in sunlight or running water.
+> Когда игроки приходят в сознание, они обнаруживают себя разоружёнными и привязанными к стволу Дерева Гультиас, с паутиной маленьких, чёрных корней, выступающих из основания дерева и проникающих в их кожу. Игрок обездвижен, пока связан таким образом, и отравлен, пока корни остаются в его коже. Паутина корней имеет те же характеристики, что и заклинание [Привязь 3-го ранга](https://2e.aonprd.com/Spells.aspx?ID=591) с КС заклинания 23, но также она восстанавливает 13 очков здоровья на счёте инициативы 20 каждого раунда, если у неё есть хотя бы 1 очко здоровья и она не находится на солнечном свете или в проточной воде.
 >
-> At the end of each hour that a player is infested by the tree’s roots, they must succeed on a DC 17 Constitution saving throw or take 1d6 necrotic damage. Their hit point maximum is reduced by an amount equal to the necrotic damage. This reduction lasts until the player finishes a long rest, and the player dies if this effect reduces their hit point maximum to 0.
-## J5d. The Druidic Guards
-Immediately after the ritual begins, the two **druid assailants** and two **berserkers** work to prevent the players and Muriel from approaching the statue, by force if necessary. If she hasn’t already, Ludmilla retreats to the ritualists’ circle as soon as combat breaks out. As she does, she uses her action to create a *shroud of mist* with a 60-foot radius around the statue to cover her retreat. (See [[#J5e. The Shroud of Mist]] below.) She then uses her bonus action to summon her **shroud of shadows*** (see below).
+> В конце каждого часа, когда игрок заражён корнями дерева, он должен преуспеть в @Check[type:fortitude|dc:22] или стать Истощённым 1 (Истощённым 2 при критическом провале).
+
+## J5d. Стражи друидов
+Сразу после начала ритуала два **друида-нападающих** и два **берсерка** работают, чтобы предотвратить приближение игроков и Мюриэль к статуе, силой, если необходимо. Если она ещё не сделала этого, Людмила отступает к кругу ритуалистов, как только начинается бой. При этом она использует своё действие, чтобы создать *покров тумана* с радиусом 60 футов вокруг статуи, чтобы прикрыть своё отступление. (См. [[Arc J - The Stolen Gem#The Shroud of Mist|Покров тумана]] ниже.) Затем она использует своё бонусное действие, чтобы вызвать свой **покров теней*** (см. ниже).
 <br>
 
 ![[Yester Hill Layout (Presentation) (1).png]]
 <br>
 
-> [!info]+ **The Size of the Hill**
-> The area encompassed by <span class="citation">Y3. Druids' Circle (p. 197)</span> is approximately two hundred and fifty feet in diameter, or approximately one hundred and twenty-five feet in radius. The players must travel approximately sixty feet from their entry point in the circle—where the **berserkers** and **druid assailants** obstruct them—to reach the edge of Ludmilla's shroud of mist.
-## J5e. Ludmilla's Barricade
-Once the players bypass or defeat the druids and berserkers guarding the entrance to the circle, Ludmilla and her allies create two barriers to obstruct them: a shroud of mist, followed by a wall of roots.
-### The Shroud of Mist
-This hollow cylinder of gray fog has a radius of 60 feet and is 150 feet high, with its opaque, six-inch-thick, "curtain"-like edges obscuring its interior, which is filled and lightly obscured by faint, harmless mist. The cylinder lasts for 10 minutes, or until Ludmilla dismisses it as a bonus action. (Maintaining the shroud doesn't require Ludmilla's concentration.)
+> [!info]+ **Размер холма**
+> Область, охватываемая <span class="citation">Y3. Круг друидов (стр. 197)</span>, составляет примерно двести пятьдесят футов в диаметре, или примерно сто двадцать пять футов в радиусе. Игроки должны пройти примерно шестьдесят футов от точки входа в круг — где **берсерки** и **друиды-нападающие** препятствуют им — чтобы достичь края покрова тумана Людмилы.
 
-A non-undead creature that comes into contact with the mist for the first time on a turn must succeed on a DC 15 Constitution saving throw or take 10 (3d6) necrotic damage and be slowed until the start of its next turn. (It must spend 1 extra foot of movement for every foot it moves using its speed, attack rolls against it have advantage, and it has disadvantage on Dexterity saving throws.)
+## J5e. Баррикада Людмилы
+После того, как игроки обходят или побеждают друидов и берсерков, охраняющих вход в круг, Людмила и её союзники создают два барьера, чтобы препятствовать им: покров тумана, за которым следует стена корней.
 
-> [!info]+ **Laying Out the Battlefield**
-> Once the players move through the ring of mist, the structure of the battlefield is as follows:
+### Покров тумана
+Цилиндр длится 10 минут или до тех пор, пока Людмила не отменит его бонусным действием. (Поддержание покрова не требует поддержания.)
+
+----
+**Сложность** Простая
+**Скрытность** КС 25 (обучен)
+**Описание** Этот полый цилиндр из серого тумана имеет радиус 60 футов и высоту 150 футов, с его непрозрачными, шестидюймовыми толстыми, "занавесообразными" краями, скрывающими его внутреннюю часть, которая заполнена и слегка затемнена слабым, безвредным туманом.
+
+----
+**Отключение** КС 27 Оккультист (мастер) для противодействия оккультной магии или КС 29 Акробатика или Атлетика (эксперт) для прохождения сквозь магический туман
+
+**Остановить их!** ↻ (сила, пустота, оккультный) **Триггер** Не-нежить существо, которое вступает в контакт с границей тумана впервые в ходу; **Эффект** Туман пытается остановить их. Существо должно попытаться пройти @Check[type:fortitude|dc:25], чтобы избежать затруднений или вреда от Покрова тумана.
+
+**Критический успех** Цель не затронута.  
+**Успех** Цель замедлена 1 на 1 раунд.  
+**Провал** Цель замедлена 2 на 1 раунд и получает @Damage[(2d10+10)[void]].  
+**Критический провал** Цель замедлена 2 на 1 раунд и получает @Damage[(4d10+15)[void]].
+
+> [!info]+ **Расположение поля боя**
+> После того, как игроки проходят через кольцо тумана, структура поля боя следующая:
 >
-> * The Huge statue of Strahd stands at the center of the ring.
-> * Twelve **druid naturalists** encircle the statue, with each druid standing 10 feet from the statue. Svarog, a thirteenth **druid naturalist**, stands between them.
-> * The fifteen-foot-thick wall of roots surrounds the circle of druids, with the wall’s inner edge five feet away from the druids.
-> * Ludmilla’s thin ring of mist begins twenty feet away from the outer edge of the wall of roots.
-> * Ludmilla remains above the wall of roots and within the circle enclosed by the ring of mist.
-### The Wall of Roots
-The first time that a player passes through Ludmilla’s shroud of mist, read:
+> * Огромная статуя Страда стоит в центре кольца.
+> * Двенадцать **друидов-натуралистов** окружают статую, каждый друид стоит в 10 футах от статуи. Сварог, тринадцатый **друид-натуралист**, стоит между ними.
+> * Стена корней толщиной пятнадцать футов окружает круг друидов, внутренний край стены находится в пяти футах от друидов.
+> * Тонкое кольцо тумана Людмилы начинается в двадцати футах от внешнего края стены корней.
+> * Людмила остаётся над стеной корней и внутри круга, окружённого кольцом тумана.
+
+### Стена корней
+В первый раз, когда игрок проходит через покров тумана Людмилы, прочтите:
 
 <div class="description">
-<p>A druid at the center of the circle lifts his hands high, clasping a thin, stone-gray wand in his pale, bony fingers. At his gesture, the ring of black roots pulsates as if alive, quivering and writhing as their blackened bark rises into the air.</p>
-<p>Thorns—long, wicked, and sharp—erupt from the roots' edges, even as droplets of crimson blood bead upon the roots' soft, spongy surfaces. The roots themselves grow vertically, twisting and intertwining, until they form a wall of dark, impenetrable foliage thirty feet high and fifteen feet deep. Black roots pierce from its sides and rise into the air above it, where they tremble and writhe like slick, muddy tendrils.</p>
+<p>Друид в центре круга поднимает руки высоко, сжимая тонкий, каменно-серый жезл в своих бледных, костлявых пальцах. По его жесту кольцо чёрных корней пульсирует, словно живое, дрожа и извиваясь, когда их почерневшая кора поднимается в воздух.</p>
+<p>Шипы — длинные, злые и острые — вырываются из краёв корней, даже когда капли малиновой крови выступают на мягких, губчатых поверхностях корней. Сами корни растут вертикально, скручиваясь и переплетаясь, пока не образуют стену тёмной, непроницаемой листвы высотой тридцать футов и глубиной пятнадцать футов. Чёрные корни пронзают её стороны и поднимаются в воздух над ней, где они дрожат и извиваются, как скользкие, грязные щупальца.</p>
 </div>
 
-The druid is Svarog, and the wand that he wields is the one mentioned by Kavan. 
+Друид — это Сварог, и жезл, которым он владеет, — это тот, о котором упоминал Каван.
 
-If Muriel is with the players and takes the necrotic damage after passing through Ludmilla’s shroud of mist, a player watching her notices that she looks briefly surprised at the beginning of her turn the following round. (Muriel is disturbed that the necrotic damage dealt by the mist appears to be inhibiting her ***regeneration*** feature.)
+Если Мюриэль с игроками и получает некротический урон после прохождения через покров тумана Людмилы, игрок, наблюдающий за ней, замечает, что она выглядит кратко удивлённой в начале своего хода в следующем раунде. (Мюриэль обеспокоена тем, что урон пустоты, нанесённый туманом, по-видимому, подавляет её особенность ***регенерации***.)
 
-The statistics of the wall of roots are as follows:
+Стена корней имеет следующие особенности:
 
-* ***Wall Segments.*** The wall of roots is composed of interconnected segments of black roots. Each segment is five feet tall, five feet wide, and five feet deep, and has AC 15 and 20 hit points, as well as vulnerability to radiant damage and immunity to piercing and psychic damage. Each segment has +3 to Strength and Constitution saving throws and automatically fails all Dexterity, Intelligence, Wisdom, and Charisma saving throws. A segment of roots provides full cover and can't be seen through.
-* ***Segment Regeneration.*** A wall segment regains 10 hit points at initiative count 20 if it has at least 1 hit point and isn't in sunlight. If the segment takes radiant or fire damage, this trait doesn't function on the following round. Reducing a segment to 0 hit points destroys it.
-* ***Wrathful Roots.*** A creature other than Ludmilla that moves along the outer edge of the wall for the first time on a turn or ends its turn there must make a DC 17 Dexterity saving throw as long, thorned roots whip out from the wall’s surface. (A creature that moves along an interior edge of the wall—such as a corridor carved out by the players' attacks—is not attacked.) On a failure, the creature is grappled by the roots (escape DC 17) and takes 3 (1d6) bludgeoning damage plus 7 (2d6) piercing damage at the start of each of its turns. A bundle of grappling roots, which takes damage separately from its wall segment, has AC 15, 10 hit points, vulnerability to radiant damage, and immunity to piercing and psychic damage.
+* ***Сегменты стены.*** Каждая секция стены размером 30 на 5 футов имеет КБ 18, Твёрдость 5 и 13 очков здоровья. Она иммунна к критическим попаданиям и точному урону. Через разрушенную секцию можно свободно пройти. И это Большая Сложная местность. Сегмент корней обеспечивает полное укрытие и не позволяет видеть сквозь него. За каждое действие движения, которое существо использует, чтобы войти хотя бы в одно пространство стены, это существо получает @Damage[(3d4)[piercing]].
+* ***Регенерация сегмента.*** Сегмент стены восстанавливает 13 очков здоровья на счёте инициативы 20, если у него есть хотя бы 1 очко здоровья и он не находится на солнечном свете. Если сегмент получает святой или огненный урон, эта особенность не работает в следующем раунде. Уменьшение сегмента до 0 очков здоровья уничтожает его.
+* ***Гневные корни.*** Существо, кроме Людмилы, которое движется вдоль внешнего края стены в первый раз в ходу или заканчивает свой ход там, должно сделать @Check[type:reflex|dc:22], поскольку длинные, колючие корни выхлёстываются из поверхности стены. (Существо, которое движется вдоль внутреннего края стены — например, коридора, вырезанного атаками игроков — не атакуется.) При провале существо схвачено, пока не Сбежит (КС 22), и получает @Damage[(8d4+12)[piercing]]. Пучок хватающих корней, который получает урон отдельно от своего сегмента стены, имеет КБ 18, 13 очков здоровья, слабость 5 к святому и огненному урону.
 
-> [!info]+ **Spirit Guardians**
-> The wall of roots takes damage from *spirit guardians* and other spells or abilities that trigger at the start of a creature's turn at initiative count 0 of each round.
-
-> [!info]+ **Moving Through the Wall**
-> A creature can move through the wall of roots, albeit slowly and painfully. For every 1 foot a creature moves through the wall, it must spend 4 feet of movement. Furthermore, the first time a creature enters the wall on a turn or ends its turn there, the creature must make a DC 17 Dexterity saving throw. It takes 7d8 slashing damage on a failed save, or half as much damage on a successful one.
-
-> [!info]+ **Flying Over the Wall**
-> Whenever a creature other than Ludmilla flies over the wall for the first time on a turn or ends its turn there, if it is within 300 feet of the wall, long, black roots reach from the wall and loop around the creature to hold it in place. The creature must succeed on a DC 17 Dexterity saving throw or be grappled (escape DC 17) and fall prone to the ground below. (The creature takes falling damage as normal.)
+> [!info]+ **Перелёт над стеной**
+> Всякий раз, когда существо, кроме Людмилы, пролетает над стеной в первый раз в ходу или заканчивает свой ход там, если оно находится в пределах 300 футов от стены, длинные, чёрные корни тянутся от стены и обвиваются вокруг существа, чтобы удержать его на месте. Существо должно преуспеть в @Check[type:reflex|dc:22] или быть схваченным, пока не Сбежит (КС 22), и упасть ничком на землю внизу. (Существо получает урон от падения как обычно.)
 >
-> While grappled in this way, the creature takes 3 (1d6) bludgeoning damage plus 7 (2d6) piercing damage at the start of each of its turns. The roots have AC 15, 20 hit points, vulnerability to radiant damage, and immunity to piercing and psychic damage.
-### Ludmilla's Provocations
-Once the players pass through the shroud of mist, Ludmilla also engages them in combat with her ***shroud of shadows*** activated. (Due to her automatic *contingency* feature, Ludmilla teleports away from the battlefield and flees if her first phase is reduced to 0 hit points.)
+> Кроме того, существо получает @Damage[(8d4+12)[piercing]]. Корни имеют КБ 18, 13 очков здоровья, слабость 5 к святому и огненному урону.
 
-<div class="statblock">
-    <h2>Ludmilla, First Form</h2>
-    <em>Medium undead, neutral evil</em>
-    <hr>
-    <strong>Armor Class</strong> 16 (natural armor)
-    <br>
-    <strong>Hit Points</strong> 120 (16d8 + 48)
-    <br>
-    <strong>Speed</strong> 30 ft., climb 30 ft.
-    <hr>
-    <table class="ability-table">
-        <thead>
-            <tr>
-                <th>STR</th>
-                <th>DEX</th>
-                <th>CON</th>
-                <th>INT</th>
-                <th>WIS</th>
-                <th>CHA</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>16 (+3)</td>
-                <td>16 (+3)</td>
-                <td>16 (+3)</td>
-                <td>18 (+4)</td>
-                <td>10 (+0)</td>
-                <td>12 (+1)</td>
-            </tr>
-        </tbody>
-    </table>
-    <hr>
-    <strong>Saving Throws</strong> Dex +6, Wis +5, Int +7<br>
-    <strong>Skills</strong> Arcana +7, Perception +3, Stealth +6<br>
-    <strong>Damage Resistances</strong> necrotic; bludgeoning, piercing, and slashing from nonmagical weapons<br>
-    <strong>Senses</strong> Darkvision 120 ft., passive Perception 13<br>
-    <strong>Languages</strong> Common, Abyssal, Infernal<br>
-    <strong>Challenge Rating</strong> 6<br>
-    <strong>Proficiency Bonus</strong> +3
-    <hr>
-    <p><strong><em>Regeneration.</em></strong> Ludmilla regains 10 hit points at the start of her turn if she has at least 1 hit point and isn’t in sunlight or running water. If she takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
-    <p><strong><em>Spider Climb.</em></strong> Ludmilla can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
-    <p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Ludmilla takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
-    <p><strong><em>Form of Mist.</em></strong> When Ludmilla is reduced to 0 hit points, her statistics are instantly replaced by the statistics of her second form. Her initiative count doesn't change. Excess damage doesn't carry over to her new form, but she retains any conditions she had in her previous form.</p>
-    <h3>Actions</h3>
-    <p><strong><em>Grease.</em></strong> Ludmilla casts <em>grease</em> (DC 15) in a 20-foot-square area.</p>
-    <p><strong><em>Command.</em></strong> Ludmilla casts <em>command</em> (DC 15), targeting up to two creatures with the same command. If she is within 10 feet of all targets, she can speak a command of up to three words, rather than one.</p>
-    <p><strong><em>Hypnotic Pattern (2/day).</em></strong> Ludmilla casts <em>hypnotic pattern</em> (DC 15).</p>
-    <p><strong><em>Dimension Door (1/day).</em></strong> Ludmilla casts <em>dimension door.</em></p>
-    <h3>Bonus Actions</h3>
-    <p><strong><em>Shroud of Shadows (1/day).</em></strong> Ludmilla summons a shroud of shadows around her, which lasts for 8 hours or until she dismisses it as a bonus action. While the shroud remains, she gains a flying speed of 50 feet (hover) and has resistance to damage dealt by melee attacks. If Ludmilla resists damage in this way, the attacker takes the same amount and type of damage dealt.<br>&nbsp;&nbsp;&nbsp;&nbsp; The first time Ludmilla takes radiant damage or damage from holy water while the shroud is present, the shroud weakens, reducing her flying speed to 25 feet and causing her to fall 20 feet. The second time Ludmilla takes radiant damage or damage from holy water while the shroud is present, the shroud immediately vanishes.</p>
-    <p><strong><em>Entangling Slime.</em></strong> If Ludmilla is currently concentrating on a <em>grease</em> spell, she casts <em>web</em> (DC 15) without using concentration, targeting the same 20-foot-square area as the <em>grease</em> spell. The webs vanish when she loses her concentration on <em>grease.</em></p>
-    <h3>Reactions</h3>
-    <p>Ludmilla can take up to three reactions per round, but only one per turn. If she would lose her reactions and isn't incapacitated, she loses one reaction instead.</p>
-    <p><strong><em>Misty Step.</em></strong> In response to taking damage, Ludmilla casts <em>misty step.</em></p>
-    <p><strong><em>Disrupt Spell (3/day).</em></strong> <em>3rd-Level Spell:</em> 60 feet, components S, instantaneous. <em>Effect:</em> Ludmilla attempts to disrupt a creature in the process of casting a spell. If the creature is casting a spell of 3rd level or lower, it must make a DC 15 saving throw using its spellcasting ability. On a failure, the creature's spell fails and has no effect.</p>
-    <p><strong><em>Mage's Reprisal.</em></strong> In response to being missed by a spell attack or succeeding on a saving throw against a spell, Ludmilla can immediately force the caster to succeed on a DC 15 Constitution saving throw or take 7 (2d6) force damage.</p>
-    <p><strong><em>Contingency (1/day).</em></strong> If Ludmilla would drop to 0 hit points as a result of taking damage, a <em>contingency</em> spell activates, allowing her to gain the effects of <em>dimension door</em>. (Because Ludmilla doesn't cast the spell at the time of her reaction, it can't be countered.)</p>
-</div>
+### Провокации Людмилы
+После того, как игроки проходят через покров тумана, Людмила также вступает с ними в бой с активированным ***покровом теней***. (Из-за её автоматической особенности *предосторожности* Людмила телепортируется прочь с поля боя и убегает, если её первая фаза уменьшается до 0 очков здоровья.)
 
-> [!combat]- **Balancing the Second Bride**
-> This combat encounter is a **mild** combat encounter against a party of four 5th-level players and two CR 2 allies (Ireena Kolyana and Muriel Vinshaw), and will consume approximately 12% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+
+> [!combat]- **Балансировка Второй невесты**
+> Эта боевая встреча — **Умеренная+** боевая встреча против группы из четырёх игроков 6-го уровня и союзников 4-го и 5-го уровней (Ирина Коляна и Мюриэль Виншоу). Для групп меньшего или большего размера измените встречу следующим образом:
 >
-> * ***Three Players.*** Decrease Ludmilla’s HP to 84. Decrease the damage of her mage’s reprisal reaction to 5 (2d4).
-> * ***Five Players.*** Decrease Ludmilla’s HP to 102. Decrease the damage of her mage’s reprisal reaction to 6 (1d12).
-> * ***Six Players.*** Increase Ludmilla’s HP to 136.
+> * ***Три игрока.*** Масштабируйте Людмилу до 8-го уровня.
+> * ***Пять игроков.*** Добавьте Элитную Тень к битве, когда она накладывает Покров теней.
+> * ***Шесть игроков.*** Добавьте две Элитные Тени к битве, когда она накладывает Покров теней.
 
-In combat, Ludmilla prefers to begin by using ***entangling slime***, moving to use ***hypnotic pattern*** only once most of the players have either escaped or evaded her grease and webs.
+В бою Людмила предпочитает начинать с использования контролирующих заклинаний.
 
-> [!abstract]+ **Hypnotic Pattern**
-> If any players fail their saving throws against Ludmilla's *hypnotic pattern*, one or more of the **swarms of ravens** descend to awaken them on initiative count 20 of the following round before returning to the skies.
+> [!abstract]+ **Помощь воронов**
+> Если какие-либо игроки в беде (например, нуждаются в пробуждении или освобождении, или потеряли предмет), одна или несколько **стай воронов** спускаются, чтобы помочь им наилучшим возможным способом.
 
-On Ludmilla's first turn in combat, if Muriel is present, Ludmilla also attempts to provoke her. The following sequence then unfolds, assuming the players do not intervene:[^1]
+В первом ходу Людмилы в бою, если Мюриэль присутствует, Людмила также пытается спровоцировать её. Затем разворачивается следующая последовательность, предполагая, что игроки не вмешиваются:[^1]
 
-[^1]: Inspired by *The Dark Knight*
+[^1]: Вдохновлено *Тёмным рыцарем*
 
 <div class="description">
-<p>Ludmilla eyes Muriel with mild curiosity. "I saw how you reacted when I mentioned the wereraven's death. Did you know him perhaps? Was he someone close to you?"</p>
-<p>A small, cold smile twists Ludmilla's lips. "Do you want to know why I dissect my test subjects? In their final moments, people reveal their true selves—their deepest fears and regrets. In a way, I know him better than you ever did."</p>
-<p>A calculating, predatory glint appears in her eyes. "Would you like to know if he was a coward in the end?"</p>
-<p>Muriel's face turns white, and she begins to tremble, heaving with exertion and rage.</p>
+<p>Людмила смотрит на Мюриэль с лёгким любопытством. "Я видела, как ты отреагировала, когда я упомянула смерть оборотня-ворона. Ты, возможно, знала его? Был ли он кем-то близким тебе?"</p>
+<p>Маленькая, холодная улыбка искривляет губы Людмилы. "Знаешь ли ты, почему я вскрываю моих подопытных? В свои последние мгновения люди раскрывают свою истинную сущность — свои глубочайшие страхи и сожаления. В некотором смысле, я знаю его лучше, чем ты когда-либо знала."</p>
+<p>Расчётливый, хищный блеск появляется в её глазах. "Хотела бы ты знать, был ли он трусом в конце?"</p>
+<p>Лицо Мюриэль становится белым, и она начинает дрожать, тяжело дыша от напряжения и ярости.</p>
 </div>
 
-A player can dissuade Muriel from attacking Ludmilla with a successful DC 25 Charisma (Persuasion) check, with no action required. Otherwise, Muriel uses her ***shapechange*** ability on her next turn to transform into a humanoid-raven hybrid and immediately attacks Ludmilla with her ***shortsword multiattack***. Read:
+Игрок может отговорить Мюриэль от нападения на Людмилу с успешной @Check[type:diplomacy|dc:25|traits:action:request]. В противном случае, Мюриэль использует свою способность ***Изменение формы*** в своём следующем ходу, чтобы превратиться в гибрид человека и ворона, и немедленно атакует Людмилу своим ***коротким мечом***. Прочтите:
 
 <div class="description">
-<p>An anguished howl bursts from Muriel's lips—lips which, you notice, are suddenly growing longer, harder, and as sharp as an avian's beak. The sound of ripping fabric pierces the air as two enormous, black-feathered, blue-tipped wings tear from her back, her hands and feet shriveling into gnarled raven's claws.</p>
-<p>With a shriek of rage and impotent fury, Muriel spreads her wings and launches into the air.</p>
+<p>Мучительный вой вырывается из губ Мюриэль — губ, которые, как вы замечаете, внезапно становятся длиннее, твёрже и острее, как птичий клюв. Звук рвущейся ткани пронзает воздух, когда два огромных, чёрных с синими кончиками крыла вырываются из её спины, её руки и ноги сморщиваются в узловатые вороньи когти.</p>
+<p>С криком бессильной ярости Мюриэль расправляет крылья и взлетает в воздух.</p>
 </div>
 
-Each time Muriel takes damage from Ludmilla's ***shroud of shadows*** feature, blood from her wounds spills onto the earth of Yester Hill below. Read:
+Каждый раз, когда Мюриэль получает урон от особенности ***покров теней*** Людмилы, кровь из её ран проливается на землю Холма Былого внизу. Прочтите:
 
 <div class=description>
-<p>Muriel's blood pours onto the ground, forming crimson pools in the muddy earth. As you watch, small black roots extrude from the wall of roots and pierce the pools' surface, bulges of liquid traversing the roots' length as they drink greedily of the spilled blood.</p>
+<p>Кровь Мюриэль льётся на землю, образуя малиновые лужи в грязной земле. Когда вы наблюдаете, маленькие чёрные корни выступают из стены корней и пронзают поверхность луж, выпуклости жидкости проходят по длине корней, когда они жадно пьют пролитую кровь.</p>
 </div>
 
-Each 5-foot square within 30 feet of the ground beneath Muriel then undergoes the following effects:
+Каждый квадрат 5 на 5 футов в пределах 30 футов от земли под Мюриэль затем подвергается следующим эффектам:
 
-* If the square contains a wall segment, it regains 10 hit points. (A segment regains hit points even if its ***regeneration*** feature isn’t currently functioning.)
-* If the square previously contained a wall segment but is now empty, that square gains the effects of a *spike growth* spell.
-* If the square previously contained a wall segment and currently has the effects of a *spike growth* spell, the _spike growth_ effect is replaced by a wall segment with 5 hit points.
+* Если квадрат содержит сегмент стены, он восстанавливает 13 очков здоровья. (Сегмент восстанавливает очки здоровья, даже если его особенность ***регенерации*** в настоящее время не функционирует.)
+* Если квадрат ранее содержал сегмент стены, но теперь пуст, этот квадрат получает эффекты заклинания *рост шипов* из 5e (Область становится Сложной местностью на время действия. Когда существо перемещается в область или внутри неё, оно получает @Damage[(3d4)[piercing]] за каждые 5 футов, которые оно проходит.).
+* Если квадрат ранее содержал сегмент стены и в настоящее время имеет эффекты заклинания *рост шипов*, эффект _роста шипов_ заменяется сегментом стены с 7 очками здоровья.
 
-A player can persuade Muriel to cease attacking Ludmilla with a DC 20 Charisma (Persuasion) check, with advantage if the player invokes Elric's memory and urges Muriel against seeking revenge. (The check succeeds automatically if Muriel and the player have previously bonded over their experience with loss.) This check doesn't require an action.
-## J5f. Stopping the Ritual
-The thirteen **druid naturalists** within the wall of roots have a speed of 0 for the duration of the ritual, their legs and feet bound by the roots of the Gulthias tree, which connect them to the statue at the center of the circle.
+Игрок может убедить Мюриэль прекратить атаковать Людмилу с @Check[type:diplomacy|dc:27|traits:action:request], с +2 бонусом обстоятельств, если игрок упоминает память Элрика и призывает Мюриэль не искать мести. (Проверка автоматически успешна, если Мюриэль и игрок ранее сблизились благодаря своему опыту с потерей.) Эта проверка не требует действия.
 
-The druids must use their actions each turn to chant the words of the ritual, which requires their concentration, as if concentrating on a spell. While chanting in this way, the druids can't use bonus actions or reactions. The druids also dare not cast *thunderwave* or other damaging spells in the circle, for fear of damaging the statue.
+## J5f. Остановка ритуала
+Тринадцать **друидов-натуралистов** внутри стены корней имеют скорость 0 на время ритуала, их ноги и стопы связаны корнями Дерева Гультиас, которые соединяют их со статуей в центре круга.
 
-When the players first enter the circle, the thirteenth druid, Svarog, ceases chanting and enters combat. Roll initiative for Svarog.
+Друиды должны использовать свои действия каждый ход для произнесения слов ритуала, что требует от них потратить действие Поддержки, как если бы они поддерживали заклинание. Произнося заклинания таким образом, друиды не могут использовать реакции. Друиды также не смеют накладывать *громовую волну* или другие наносящие урон заклинания в круге, опасаясь повредить статую.
 
-Svarog has the statistics of a **druid naturalist**, except he gains the following features: 
+Когда игроки впервые входят в круг, тринадцатый друид, Сварог, прекращает петь и вступает в бой. Бросьте инициативу для Сварога.
 
-* ***Gust of Wind.*** As an action, Svarog casts *gust of wind*.
-* ***Bind Elements (3/day).*** _2nd Level Spell:_ range 60 feet, components V S, 1 round. As a reaction when he sees a creature casting a spell of 3rd level or lower within range that deals acid, cold, fire, lightning, or thunder damage, Svarog can force that creature to make a DC 12 saving throw using its spellcasting ability. On a failure, the creature's spell fails and it has no effect, and a small orb of elemental energy appears in Svarog's hand. Svarog can use a bonus action on his next turn to fling the orb, making a ranged spell attack using the orb (+5 to hit) against a creature within 60 feet. On a hit, the orb deals 1d6 damage of the type absorbed, plus an additional 1d6 damage for each level of the spell absorbed.
+Сварог имеет следующий статблок:
 
-The statue is largely as described in <span class="citation">Y3. Druids' Circle (p. 197)</span>. However, the statue has 100 hit points. In addition, the portion of the statue's chest containing the gem, which lies 30 feet above the ground, has AC 10 and 10 hit points, with immunity to poison and psychic damage. The gem cannot be retrieved until the statue's chest is reduced to 0 hit points, at which point the gem is exposed.
 
-If the ritual is permanently disrupted (see **The Ritual Begins** above) or if the players retrieve the gem from the statue's chest, the ritual's destructive energy is unleashed upon the circle. Read:
+Статуя в основном описана в <span class="citation">Y3. Круг друидов (стр. 197)</span>. Однако статуя имеет 130 очков здоровья и Твёрдость 10. Кроме того, часть груди статуи, содержащая драгоценный камень, которая находится на высоте 30 футов над землёй, имеет КБ 10 и Твёрдость 5, 13 очков здоровья, иммунитеты объекта, иммунитет к яду и критическим попаданиям. Драгоценный камень нельзя извлечь, пока грудь статуи не уменьшится до 0 очков здоровья, после чего драгоценный камень будет открыт.
+
+Если ритуал постоянно нарушается (см. **Ритуал начинается** выше) или если игроки извлекают драгоценный камень из груди статуи, разрушительная энергия ритуала высвобождается на круг. Прочтите:
 
 <div class="description">
-<p>Bolts of brilliant viridian lightning crackle across the statue's surface, and the air within the circle grows thick with ozone. All around you, the druids wail and gnash their teeth, casting down their drums and staffs as they fruitlessly work to free themselves of the roots that bind them to the black earth below. The wand-bearing druid flings his wand to the earth with a shrieked curse, then lifts the staff from his shoulders to the sky, chanting words of desperation and defiance. </p>
-<p>The wind whips into a frenzied gale, screaming through your ears, as the bark of the statue begins to splinter and creak. The electric potential suffusing the air grows to a terrible peak around the statue, your flesh prickling with the energy impatiently waiting to be unleashed. </p>
+<p>Болты яркой изумрудной молнии потрескивают по поверхности статуи, и воздух внутри круга становится густым от озона. Вокруг вас друиды воют и скрежещут зубами, бросая свои барабаны и посохи, когда они безрезультатно пытаются освободиться от корней, которые связывают их с чёрной землёй внизу. Друид с жезлом бросает свой жезл на землю с визгливым проклятием, затем поднимает посох со своих плеч к небу, произнося слова отчаяния и неповиновения.</p>
+<p>Ветер превращается в бешеный шквал, крича через ваши уши, когда кора статуи начинает раскалываться и скрипеть. Электрический потенциал, наполняющий воздух, достигает ужасного пика вокруг статуи, ваша плоть покалывает от энергии, нетерпеливо ожидающей высвобождения.</p>
 </div>
 
-In the round following the ritual's disruption, the following events occur:
+В раунде, следующем за нарушением ритуала, происходят следующие события:
 
-* On initiative count 20, the statue collapses. When this occurs, player still climbing the statue must succeed on a DC 10 Dexterity saving throw or take 1d6 bludgeoning damage and fall prone 30 feet from the statue's base, in the direction of the stone circle's exit. In addition, Svarog, if still alive, takes 14 (4d6) bludgeoning damage and is knocked prone and restrained by the fallen statue.
-* On initiative count 10 of the following round, if any players remain within 30 feet of the statue, the **swarms of ravens** descend to carry them away, with a minimum of two swarms needed to carry a player of size Medium and a minimum of one swarm needed to carry a player of size Small or smaller.
-* On initiative count 0 of the following round, all creatures within 30 feet of the statue must make a DC 17 Constitution saving throw, taking 56 (16d6) lightning damage on a failure or half as much on a success.
+* На счёте инициативы 20 статуя рушится. Когда это происходит, игрок, всё ещё взбирающийся на статую, должен преуспеть в @Check[type:reflex|dc:22|basic] или получить @Damage[(2d6)[bludgeoning]] и упасть ничком в 30 футах от основания статуи, в направлении выхода из каменного круга. Кроме того, Сварог, если он всё ещё жив, делает спасбросок и получает @Damage[(6d6)[bludgeoning]] и сбит с ног и обездвижен упавшей статуей.
+* На счёте инициативы 10 следующего раунда, если какие-либо игроки остаются в пределах 30 футов от статуи, **стаи воронов** спускаются, чтобы унести их, при этом требуется минимум две стаи, чтобы нести игрока размера Средний, и минимум одна стая, чтобы нести игрока размера Маленький или меньше.
+* На счёте инициативы 0 следующего раунда все существа в пределах 30 футов от статуи должны сделать @Check[type:fortitude|dc:27|basic], получая @Damage[(16d6)[lightning]].
 
-In addition, if still present on her next turn, Ludmilla uses her action to use her ***dimension door*** to escape, teleporting to the Gulthias grove to the south before returning to Castle Ravenloft.
+Кроме того, если она всё ещё присутствует в своём следующем ходу, Людмила использует своё действие, чтобы использовать своё ***перемещение*** для побега, телепортируясь в рощу Гультиас на юге, прежде чем вернуться в Замок Равенлофт.
 
-> [!abstract]+ **Strahd’s Wager**
-> If the players successfully stop the ritual, Strahd briefly reappears upon Beucephalus, hovering thirty feet above the ground on the northwest edge of the stone circle. Once noticed by the players, Strahd inclines his head toward <span class="citation">Y5. Wall of Fog (p. 200)</span>, nudges Beucephalus in its direction, and vanishes once again as the **nightmare** canters toward it.
-# J6. After the Ritual
-## J6a. Muriel’s Confession
-If the players confront Muriel after the fight, she is willing to share the following information:
+> [!abstract]+ **Пари Страда**
+> Если игроки успешно останавливают ритуал, Страд ненадолго появляется на Беуцефале, паря в тридцати футах над землёй на северо-западном краю каменного круга. Когда игроки замечают его, Страд наклоняет голову в направлении <span class="citation">Y5. Стена тумана (стр. 200)</span>, подталкивает Беуцефала в её направлении и снова исчезает, когда **кошмар** скачет к ней.
 
-* She, like all of the members of the Keepers of the Feather, is a **wereraven**—a lycanthrope cursed to assume the form of a raven beneath the light of the full moon. (If asked, Muriel can confirm that Elric Martikov was the Keeper who bestowed the curse upon her, and who initiated her into the Keepers of the Feather.)
-* Her lycanthropy allows her to assume the form of a raven or a raven-humanoid hybrid, and provides her with regenerative abilities and flight, though silvered weapons are lethal to her. If she took damage from Ludmilla’s shroud of mist, she shares that certain kinds of dark magic appear to be lethal to her as well.
-* Her betrothed, Elric Martikov, was a wereraven who accompanied Doru’s rebellion in raven form, seeking to provide guidance to the ramshackle mob. He never returned from Castle Ravenloft—evidently, because Ludmilla killed him.
+# J6. После ритуала
+## J6a. Признание Мюриэль
+Если игроки конфронтируют с Мюриэль после боя, она готова поделиться следующей информацией:
 
-If she lost control and attacked Ludmilla, Muriel sincerely and shamefacedly apologizes for doing so. “Everything felt so far away," she says, quietly. “I thought I was going to lose myself, I was so angry." If the players brought her back to her senses, she is deeply grateful to them for doing so.
+* Она, как и все члены Хранителей Пера, является **оборотнем-вороном** — ликантропом, проклятым принимать форму ворона под светом полной луны. (Если спросить, Мюриэль может подтвердить, что Элрик Мартиков был Хранителем, который наложил на неё проклятие, и который посвятил её в Хранители Пера.)
+* Её ликантропия позволяет ей принимать форму ворона или гибрида человека и ворона, и обеспечивает её регенеративными способностями и полётом, хотя посеребрённое оружие смертельно для неё. Если она получила урон от покрова тумана Людмилы, она делится тем, что определённые виды тёмной магии, по-видимому, также смертельны для неё.
+* Её жених, Элрик Мартиков, был оборотнем-вороном, который сопровождал восстание Дору в форме ворона, стремясь предоставить руководство разношёрстной толпе. Он никогда не вернулся из Замка Равенлофт — очевидно, потому что Людмила убила его.
 
-If the players ask Muriel to curse them with wereraven lycanthropy, she laughs softly, and apologizes for disappointing them. “Even if I gave it to you, you couldn’t control it—not without months of proper training," she tells them. (Muriel is referring to the mechanism by which wereravens embrace their curse, which can only be achieved unknowingly.) Muriel apologetically refuses to say anything further on the subject, though she is glad to reassure the players that her refusal doesn’t arise from a lack of trust.
-## J6b. The Whispering Wall
+Если она потеряла контроль и атаковала Людмилу, Мюриэль искренне и стыдливо извиняется за это. "Всё казалось таким далёким," — тихо говорит она. "Я думала, что потеряю себя, я была так зла." Если игроки вернули её в чувства, она глубоко благодарна им за это.
 
-> [!warning]+ **Player Dreams**
-> Before running this scene, ask your players to provide you with information about their characters' deepest desires, then use this information to craft a suitable encounter should that player enter the Whispering Wall.
+Если игроки просят Мюриэль проклясть их ликантропией оборотня-ворона, она мягко смеётся и извиняется за то, что разочаровывает их. "Даже если бы я дала её вам, вы не смогли бы контролировать её — не без месяцев надлежащей подготовки," — говорит она им. (Мюриэль ссылается на механизм, с помощью которого оборотни-вороны принимают своё проклятие, которое может быть достигнуто только неосознанно.) Мюриэль извиняясь отказывается говорить что-либо дальше на эту тему, хотя она рада заверить игроков, что её отказ не возникает из-за недостатка доверия.
 
-This area takes the place of <span class="citation">Y5. Whispering Wall (p. 200)</span>. When the players first arrive, read:
+## J6b. Шепчущая Стена
+
+> [!warning]+ **Сны игроков**
+> Перед проведением этой сцены попросите ваших игроков предоставить вам информацию о самых глубоких желаниях их персонажей, затем используйте эту информацию, чтобы создать подходящую встречу, если этот игрок войдёт в Шепчущую Стену.
+
+Эта область заменяет <span class="citation">Y5. Шепчущая Стена (стр. 200)</span>. Когда игроки впервые прибывают, прочтите:
 
 <div class="description">
-<p>A shadowed wall of impenetrable fog looms above the earth here, stretching forth to meet the heavens far above. Strange shapes and silhouettes seem to drift through its depths, and distant voices seem to whisper just out of earshot.</p>
+<p>Затенённая стена непроницаемого тумана возвышается над землёй здесь, простираясь, чтобы встретиться с небесами далеко вверху. Странные формы и силуэты, кажется, дрейфуют в её глубинах, и отдалённые голоса, кажется, шепчут на грани слышимости.</p>
 </div>
 
-If the players recently defeated the druids and stopped their ritual, Strahd can be found here, kneeling before the wall, thirty feet away from Beucephalus. (A player that inspects Beucephalus notices that the **nightmare**'s saddlebags appear to be empty.)
+Если игроки недавно победили друидов и остановили их ритуал, Страд может быть найден здесь, стоя на коленях перед стеной, в тридцати футах от Беуцефала. (Игрок, который осматривает Беуцефала, замечает, что седельные сумки **кошмара** кажутся пустыми.)
 
-As the players approach, Strahd rises and appears to pocket something in his cloak. (Strahd won't share what this is, amusedly chiding the players for asking gifts not given.) He welcomes the players warmly, and congratulates them on defeating the Forest Folk.
+Когда игроки приближаются, Страд встаёт и, кажется, что-то кладёт в свой плащ. (Страд не поделится, что это такое, с весельем упрекая игроков за то, что они просят подарки, которые не были даны.) Он тепло приветствует игроков и поздравляет их с победой над Лесным Народом.
 
-If asked whether he regrets Ludmilla's defeat, Strahd smiles and claims that "a reminder of her place will be good for her" — although, he notes, she is unlikely to forget her humiliation, even after licking her wounds.
+Если спросить, сожалеет ли он о поражении Людмилы, Страд улыбается и утверждает, что "напоминание о её месте будет полезно для неё" — хотя, отмечает он, она вряд ли забудет своё унижение, даже после зализывания ран.
 
-Strahd thanks the players for playing "his little game," and congratulates them on winning their wager. He welcomes them to the Whispering Wall, and shares that the ancestors of the Forest Folk believed it to be the corpse or tomb of an ancient god, whose last exhalation of divinity produced this mist.
+Страд благодарит игроков за игру в "его маленькую игру" и поздравляет их с выигрышем пари. Он приветствует их у Шепчущей Стены и делится тем, что предки Лесного Народа верили, что это труп или гробница древнего бога, чей последний выдох божественности произвёл этот туман.
 
-Strahd informs the players that these ancestors believed the Wall to offer visions of one's deepest desires, if one entered it as a pilgrim. "It is a powerful thing, to know oneself and one's desires," he says, adding softly. "and yet dangerous, as well." 
+Страд сообщает игрокам, что эти предки верили, что Стена предлагает видения самых глубоких желаний, если войти в неё как паломник. "Это могущественная вещь — знать себя и свои желания," — говорит он, добавляя мягко. "и всё же опасная, тоже."
 
-If asked whether he has stepped into the Wall himself, Strahd nods. If asked what he sees within the Wall, he shares that he sees a "white fortress above a great city, with a church bell ringing through the fog." (This is a vision of Strahd's homeland, though he won't say so to the players.)
+Если спросить, входил ли он сам в Стену, Страд кивает. Если спросить, что он видит внутри Стены, он делится тем, что видит "белую крепость над великим городом, с церковным колоколом, звонящим сквозь туман." (Это видение родины Страда, хотя он не скажет этого игрокам.)
 
-Before giving the players their reward from winning Strahd's wager, Strahd asks them to complete one simple task: They must step into the Wall and view their deepest desires. "I will not ask what you see," Strahd promises. "One's desires are their own."
+Прежде чем дать игрокам их награду за выигрыш пари Страда, Страд просит их выполнить одну простую задачу: Они должны войти в Стену и увидеть свои самые глубокие желания. "Я не буду спрашивать, что вы видите," — обещает Страд. "Желания каждого — его собственные."
 
-Strahd warns them, however, that many have become lost in the Whispering Wall, too entranced by its visions to depart. "It guides you forward, but you must leave under your own power," he says. "Remember: The way back will come but once."
+Страд предупреждает их, однако, что многие заблудились в Шепчущей Стене, слишком очарованные её видениями, чтобы уйти. "Она направляет вас вперёд, но вы должны уйти своими силами," — говорит он. "Помните: Путь назад придёт лишь однажды."
 
-Strahd promises that each player who enters the Wall and returns safely will receive an additional gift: a shard of the power of the Whispering Wall itself. (He won't say more than that.) He wonders aloud, however, whether they will have the strength of will to do so. "Lesser men often lose themselves to its illusions," he says, a taunting glint in his eye. "They trade life for dreams, and receive neither. They are lost to the mist, doomed to remain there for eternity."
+Страд обещает, что каждый игрок, который входит в Стену и безопасно возвращается, получит дополнительный подарок: осколок силы самой Шепчущей Стены. (Он не скажет больше, чем это.) Он вслух задаётся вопросом, однако, будет ли у них сила воли, чтобы сделать это. "Меньшие люди часто теряют себя в её иллюзиях," — говорит он, с дразнящим блеском в глазу. "Они обменивают жизнь на мечты и не получают ни того, ни другого. Они потеряны для тумана, обречены оставаться там на вечность."
 
-If any or all players decline Strahd’s challenge, he frowns, shakes his head, and notes his disappointment in them. Otherwise, a player who enters the Whispering Wall finds themselves within a new location, indistinguishable from reality. The location is a reflection of that player character's deepest desire, sculpted to be as real and alluring as possible. The location is populated by any inhabitants necessary for that character's desire. Both the location and any inhabitants are illusory, but appear solid and real to those who enter.
+Если любой или все игроки отклоняют вызов Страда, он хмурится, качает головой и отмечает своё разочарование в них. В противном случае, игрок, который входит в Шепчущую Стену, оказывается в новом месте, неотличимом от реальности. Место является отражением самого глубокого желания этого игрового персонажа, созданным, чтобы быть как можно более реальным и привлекательным. Место населено любыми обитателями, необходимыми для желания этого персонажа. И место, и любые обитатели иллюзорны, но кажутся твёрдыми и реальными для тех, кто входит.
 
-After a period of time — which may be subjective minutes, hours, or even years after they entered — the player receives a "hook": an invitation, subtle or direct, for that player to remain. A location's hook might be, among other things, the tolling of a familiar church bell, a child asking the player to play with them, or a loved one pleading the player to stay.
+После периода времени — который может быть субъективными минутами, часами или даже годами после того, как они вошли — игрок получает "крючок": приглашение, тонкое или прямое, для этого игрока остаться. Крючок места может быть, среди прочего, звоном знакомого церковного колокола, ребёнком, просящим игрока поиграть с ним, или любимым человеком, умоляющим игрока остаться.
 
-When the hook first manifests, a tall arch formed of fog and swirling mist appears ten feet behind the player, in the direction from whence they came. A faint sound similar to wind chimes echoes from its threshold, and a woman's voice, distant and cold, whispers from behind the player: "_The way back comes but once._" The arch begins to fade one round afterward.
+Когда крючок впервые проявляется, высокая арка, образованная туманом и кружащейся дымкой, появляется в десяти футах позади игрока, в направлении, откуда они пришли. Слабый звук, похожий на ветряные колокольчики, эхом отдаётся от её порога, и женский голос, далёкий и холодный, шепчет из-за спины игрока: "_Путь назад приходит лишь однажды._" Арка начинает исчезать через раунд после этого.
 
-After three rounds, the arch vanishes forever, and the player character is trapped within the Whispering Wall for eternity, with no means of escape. (The character can be freed only if the players restore the memory of the Dreamer in the **Epilogue.**)
+Через три раунда арка исчезает навсегда, и персонаж игрока попадает в ловушку внутри Шепчущей Стены на вечность, без средств побега. (Персонаж может быть освобождён только если игроки восстановят память Спящей в **Эпилоге.**)
 
-> [!abstract]+ **What Ireena Sees**
-> If Muriel is with the players, she declines to enter the Wall alongside them. “I’ll take no gift from von Zarovich," she says quietly. “And I know what I’d see, anyway." (Muriel is referring to Elric.)
+> [!abstract]+ **Что видит Ирина**
+> Если Мюриэль с игроками, она отказывается входить в Стену вместе с ними. "Я не приму никакого подарка от фон Заровича," — тихо говорит она. "И я знаю, что бы я увидела, в любом случае." (Мюриэль имеет в виду Элрика.)
 >
-> If Ireena is with the players, she enters the Wall if at least half of the players do so (rounded down), and remains outside otherwise. If she enters, she sees a dawning sun rising over an open road, which flows through a picturesque landscape toward a gleaming city that stands in the distance. A covered wagon stands upon the road, and a woman’s voice invites her warmly to enter, “because we’ve got a long journey ahead of us." Upon exiting the Wall, Ireena’s cheeks glisten with tears. (She refuses to share the contents of her vision while Strahd is present, but is willing to share them later if asked.)
+> Если Ирина с игроками, она входит в Стену, если по крайней мере половина игроков делает это (округляя вниз), и остаётся снаружи в противном случае. Если она входит, она видит восходящее солнце, поднимающееся над открытой дорогой, которая течёт через живописный пейзаж к сияющему городу, который стоит вдалеке. Крытая повозка стоит на дороге, и женский голос тепло приглашает её войти, "потому что нас ждёт долгое путешествие." По выходе из Стены щёки Ирины блестят от слёз. (Она отказывается делиться содержанием своего видения, пока Страд присутствует, но готова поделиться им позже, если её спросят.)
 
-To an outside observer, a player who leaves the Wall returns no more than one round after they entered it, and in exactly the same condition. When all players have either returned from or been trapped in the Wall, Strahd retrieves a small, luminescent object from a pocket within his cloak and holds it into the air. (The object, which Strahd obtained from the Whispering Wall in exchange for the sacrifice of his **animated armor**, and which he stowed in his cloak at the beginning of the conversation, resembles a spark of light condensed into solid form.)
+Для стороннего наблюдателя, игрок, который покидает Стену, возвращается не более чем через один раунд после того, как они вошли в неё, и в точно таком же состоянии. Когда все игроки либо вернулись, либо попали в ловушку в Стене, Страд извлекает маленький, светящийся объект из кармана внутри своего плаща и держит его в воздухе. (Объект, который Страд получил из Шепчущей Стены в обмен на жертву своих **оживлённых доспехов**, и который он спрятал в своём плаще в начале разговора, напоминает искру света, сконденсированную в твёрдую форму.)
 
-"As promised," Strahd says, "your reward." He touches the spark to the edge of the Whispering Wall, and then draws it back toward him. As he does so, several tendrils of mist extrude from the Wall and condense into small gemstones which hover in the air. The number of gemstones is equal to the number of players in the party, and each gemstone is no larger than a fingernail. Half of the gemstones (rounded up) are gray, and half of the gemstones (rounded down) are silver.
+"Как обещано," — говорит Страд, — "ваша награда." Он касается искрой края Шепчущей Стены, а затем оттягивает её обратно к себе. Когда он это делает, несколько щупалец тумана выступают из Стены и конденсируются в маленькие драгоценные камни, которые парят в воздухе. Количество драгоценных камней равно количеству игроков в группе, и каждый драгоценный камень не больше ногтя. Половина драгоценных камней (округляя вверх) серые, а половина драгоценных камней (округляя вниз) серебряные.
 
-Strahd then presents the gemstones to the players, allowing them to choose which they take. He can share only that a gray gemstone will lead its bearer to an object of their desire, and that a silver gemstones will take their bearer to a place they wish to go. "They are, of course, not the most powerful artifacts," Strahd notes. "The Wall is the product of a _dead_ god, after all."
+Затем Страд представляет драгоценные камни игрокам, позволяя им выбрать, какие они возьмут. Он может поделиться только тем, что серый драгоценный камень приведёт своего носителя к объекту их желания, и что серебряный драгоценный камень перенесёт своего носителя в место, куда они хотят пойти. "Они, конечно, не самые могущественные артефакты," — отмечает Страд. "Стена — продукт _мёртвого_ бога, в конце концов."
 
-A creature can crush a *gray gemstone of desire* as an action to cast _locate object._ A creature can crush a *silver gemstone of desire* as a bonus action to cast *misty step*.
+Существо может раздавить *серый драгоценный камень желания* действием, чтобы наложить _обнаружение объекта_. Существо может раздавить *серебряный драгоценный камень желания* бонусным действием, чтобы наложить *туманный шаг*.
 
-If the players ask about the nature of the spark Strahd holds, he holds it up to the light and remarks, thoughtfully, "A glede — a dragon's eye, it's called in some cultures. A spark of power, made tangible." If the players ask how Strahd obtained it, he offers a small, tight smile and notes only that, "Some things must be earned."
+Если игроки спрашивают о природе искры, которую держит Страд, он поднимает её к свету и задумчиво замечает: "Уголёк — драконий глаз, его называют в некоторых культурах. Искра силы, сделанная осязаемой." Если игроки спрашивают, как Страд получил её, он предлагает маленькую, напряжённую улыбку и отмечает только, что "Некоторые вещи должны быть заработаны."
 
-When the players all either return from the Whispering Wall or decline to do so, Strahd presents them their reward for defeating the Forest Folk: the *twilight crest* (see below). “It is said that the god who died here, though its name is lost to time, left several relics behind. This is one of them."
+Когда все игроки либо возвращаются из Шепчущей Стены, либо отказываются это сделать, Страд представляет им их награду за победу над Лесным Народом: *сумеречный герб* (см. ниже). "Говорят, что бог, который умер здесь, хотя его имя потеряно для времени, оставил после себя несколько реликвий. Это одна из них."
 
-> [!item]+ **Twilight Crest**
-> _Uncommon wondrous item (requires attunement)_
+> [!item]+ **Сумеречный герб** - 9
+> _Редкий Магический Божественный Инвестированный_
 >
-> This small medallion is carved from petrified wood and dotted with tiny gleaming clusters of azurite. From dawn until dusk, the azurite is colored a deep blue. From dusk until dawn, the azure is instead a dark, vivid purple.
+> Этот маленький медальон вырезан из окаменелого дерева и усеян крошечными сверкающими скоплениями азурита. От рассвета до заката азурит окрашен в глубокий синий цвет. От заката до рассвета азурит вместо этого тёмно-фиолетовый.
 >
-> The crest has 3 charges, and regains 1 charge at dawn. 
+> Герб имеет 3 заряда и восстанавливает 1 заряд на рассвете.
 >
-> During the day, the crest's wielder can spend 1 charge as an action to cast *aid*.
+> В течение дня, владелец герба может потратить 1 заряд действием, чтобы наложить *Благословение*.
 >
-> At night, the crest's wielder can spend 1 charge as an action to cast *spirit guardians* (save DC 15). When cast in this way, the guardians take the form of shadowy, ash-like moths, and the spell deals only necrotic damage.
+> Ночью владелец герба может потратить 1 заряд действием, чтобы наложить *Проклятие*. Когда наложено таким образом, эманация принимает форму теневых, пепельных мотыльков.
 >
-> The wielder can spend all 3 charges as an action at any time of day to cast _enervation_ (save DC 15). If they do, the crest doesn’t regain charges for the next three dawns.
+> Владелец может потратить все 3 заряда действием в любое время дня, чтобы наложить _[Шёпоты Пустоты](https://2e.aonprd.com/Spells.aspx?ID=2046)_ (спасбросок Стойкости КС 26). Если они это делают, герб не восстанавливает заряды в течение следующих трёх рассветов.
 
-When all players have either accepted or declined their gifts, Strahd mounts Beucephalus once again, bids them farewell, and notes that he looks forward to seeing them at dinner. He and Beucephalus then vanish into the Ethereal Plane.
-## J6c. Gulthias Tree
-The players should have no reason to visit the grove of the Gulthias Tree at this time. Should they do, this area as described in <span class="citation">Y4. Gulthias Tree (p. 198)</span>. However, replace the last two sentences of the area description with the following text:
+![[Twilight_Crest.png]]
+
+<span class="credit">"Сумеречный герб" от Caleb Cleveland. Поддержите его на <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
+Когда все игроки либо приняли, либо отклонили свои подарки, Страд снова садится на Беуцефала, прощается с ними и отмечает, что с нетерпением ждёт встречи с ними на ужине. Он и Беуцефал затем исчезают в Эфирном плане.
+
+## J6c. Дерево Гультиас
+У игроков не должно быть причин посещать рощу Дерева Гультиас в это время. Если они это сделают, эта область описана в <span class="citation">Y4. Дерево Гультиас (стр. 198)</span>. Однако замените последние два предложения описания области следующим текстом:
 
 <div class="description">
-<p>A circle of craggy, jagged megaliths stands hunkered down among the undergrowth, draped with rotted vines and overgrown by large brambles and dead shrubs. The air here is thick and unseasonably warm, and a sickly, putrid smell chokes the air.</p>
+<p>Круг неровных, зазубренных мегалитов стоит, пригнувшись среди подлеска, задрапированный гнилыми лианами и заросший большими колючками и мёртвыми кустарниками. Воздух здесь густой и не по сезону тёплый, и болезненный, гнилостный запах душит воздух.</p>
 </div>
 
-These megaliths demarcate the boundaries of the Forest Fane: the shrine to the Huntress of the Ladies Three.
+Эти мегалиты обозначают границы Лесного Капища: святилища Охотницы из Трёх Леди.
 
-A large, cavernous hollow at the base of the Gulthias tree conceals a five-foot diameter stone of smooth, black onyx half-buried amidst the tree’s roots. The stone has no visible marks or symbols upon its surface, and is impervious to all damage and attempts to move it.
+Большая, пещерообразная полость у основания Дерева Гультиас скрывает камень диаметром пять футов из гладкого, чёрного оникса, наполовину зарытый среди корней дерева. Камень не имеет видимых отметок или символов на своей поверхности и невосприимчив ко всем повреждениям и попыткам сдвинуть его.
 
-One minute after the players enter the grove, their presence draws the attention of four **needle blights**, which emerge from the undergrowth around the tree. The following round, the needle blights are joined by four additional **needle blights**, four **vine blights**, and four **swarms of twig blights**. If the players remain within the grove, all of the blights attack the following round.
-# J7. Return to the Winery
-## J7a. Kavan’s Tale
-If the players return to Kavan’s cairn bearing Svarog’s wand and summon Kavan by dripping their blood into the basin, Kavan can share the following additional information about the Forest Folk and his own people:
+Через одну минуту после того, как игроки входят в рощу, их присутствие привлекает внимание **орды игольчатых порождений** (похожей на ту, что была на Винодельне), которые появляются из подлеска вокруг дерева. В следующем раунде к игольчатым порождениям присоединяются два **Древесных Стража**. А на третьем раунде к ним присоединяются две **стаи мандрагор**. Если игроки остаются в роще, все порождения атакуют в следующем раунде.
 
-* Long ago, Kavan was a chieftain among the First Folk, whose people arrived in the valley long before Kavan’s own birth.
-* The First Folk worshipped a trio of goddesses known as the Rozana, or the Ladies Three: the Seeker, the Weaver, and the Huntress. The druids of the First Folk paid homage to the Ladies at their holy sites—three fanes that dwelled within the valley, known as the Mountain Fane, the Forest Fane, and the Swamp Fane. Each Fane held a gemstone imbued with the power of the Weaver, which was said to give life and vitality to the wilderness around it. "This wand," Kavan notes somberly, "was once wielded by those who connected our people to the Rozana."
+# J7. Возвращение в винодельню
+## J7a. История Кавана
+Если игроки возвращаются к каирну Кавана, неся жезл Сварога, и вызывают Кавана, капая своей кровью в чашу, Каван может поделиться следующей дополнительной информацией о Лесном Народе и своём собственном народе:
 
-Before proceeding further, Kavan asks the players whether they have ever betrayed anyone close to them or whether their pride wounded someone they loved. (A player must make a DC 16 Charisma (Deception) check in order to successfully lie to Kavan.) 
+* Давным-давно Каван был вождём среди Первого Народа, чьи люди прибыли в долину задолго до рождения самого Кавана.
+* Первый Народ поклонялся трио богинь, известных как Вердани, или Три Леди: Искательница, Ткачиха и Охотница. Друиды Первого Народа отдавали дань уважения Леди в их святых местах — трёх капищах, которые находились в долине, известных как Горное Капище, Лесное Капище и Болотное Капище. Каждое Капище содержало драгоценный камень, наполненный силой Ткачихи, который, как говорили, давал жизнь и жизненную силу дикой природе вокруг него. "Этот жезл," — мрачно отмечает Каван, — "когда-то был в руках тех, кто соединял наш народ с Вердани."
 
-Whether the players have betrayed or wounded anyone or not, once he is satisfied that the players understand the weight of the crimes of betrayal and hubris, Kavan proceeds:
+Прежде чем продолжить, Каван спрашивает игроков, предавали ли они когда-либо кого-то близкого им или ранила ли их гордость кого-то, кого они любили. (Игрок должен сделать @Check[type:deception|dc:22], чтобы успешно солгать Кавану.)
 
-* Nearly one thousand years ago, Kavan came to power as chieftain of his tribe. Arrogant and proud, he defied his people’s strictures and ventured forth into the Whispering Wall, a wall of thick fog said to hold the corpse of the Devourer—an ancient monster that the Ladies killed long before.
-* While within the Wall, Kavan learned terrible secrets—including the means by which he could steal the Huntress’s sacred spear from the Forest Fane and claim its power for his own. Upon doing so, he waged war on the other tribes, reuniting them beneath his own banner. 
-* The servants of the Seeker, a clan of **wereravens**, hid away the life-giving gems that blessed the Fanes to conceal them from his ambitions, and vanished into the wilderness. (Upon saying this, Kavan gives Muriel a long, meaningful look, though he cannot confirm whether she is spiritually descended from one of the original wereravens that served the Seeker.)
-* The druids of the First Folk condemned Kavan for his hubris, and retreated to the village of Soldav in the Balinok Mountains, their people’s most sacred site and the center of their faith. They named Kavan “enemy," and banished him from Soldav for his crimes. When he died, instead of burying him in a place of honor upon Yester Hill with the great chieftains of the past, the druids buried him here, in a lonely cairn far from the graves of his forefathers. Kavan has been haunted by his isolation from his people as a result ever since his death.
+Независимо от того, предавали ли игроки кого-то или нет, как только он удовлетворён тем, что игроки понимают вес преступлений предательства и высокомерия, Каван продолжает:
 
-Before proceeding further, Kavan asks the players a question: What do they hold sacred, and why? Upon hearing their answers, Kavan challenges them with an additional question: If they were forced to choose whether to betray everything they hold sacred in exchange for a promise of safety and comfort, how would they decide? 
+* Почти тысячу лет назад Каван пришёл к власти как вождь своего племени. Высокомерный и гордый, он бросил вызов ограничениям своего народа и отправился в Шепчущую Стену, стену густого тумана, которая, как говорили, содержит труп Пожирателя — древнего монстра, которого Леди убили задолго до этого.
+* Находясь внутри Стены, Каван узнал ужасные секреты — включая средства, с помощью которых он мог украсть священное копьё Охотницы из Лесного Капища и присвоить его силу себе. Сделав это, он вёл войну против других племён, воссоединяя их под своим собственным знаменем.
+* Слуги Искательницы, клан **оборотней-воронов**, спрятали дающие жизнь драгоценные камни, которые благословляли Капища, чтобы скрыть их от его амбиций, и исчезли в дикой природе. (Говоря это, Каван бросает долгий, многозначительный взгляд на Мюриэль, хотя он не может подтвердить, является ли она духовно потомком одного из оригинальных оборотней-воронов, которые служили Искательнице.)
+* Друиды Первого Народа осудили Кавана за его высокомерие и отступили в деревню Солдав в Балинокских горах, самое священное место их народа и центр их веры. Они назвали Кавана "врагом" и изгнали его из Солдава за его преступления. Когда он умер, вместо того, чтобы похоронить его в почётном месте на Холме Былого вместе с великими вождями прошлого, друиды похоронили его здесь, в одиноком каирне вдали от могил его предков. Каван был преследуем своей изоляцией от своего народа в результате с момента своей смерти.
 
-If he is satisfied that any of the players would choose sanctity over comfort, Kavan first dismisses any who would choose comfort over sanctity, and then proceeds:
+Прежде чем продолжить, Каван задаёт игрокам вопрос: Что они считают священным, и почему? Услышав их ответы, Каван бросает им дополнительный вопрос: Если бы они были вынуждены выбирать, предать ли всё, что они считают священным, в обмен на обещание безопасности и комфорта, как бы они решили?
 
-* In Kavan’s ailing years, a tyrant named King Dostron the Hellborn invaded the valley with his army, scattering the First Folk and destroying their homes. He dammed up the Luna River to make farmland, and shattered the First Folks’ faith in the Ladies Three. When Dostron died, his armies withdrew and abandoned his fortress, but the First Folk remained apart and weak.
-* When Strahd invaded the valley hundreds of years later, many members of the druidic caste—still angered by Kavan’s betrayal and Dostron’s oppression—sought out his protection. A great schism split the First Folk, with those who opposed Strahd retreating to Soldav and those who favored Strahd remaining within the Svalich Wood. Today, Barovians know them as the Mountain Folk and the Forest Folk.
-* The land of Barovia, which the First Folk once called “Cerunnos"—meaning “fertile land"—has been corrupted by Strahd’s will and magic. Kavan doesn’t understand the nature of Strahd’s corruption, but he knows that Strahd draws power from the land, and that this profane connection causes great suffering to the creatures and landscape of the valley. To learn how to cleanse Strahd’s corruption, the players must travel to Soldav to seek the guidance of an elder of the faith of the Rozana among the Mountain Folk. (Only an elder of the faith of the Rozana can conjure and maintain the mist that shields Soldav from outsiders.)
-* Soldav is hidden somewhere in the Balinok Mountains, protected by a shroud of enchanted mist. So long as the mist remains, Soldav’s enemies can never find it, nor can they remember where it lies. Kavan remembers only the landmark that marks its entrance: a place in the mountains where two waterfalls run together. "Without a token of the Ladies, however," he warns, "you will never find the entrance, nor will Soldav's elders grant you entry."
+Если он удовлетворён тем, что любой из игроков выбрал бы святость над комфортом, Каван сначала отпускает тех, кто выбрал бы комфорт над святостью, а затем продолжает:
 
-If the players ask why Kavan withheld this information during their initial meeting, he truthfully tells them that he sought to avoid revealing Soldav’s existence to Strahd’s servants or spies. “I betrayed my people once by choice," he rumbles. “I will not betray them a second time through foolish indiscretion."
+* В стареющие годы Кавана тиран по имени Король Дострон Адский вторгся в долину со своей армией, рассеяв Первый Народ и разрушив их дома. Он перекрыл реку Луна, чтобы создать пахотные земли, и разрушил веру Первого Народа в Трёх Леди. Когда Дострон умер, его армии отступили и покинули его крепость, но Первый Народ остался разделённым и слабым.
+* Когда Страд вторгся в долину сотни лет спустя, многие члены друидической касты — всё ещё разгневанные предательством Кавана и угнетением Дострона — искали его защиты. Великий раскол разделил Первый Народ, с теми, кто противостоял Страду, отступившими в Солдав, и теми, кто благоволил Страду, оставшимися в Сваличском лесу. Сегодня баровийцы знают их как Горный Народ и Лесной Народ.
+* Земля Баровии, которую Первый Народ когда-то называл "Гирвиса" — что означает "плодородная земля" — была испорчена волей и магией Страда. Каван не понимает природу порчи Страда, но он знает, что Страд черпает силу из земли, и что эта нечестивая связь вызывает большие страдания у существ и ландшафта долины. Чтобы узнать, как очистить порчу Страда, игроки должны отправиться в Солдав, чтобы искать руководства старейшины веры Вердани среди Горного Народа. (Только старейшина веры Вердани может вызвать и поддерживать туман, который защищает Солдав от посторонних.)
+* Солдав скрыт где-то в Балинокских горах, защищённый покровом зачарованного тумана. Пока туман остаётся, враги Солдава никогда не найдут его, ни не вспомнят, где он лежит. Каван помнит только ориентир, который отмечает его вход: место в горах, где два водопада сливаются вместе. "Однако без знака Леди," — предупреждает он, — "вы никогда не найдёте вход, ни старейшины Солдава не дадут вам входа."
 
-As the conversation comes to a close, Kavan informs the players that, while he cannot give it to them directly, he can tell them where to find the spear that he stole from the Forest Fane of the Huntress, whose return may convince the people of Soldav to grant them entry. “The spear's power waned when I took it, and it has no doubt grown ever-weaker since," he says. "But, should it serve your purposes, you can find it in the tomb of King Dostron, who claimed it from my tent when my chiefdom crumbled in the wake of his armies." 
+Если игроки спрашивают, почему Каван скрыл эту информацию во время их первой встречи, он правдиво говорит им, что стремился избежать раскрытия существования Солдава слугам или шпионам Страда. "Я предал свой народ однажды по выбору," — громыхает он. "Я не предам их второй раз через глупую нескромность."
 
-Kavan can inform the players that the tomb of King Dostron was hewn from the stone beneath Dostron’s fortress, which Dostron built in the eastern mountains—upon what is now called the Pillarstone of Ravenloft. Should they find it, Kavan asks that they take it to the shrine of the Ladies Three in Soldav, to reconsecrate it in the sacred spring there and redeem his past mistakes.
+Когда разговор подходит к концу, Каван сообщает игрокам, что, хотя он не может дать его им напрямую, он может сказать им, где найти копьё, которое он украл из Лесного Капища Охотницы, возвращение которого может убедить народ Солдава предоставить им вход. "Сила копья ослабла, когда я взял его, и оно, без сомнения, стало ещё слабее с тех пор," — говорит он. "Но, если оно послужит вашим целям, вы можете найти его в гробнице Короля Дострона, который забрал его из моей палатки, когда моё вождество рухнуло вслед за его армиями."
 
-When the players depart, Kavan bids them farewell, offering: “Go with the blessings of the Ladies Three, if they still listen."
-## J7b. Returning the Gem
-If the players return the gem to Davian Martikov at the Wizard of Wines, he is deeply grateful, and warms to them considerably compared to his prior prickly demeanor. (He is, of course, still a grumpy old man at heart.)
+Каван может сообщить игрокам, что гробница Короля Дострона была высечена из камня под крепостью Дострона, которую Дострон построил в восточных горах — на том, что сейчас называется Столпом Равенлофта. Если они найдут его, Каван просит, чтобы они отнесли его к святилищу Трёх Леди в Солдаве, чтобы заново освятить его в священном источнике там и искупить его прошлые ошибки.
 
-If asked, Davian now willingly shares the following information:
+Когда игроки уходят, Каван прощается с ними, предлагая: "Идите с благословениями Трёх Леди, если они всё ещё слушают."
 
-* He is the leader of the Keepers of the Feather, a secret society of **wereravens** dedicated to aiding those who oppose Strahd von Zarovich and his servants. (Davian admits that he himself is a **wereraven**, as are all of his children and grandchildren.)
-* Despite the abilities bestowed by their curse, the Keepers are spies, not warriors. Many among them are untrained at combat, and fear the dark magic that Strahd wields.
-* The Keepers were first founded by Livius Martikov, Davian’s grandfather and a little-known accomplice of the paladin Lugdana, who rooted out nests of **vampire spawn** across the valley using the *Holy Symbol of Ravenkind* one hundred years ago.
-* As a younger man, Livius helped Lugdana and Burgomaster Ismark Antonovich steal the *Holy Symbol of Ravenkind*—then called the *Sigil of the Sun*—from Castle Ravenloft shortly after Strahd began his hibernation. (Livius stole it, as well as the *Tome of Strahd*, from the depths of the catacombs while Ismark and Lugdana distracted Strahd’s servants and children.)
-* It was Ismark the Great who proposed renaming the *Sigil* to be the *Holy Symbol of Ravenkind* in order to inspire the Barovian people and conceal its origins, crafting a tale in which an angel in the shape of a raven delivered the relic to Lugdana directly. (Livius always found the tale incredibly amusing.) Lugdana would continue to wield the *Holy Symbol* until her death fighting the Green God Chernovog, a greater demon conjured by the mad witch Baba Zelenna, atop Yester Hill. The *Holy Symbol* was thought lost when Lugdana fell—seemingly for good.
+## J7b. Возвращение драгоценного камня
+Если игроки возвращают драгоценный камень Давиану Мартикову в Винном Волшебнике, он глубоко благодарен и значительно теплеет к ним по сравнению с его прежним колючим поведением. (Он, конечно, всё ещё ворчливый старик в душе.)
 
-Davian flatly refuses to infect any of the players with **wereraven** lycanthropy, noting with scorn that they would require months of training to master the ability. He refuses to speak further of the matter.
+Если спросить, Давиан теперь охотно делится следующей информацией:
 
-In gratitude for the players’ efforts in recovering the gem from Yester Hill, Davian provides them with an obsidian whistle shaped like a raven. (Davian can share that it is one of several such whistles passed down through his family across the generations.)
+* Он является лидером Хранителей Пера, тайного общества **оборотней-воронов**, посвящённого помощи тем, кто противостоит Страду фон Заровичу и его слугам. (Давиан признаёт, что он сам является **оборотнем-вороном**, как и все его дети и внуки.)
+* Несмотря на способности, дарованные их проклятием, Хранители — шпионы, а не воины. Многие среди них не обучены бою и боятся тёмной магии, которой владеет Страд.
+* Хранители были впервые основаны Ливиусом Мартиковым, дедом Давиана и малоизвестным сообщником паладина Лугданы, которая выкорчёвывала гнёзда **порождений вампира** по всей долине, используя *Святой символ Равенкинда* сто лет назад.
+* Будучи более молодым человеком, Ливиус помог Лугдане и Бургомистру Исмарку Антоновичу украсть *Святой символ Равенкинда* — тогда называемый *Знаком Солнца* — из Замка Равенлофт вскоре после того, как Страд начал свою спячку. (Ливиус украл его, а также *Том Страда*, из глубин катакомб, пока Исмарк и Лугдана отвлекали слуг и детей Страда.)
+* Именно Исмарк Великий предложил переименовать *Знак* в *Святой символ Равенкинда*, чтобы вдохновить баровийский народ и скрыть его происхождение, создав сказку, в которой ангел в форме ворона доставил реликвию непосредственно Лугдане. (Ливиус всегда находил эту сказку невероятно забавной.) Лугдана продолжала владеть *Святым символом* до своей смерти, сражаясь с Зелёным Богом Черновогом, большим демоном, вызванным безумной ведьмой Бабой Зеленной, на вершине Холма Былого. *Святой символ* считался потерянным, когда Лугдана пала — казалось, навсегда.
 
-Davian also informs the players that Muriel, a key field operative with the Keepers of the Feather, recently overheard a troubling prophecy involving Strahd. Muriel can inform the players that the prophecy took the form of a Tarokka reading delivered by Madam Eva to Strahd on the day the players rescued Muriel from the **greater strix**.
+Давиан категорически отказывается заразить кого-либо из игроков ликантропией **оборотня-ворона**, отмечая с презрением, что им потребовались бы месяцы обучения, чтобы овладеть способностью. Он отказывается говорить дальше по этому вопросу.
 
-Although Muriel was chased away before she could hear the end of the reading, she can share that the first part unfolded as follows:
+В благодарность за усилия игроков по восстановлению драгоценного камня с Холма Былого, Давиан предоставляет им обсидиановый свисток в форме ворона. (Давиан может поделиться, что это один из нескольких таких свистков, передаваемых через его семью на протяжении поколений.)
+
+Давиан также сообщает игрокам, что Мюриэль, ключевой полевой оперативник Хранителей Пера, недавно подслушала тревожное пророчество, связанное со Страдом. Мюриэль может сообщить игрокам, что пророчество приняло форму чтения Таро, доставленного Мадам Евой Страду в день, когда игроки спасли Мюриэль от **высшей стриги**.
+
+Хотя Мюриэль была прогнана прежде, чем она могла услышать конец чтения, она может поделиться, что первая часть разворачивалась следующим образом:
 
 <div class="description">
-<p>"The Darklord—the master of shadows, the beast in the labyrinth that tears at his chains.</p>
-<p>"The Six of Stars, the Evoker—the power you covet, a force untamed by mortal hands, raw and wild with burning fury.</p>
-<p>"The Artifact—the token you seek, the key to power. Divinity’s heart waits, but where?</p>
-<p>"The Innocent. I see a maid of raven hair and twilit eyes. She is one way to the token.</p>
-<p>"But there is another—the Broken One. The path of sacrifice opens another door. The wall that whispers awaits your tribute."</p>
+<p>"Тёмный Лорд — хозяин теней, зверь в лабиринте, который рвёт свои цепи.</p>
+<p>"Шестёрка Звёзд, Эвокер — сила, которую ты жаждешь, сила, неукрощённая смертными руками, сырая и дикая с горящей яростью.</p>
+<p>"Артефакт — знак, который ты ищешь, ключ к силе. Сердце божества ждёт, но где?</p>
+<p>"Невинная. Я вижу деву с вороньими волосами и сумеречными глазами. Она — один путь к знаку.</p>
+<p>"Но есть и другой — Сломленный. Путь жертвы открывает другую дверь. Стена, которая шепчет, ждёт твоей дани."</p>
 </div>
 
-***Milestone.*** Defeating the druids of Yester Hill completes a story milestone. When the players return the stolen gem to Davian Martikov, award each player 2,500 XP.
+***Веха.*** Победа над друидами Холма Былого завершает сюжетную веху. Когда игроки возвращают украденный драгоценный камень Давиану Мартикову, наградите каждого игрока 500 опыта. Таким образом, они должны получить 7-й уровень.
 
-> [!item]+ **Keeper's Whistle**
-> The whistle is a magic item tied to the curse of wereraven lycanthropy. Once per day, the players can blow the whistle to summon the nearest **wereraven** agent of the Keepers of the Feather within five miles (if any). (The agent takes a reasonable amount of time to arrive, flying from its current location to the location where the players blew the whistle.)
+> [!item]+ **Свисток Хранителя**
+> Свисток — это магический предмет, связанный с проклятием ликантропии оборотня-ворона. Раз в день игроки могут подуть в свисток, чтобы призвать ближайшего **оборотня-ворона**, агента Хранителей Пера в пределах пяти миль (если таковой имеется). (Агент тратит разумное количество времени, чтобы прибыть, летя из своего текущего местоположения к месту, где игроки подули в свисток.)
 >
-> When the agent arrives (in **raven** form), the players can ask that the agent do one of the following tasks, within reason:
+> Когда агент прибывает (в форме **ворона**), игроки могут попросить, чтобы агент выполнил одну из следующих задач, в разумных пределах:
 >
->* **Scout** out a nearby environment, providing information on enemy numbers, traps, or layout. (The agent won’t get too close if the area is potentially dangerous, preferring to survey it from a distance.)
->* **Deliver** an item or message (either oral or written) to another creature in Barovia, assuming the agent knows of or can find that creature.
->* **Obtain** a small, light item from a nearby location or settlement, so long as it can be easily found, purchased, or otherwise retrieved.
->* **Distract** one or more nearby enemies (e.g., by using its ***mimicry*** ability). (The agent won’t put itself at risk of being grappled, and is wary of approaching any ranged combatants unless reassured that they wield neither silver weapons nor magic spells.)
->* **Spy** on a location or character, tailing them discreetly and reporting back on their activities and associations after a predetermined period of time. (The agent won’t enter any structures while doing so.)
+>* **Разведать** ближайшую среду, предоставляя информацию о количестве врагов, ловушках или планировке. (Агент не подойдёт слишком близко, если область потенциально опасна, предпочитая осматривать её издалека.)
+>* **Доставить** предмет или сообщение (устное или письменное) другому существу в Баровии, предполагая, что агент знает об этом существе или может найти его.
+>* **Получить** маленький, лёгкий предмет из близлежащего места или поселения, если он может быть легко найден, куплен или иным образом получен.
+>* **Отвлечь** одного или нескольких близлежащих врагов (например, используя свою способность ***подражания***). (Агент не подвергнет себя риску быть схваченным и осторожен в приближении к любым дальнобойным бойцам, если его не заверят, что они не владеют ни серебряным оружием, ни магическими заклинаниями.)
+>* **Шпионить** за местом или персонажем, следя за ними незаметно и сообщая об их деятельности и связях после заранее определённого периода времени. (Агент не будет входить в какие-либо структуры при этом.)
 >
->The agent departs after completing the requested task.
+>Агент уходит после выполнения запрошенной задачи.
 
-> [!abstract]+ **The Wine Shipments**
-> With the winery saved and the gem recovered, Davian sets Adrian and Elvir to preparing the winery's remaining wine for shipment. The following morning, the two brothers load an additional three barrels onto the (freshly repaired) cart in <span class="citation">W2. Loading Dock (p. 176)</span> and set off, delivering three barrels first to Krezk then an additional three barrels to the Blue Water Inn in Vallaki.
->
-> Should the players mention an interest in traveling to Krezk, Adrian asks them to accompany the wagon, noting, "Krezk can be unwelcoming to strangers, but with a good word from us and a shipment of wine, they'll be sure to welcome you with open arms."
->
-> While visiting Krezk, the brothers mention the players' names and descriptions to Burgomaster Dmitri Krezkov. The players are welcome guests in Krezk should they visit the village thereafter. See [[Арка K - Падшее аббатство]] for more information about the players' adventures in Krezk.
+![[Keepers_Whistle.png]]
 
-> [!abstract]+ **News from Barovia**
-> If the players use the *Keeper's whistle* to seek news from the village of Barovia, they can receive the following information:
+<span class="credit">"Свисток Хранителя" от Caleb Cleveland. Поддержите его на <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
+> [!abstract]+ **Поставки вина**
+> С спасённой винодельней и восстановленным драгоценным камнем, Давиан поручает Адриану и Эльвиру подготовить оставшееся вино винодельни для отправки. На следующее утро два брата загружают дополнительные три бочки на (свежеотремонтированную) телегу в <span class="citation">W2. Погрузочная площадка (стр. 176)</span> и отправляются, доставляя сначала три бочки в Крезк, затем дополнительные три бочки в таверну "Синяя Вода" в Валлаки.
 >
-> * The village is still recovering from Strahd's siege. If Bildrath lived, he has become something of a magnet for malcontents. More and more, however, the people of the village have been looking to Ismark, and—if Doru passed his trial successfully—Father Donavich for leadership.
-> * If Doru passed his trial, he is being reintroduced into the village and has deeply apologized to the families that lost loved ones as a consequence of his failed rebellion. Not all have accepted his apologies, and many are wary of his vampirism, but he appears to have mastered his bloodlust and is overcome with remorse.
-> * The departure of the refugees and casualties of the siege have left the town hollowed out, with many businesses no longer in existence and those that survived struggling to make do with far fewer customers. Overall, the process of rebuilding has been a difficult one, but many families whose houses were damaged or destroyed have been able to relocate into the surplus homes still standing.
+> Если игроки упомянут интерес к путешествию в Крезк, Адриан просит их сопровождать повозку, отмечая: "Крезк может быть негостеприимным к незнакомцам, но с добрым словом от нас и поставкой вина они наверняка встретят вас с распростёртыми объятиями."
+>
+> Во время посещения Крезка братья упоминают имена и описания игроков Бургомистру Дмитрию Крезкову. Игроки являются желанными гостями в Крезке, если они посетят деревню после этого. См. [[Arc K - The Fallen Abbey]] для получения дополнительной информации о приключениях игроков в Крезке.
+
+> [!abstract]+ **Новости из Баровии**
+> Если игроки используют *Свисток Хранителя*, чтобы узнать новости из деревни Баровия, они могут получить следующую информацию:
+>
+> * Деревня всё ещё восстанавливается после осады Страда. Если Бильдрат выжил, он стал своего рода магнитом для недовольных. Всё больше и больше, однако, люди деревни стали смотреть на Исмарка, и — если Дору успешно прошёл своё испытание — Отца Донавича для руководства.
+> * Если Дору прошёл своё испытание, он снова вводится в деревню и глубоко извинился перед семьями, которые потеряли близких в результате его неудавшегося восстания. Не все приняли его извинения, и многие с опаской относятся к его вампиризму, но он, кажется, овладел своей жаждой крови и переполнен раскаянием.
+> * Отъезд беженцев и жертв осады оставил город опустошённым, многие предприятия больше не существуют, а те, что выжили, борются, чтобы справиться с гораздо меньшим количеством клиентов. В целом, процесс восстановления был трудным, но многие семьи, чьи дома были повреждены или разрушены, смогли переехать в избыточные дома, всё ещё стоящие.
