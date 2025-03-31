@@ -107,12 +107,12 @@ You can [[Using This Guide|click here]] to learn how to use and read this guide.
 [[Arc H - The Lost Soul]]. The players help the children of two feuding noble houses stage a daring ghostly rescue.
 [[Arc I - The Walls of Krezk]]. The players journey to the ruins of Berez to earn passage to the village of Krezk.
 ## Act III - The Broken Land
-[[Act III Summary]]. A summary of the players' adventures across the broader Barovian valley.
+[[Акт III - Краткое содержание]]. A summary of the players' adventures across the broader Barovian valley.
 [[Арка J - Украденный самоцвет]]. The players fend off a druidic tribe causing trouble for the Wizard of Wines winery.
 [[Arc K - The Fallen Abbey]]. The players recruit a new ally and restore the Abbot's tainted divinity.
-[[Arc L - The Den of Wolves]]. The players stake out and infiltrate a den of werewolves.
+[[Арка L - Волчье логово]]. The players stake out and infiltrate a den of werewolves.
 [[Arc M - The Dragon's Manor]]. The players investigate a haunted manor and unearth the message of the silver dragon Argynvost.
-[[Arc N - Tales of Vallaki]]. Coming soon.
+[[Арка N - Истории Валлаки]]. Coming soon.
 [[Arc O - Dinner with the Devil]]. The players dine with Strahd and his court at Castle Ravenloft.
 [[Arc P - Ravenloft Heist]]. The players raid Castle Ravenloft while Strahd is away.
 [[Arc Q - A Shining Beacon]]. The players redeem the Abbot, defeat the werewolf Kiril Stoyanovich, and light the beacon of Argynvostholt.

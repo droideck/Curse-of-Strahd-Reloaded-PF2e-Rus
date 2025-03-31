@@ -34,7 +34,7 @@
 * Added a fail-forward plotline for players defeated by Baba Lysaga in [[Арка I - Стены Крезка]]
 * Clarified that *spirit guardians* damages the roots in [[Арка J - Украденный самоцвет]]
 * Clarified how Ezmerelda responds upon learning that the players stole from her wagon in [[Арка K - Падшее аббатство]]
-* Reworked [[Arc L - The Den of Wolves]] to remove Kiril's return and add additional evil werewolves loyal to Kiril
+* Reworked [[Арка L - Волчье логово]] to remove Kiril's return and add additional evil werewolves loyal to Kiril
 * Made Vladimir Horngaard's flame attacks deal fire damage instead of cold damage in [[Арка M - Поместье Дракона]]
 * Added additional locations to encounter Rahadin in [[Arc P - Ravenloft Heist]]
 * Clarified what *detect magic* and *identify* reveal about amber shards in [[Amber Shards]]
@@ -47,7 +47,7 @@
 * Removed Rahadin's phase-one _misty step_ bonus action, decreased his _misty step_ reaction to once per round, and expanded his phase-two _amulet of Ravenloft_ reaction to trigger upon reaching 50 hit points or fewer in [[Arc P - Ravenloft Heist]]
 * Changed Vladimir's oathbind to only apply to Strahd in [[Арка M - Поместье Дракона]]
 # Version 2.0.8.7 (August 2, 2024)
-* Removed reference to outdated version of Arc N in [[Act III Summary]]
+* Removed reference to outdated version of Arc N in [[Акт III - Краткое содержание]]
 # Version 2.0.8.6 (July 28, 2024)
 * Increased dungeon hall trapdoor recharge time to 24 hours in [[Arc P - Ravenloft Heist]]
 # Version 2.0.8.5 (July 25, 2024)
@@ -81,12 +81,12 @@
 * Added information regarding the players' failure to return a heartstone in [[Акт II - Город в Тенях/Арка H - Потерянная душа]]
 * Removed references to the Fane leeches and the dagger of Leo Dilisnya in [[Акт II - Город в Тенях/Арка H - Потерянная душа]], [[Арка I - Стены Крезка]] and [[Арка J - Украденный самоцвет]].
 * Added information regarding other areas of Berez in [[Арка I - Стены Крезка]]
-* Redistributed milestone XP in [[Act III Summary]]
+* Redistributed milestone XP in [[Акт III - Краткое содержание]]
 * Added additional reason for the players to return to Kavan's cairn in [[Арка J - Украденный самоцвет]]
 * Added NPC profiles for Otto and Zygfrek Belview in [[Арка K - Падшее аббатство]]
-* Added additional details regarding potential attempts to escape the *silverthorn collars* in [[Arc L - The Den of Wolves]]
-* Added additional information regarding Zuleika's ability to lift the Oath of the New Moon in [[Arc L - The Den of Wolves]]
-* Added additional information regarding a potential confrontation with Bianca at Lake Baratok in [[Arc L - The Den of Wolves]]
+* Added additional details regarding potential attempts to escape the *silverthorn collars* in [[Арка L - Волчье логово]]
+* Added additional information regarding Zuleika's ability to lift the Oath of the New Moon in [[Арка L - Волчье логово]]
+* Added additional information regarding a potential confrontation with Bianca at Lake Baratok in [[Арка L - Волчье логово]]
 * Noted that Argynvost's bones, other than his skull, were burned in [[Арка M - Поместье Дракона]]
 * Changed Anton to be Dezdrelda's husband, rather than her brother, in [[Arc O - Dinner with the Devil]]
 * Fixed an unsolvable sliding puzzle layout in [[Arc O - Dinner with the Devil]]
@@ -116,7 +116,7 @@
 * Clarified Ismark the Great's statblock in [[Arc O - Dinner with the Devil]]
 * Clarified spell slot and other resource mechanics in the Nightmare in [[Arc O - Dinner with the Devil]]
 * Modified Zorya's breath weapon to deal full damage to ghosts in [[Арка M - Поместье Дракона]]
-* Expanded the triggers that cause a *silverthorn collar* to deal damage in [[Arc L - The Den of Wolves]]
+* Expanded the triggers that cause a *silverthorn collar* to deal damage in [[Арка L - Волчье логово]]
 * Fixed assorted typos and inconsistencies
 # Version 2.0.7 (Apr. 12, 2024)
 **General Changes**
@@ -144,7 +144,7 @@
 [[Ведение приключения]]
 * Removed the Wachter **cultist** from the list of Strahd's spies
 
-[[Act I Summary]], [[Акт II - Краткое содержание]], [[Act III Summary]]
+[[Act I Summary]], [[Акт II - Краткое содержание]], [[Акт III - Краткое содержание]]
 * Added specific dates and timelines
 
 [[Арка A - Побег из Дома Смерти]]
@@ -237,7 +237,7 @@
 * Pushed Ezmerelda's return forward one day
 * Added reward for **Clovin's Treasure** quest
 
-[[Arc L - The Den of Wolves]]
+[[Арка L - Волчье логово]]
 * Relettered arc to compensate for removal of [[Arc D - The Tome of Strahd]]
 * Added reassurances for players leaving Ilya behind pending completion of [[Arc P - Ravenloft Heist]]
 * Added additional warnings for parties that attempt to ambush Kiril before rescuing Emil
@@ -264,18 +264,18 @@
 * Locked Ezmerelda's wagon and reworked the trap protecting her wagon in [[Арка E - Пропавшая вистана]]
 * Revised Ezmerelda's statistics in [[Арка K - Падшее аббатство]]
 * Modified the Abbot's wrath in [[Арка K - Падшее аббатство]] to punish the flesh golem while Vasilka watches, rather than punishing Vasilka
-* Added level markers for [[Арка J - Украденный самоцвет]], [[Арка K - Падшее аббатство]], [[Arc L - The Den of Wolves]], and [[Арка M - Поместье Дракона]].
+* Added level markers for [[Арка J - Украденный самоцвет]], [[Арка K - Падшее аббатство]], [[Арка L - Волчье логово]], and [[Арка M - Поместье Дракона]].
 * Added footnotes referencing intentional homages/inspirations in [[Арка J - Украденный самоцвет]] (Ludmilla's speech to Muriel) and [[Арка M - Поместье Дракона]] (Brother Marek's speech to the players).
 # Hotfix 2.0.6.2 (Feb. 1, 2024)
-* Updated table of contents to include [[Arc L - The Den of Wolves]] and [[Арка M - Поместье Дракона]].
+* Updated table of contents to include [[Арка L - Волчье логово]] and [[Арка M - Поместье Дракона]].
 * Added Muriel's relaying of Strahd's Tarokka reading from [[Арка C - В Долину]] at the end of [[Арка J - Украденный самоцвет]]
 # Hotfix 2.0.6.1 (Jan. 31, 2024)
-* Delayed Ezmerelda's request to investigate the werewolf den in [[Arc L - The Den of Wolves]] to one day after she first meets the players in [[Арка K - Падшее аббатство]]
+* Delayed Ezmerelda's request to investigate the werewolf den in [[Арка L - Волчье логово]] to one day after she first meets the players in [[Арка K - Падшее аббатство]]
 * Corrected the travel time from the Old Svalich Road to Argynvostholt in [[Арка M - Поместье Дракона]]
 * Pushed the date of the dinner with Strahd one day forward in [[Arc O - Dinner with the Devil]]
 * Fixed assorted typos
 # Version 2.0.6 (Jan. 31, 2024)
-* Added [[Arc L - The Den of Wolves]] and [[Арка M - Поместье Дракона]]
+* Added [[Арка L - Волчье логово]] and [[Арка M - Поместье Дракона]]
 * Added Campaign Contract in [[Нулевая сессия]]
 * Added information regarding the Devourer and Strahd's intentions for Ireena to [[История Баровии]]
 * Modified Izek's history such that he obtained the *amber shard* immediately prior to the **dire wolf** attack that took his arm in [[История Баровии]]

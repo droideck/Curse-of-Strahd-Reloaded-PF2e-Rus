@@ -186,7 +186,7 @@ _Приключение для четырёх персонажей 6-го уро
 <p>Вы слышите треск ветки в подлеске к югу.</p>
 </div>
 
-Если игроки исследуют это, они могут сделать проверку Восприятия @Check[perception|dc:22|traits:secret] чтобы различить человеческий силуэт среди деревьев вдалеке. Если игроки приближаются, окликают или иным образом пытаются взаимодействовать с силуэтом, прочтите:
+Если игроки исследуют это, они могут сделать проверку Восприятия @Check[type:perception|dc:22|traits:secret] чтобы различить человеческий силуэт среди деревьев вдалеке. Если игроки приближаются, окликают или иным образом пытаются взаимодействовать с силуэтом, прочтите:
 
 <div class="description">
 <p>Вы вспугиваете широкоплечую женщину, одетую в толстые, забрызганные грязью меха и сжимающую каменный топор. Обсидиановые украшения свисают с её ушей и шеи, а тонкий слой серой грязи размазан по её лицу, сливаясь с тёмными деревьями вокруг.</p>
@@ -273,7 +273,7 @@ DC 26 Thievery (expert) to disable the trap
 > Слуги Искательницы — клан **оборотней-воронов** — опасались завоеваний Кавана. Чтобы защитить силу Трёх Леди от его амбиций, оборотни-вороны украли три камня жизни из их мест в Капищах и спрятали их.
 >
 > Столетия спустя потомки этих оборотней-воронов — семья Мартиковых — использовали эти самоцветы для основания винодельни "Винный Волшебник", скрывая их благодатную силу на виду у всех. Даже когда Страд завоевал долину и даровал винодельню семье Крезковых в награду за их верность, прошло немного поколений, прежде чем Мартиковы породнились с родом Крезковых и вернули владение через наследство.
-> 
+>
 > Сто лет назад **оборотень-ворон** по имени Ливиус Мартиков — дед Давиана Мартикова — пошёл против желаний своей семьи и помог бургомистру Исмарку Антоновичу и паладину Лугдане выкрасть *Печать Солнца* (ныне известную как *Священный Символ Равенкинда*) и *Фолиант Страда* из замка Равенлофт, пока Страд спал.
 >
 > После этого Ливиус странствовал с Исмарком и Лугданой почти десятилетие, разведывая опасности и шпионя за их врагами. Когда он наконец оставил приключения, он использовал накопленные богатство и известность для основания Хранителей Пера, тайного общества оборотней-воронов, посвятивших себя противостоянию силам тьмы по всей Баровии. Хотя сами Хранители не вступали в битву, они поклялись служить, направлять и укрывать любых героев, которые могли бы однажды восстать в память о Лугдане.
@@ -344,7 +344,7 @@ DC 26 Thievery (expert) to disable the trap
 * Друидов сопровождают несколько десятков скверн, созданных Древом Гултиаса на Холме Былого, а также три **больших стрикса**, созданных болотной ведьмой, Бабой Лысагой, которая обитает в Березе. Стриксы патрулируют небо, не давая Мартиковым сбежать.
 * Давиан не совсем уверен, почему друиды напали на винодельню, почему они всё ещё внутри или почему Баба Лысага помогает им.
 
-Проверка Восприятия @Check[perception|dc:20|traits:action:sense-motive,secret] для Определения Мотивов предполагает, что Давиан может знать больше, чем говорит, но он твёрдо отказывается объяснять дальше, отмечая лишь, что "Холм Былого недалеко отсюда. Лесной Народ годами был ужасными соседями, и мы не стеснялись давать им это понять. Похоже, это их месть." Вторая проверка Восприятия @Check[perception|dc:20|traits:action:sense-motive,secret] для Определения Мотивов показывает, что он говорит не всю правду; если его поставить под сомнение, Давиан раздражённо обещает дать игрокам "весь чёртов гроссбух" своей семьи, если они сначала избавятся от друидов.
+Проверка Восприятия @Check[type:perception|dc:20|traits:action:sense-motive,secret] для Определения Мотивов предполагает, что Давиан может знать больше, чем говорит, но он твёрдо отказывается объяснять дальше, отмечая лишь, что "Холм Былого недалеко отсюда. Лесной Народ годами был ужасными соседями, и мы не стеснялись давать им это понять. Похоже, это их месть." Вторая проверка Восприятия @Check[type:perception|dc:20|traits:action:sense-motive,secret] для Определения Мотивов показывает, что он говорит не всю правду; если его поставить под сомнение, Давиан раздражённо обещает дать игрокам "весь чёртов гроссбух" своей семьи, если они сначала избавятся от друидов.
 
 Давиан приветствует помощь игроков в победе над друидами. Если игроки соглашаются, Давиан может поделиться следующей дополнительной информацией:
 
@@ -378,9 +378,9 @@ DC 26 Thievery (expert) to disable the trap
 Если спросить, Мюриэль подтверждает сырым, тихим шёпотом, что Элрик "вдохновлял нас всех", но что она — и семья Элрика — должны были научиться жить без него. Затем она извиняется и идёт сесть рядом с Эльвиром.
 
 > [!abstract]+ **Разговор с Эльвиром**
-> Если игроки подойдут поговорить с Эльвиром, он игнорирует их, глядя прямо в стену пещеры, в течение первой полной минуты. Затем он хрипло требует узнать, зачем они пришли в винодельню, настаивая, что там больше нечего искать ни им, ни кому-либо другому. Если игроки проявят к Эльвиру доброту и сочувствие, они могут немного улучшить его настроение успешной проверкой Дипломатии @Check[diplomacy|dc:22]. В противном случае он твёрдо, но вежливо просит оставить его в покое напряжённым и сорванным голосом.
+> Если игроки подойдут поговорить с Эльвиром, он игнорирует их, глядя прямо в стену пещеры, в течение первой полной минуты. Затем он хрипло требует узнать, зачем они пришли в винодельню, настаивая, что там больше нечего искать ни им, ни кому-либо другому. Если игроки проявят к Эльвиру доброту и сочувствие, они могут немного улучшить его настроение успешной проверкой Дипломатии @Check[type:diplomacy|dc:22]. В противном случае он твёрдо, но вежливо просит оставить его в покое напряжённым и сорванным голосом.
 >
-> Если игроки расположат к себе Эльвира и спросят об Элрике, Эльвир говорит им, что Элрик был глупцом, который бросил свою семью, и что он "получил по заслугам". Проверка Восприятия @Check[perception|dc:17|traits:action:sense-motive,secret] для Определения Мотивов показывает, что Эльвиру некомфортно от резкости его слов, и похоже, что он сам в них не совсем верит. Игроки могут убедить Эльвира раскрыть свои истинные чувства успешной проверкой Дипломатии @Check[diplomacy|dc:20]; в противном случае он качает головой и твёрдо отрицает какой-либо более глубокий смысл.
+> Если игроки расположат к себе Эльвира и спросят об Элрике, Эльвир говорит им, что Элрик был глупцом, который бросил свою семью, и что он "получил по заслугам". Проверка Восприятия @Check[type:perception|dc:17|traits:action:sense-motive,secret] для Определения Мотивов показывает, что Эльвиру некомфортно от резкости его слов, и похоже, что он сам в них не совсем верит. Игроки могут убедить Эльвира раскрыть свои истинные чувства успешной проверкой Дипломатии @Check[type:diplomacy|dc:20]; в противном случае он качает головой и твёрдо отрицает какой-либо более глубокий смысл.
 
 ### В туннель
 После того как игроки поговорят с Дагом и другими Мартиковыми к своему удовлетворению, к ним подходят Давиан и Стефания. Давиан извиняется перед игроками за поведение Эльвира и — после мягкого упрёка Стефании — за свою собственную вспышку тоже.
@@ -419,11 +419,11 @@ DC 26 Thievery (expert) to disable the trap
 <p>Бурая плесень заполнила этот тесный коридор, более свежие наросты покрывают пол, стены и потолок вокруг неё — за исключением одного места. Недалеко по туннелю небольшая деревянная коробка, покрытая старой облупившейся краской, висит на ржавом железном крюке. Коробка окрашена в цвет ледяной синевы, и на её боку вырезан узор снежинки. Участок голой стены размером пятнадцать сантиметров окружает коробку, и поблизости нет ни единой споры плесени.</p>
 </div>
 
-Игроки не могут безопасно продвигаться по туннелю, не уничтожив сначала преграждающую путь бурую плесень. Игрок, который успешно выполняет проверку Природы @Check[nature|dc:22|traits:action:recall-knowledge] для припоминания информации о бурой плесени, узнаёт информацию, описанную в [Бурая плесень - масштабированная до Уровня 4](https://2e.aonprd.com/Hazards.aspx?ID=35).
+Игроки не могут безопасно продвигаться по туннелю, не уничтожив сначала преграждающую путь бурую плесень. Игрок, который успешно выполняет проверку Природы @Check[type:nature|dc:22|traits:action:recall-knowledge] для припоминания информации о бурой плесени, узнаёт информацию, описанную в [Бурая плесень - масштабированная до Уровня 4](https://2e.aonprd.com/Hazards.aspx?ID=35).
 
 Игрок, использующий *обнаружение магии*, замечает, что три небольших предмета внутри коробки мерцают магией превращения. Если игроки достают коробку — которая прикреплена к стене в полутора метрах вниз по коридору — с помощью магии или иных средств, они обнаруживают, что в ней находятся три зуба **зимнего волка**, каждый длиной пятнадцать сантиметров, холодный на ощупь и покрытый замысловатыми руническими надписями. (Зубы были добыты, вырезаны и зачарованы Горным Народом, который продал их Давиану много лет назад.)
 
-Успешная проверка Магии или Природы @Check[arcana,nature|dc:23|traits:action:recall-knowledge] определяет, что зубы принадлежат одному или нескольким **[Ведьмаргам масштабированным до Уровня 7](https://2e.aonprd.com/Monsters.aspx?ID=3231).** Игрок, желающий определить свойства зуба, должен изучить его с помощью активности исследования [Опознание магии](https://2e.aonprd.com/Actions.aspx?ID=2365) и выполнить проверку Магии или Природы @Check[arcana,nature|dc:23]. При успехе игрок узнаёт, что зуб обладает следующими свойствами:
+Успешная проверка Магии или Природы @Check[type:arcana,nature|dc:23|traits:action:recall-knowledge] определяет, что зубы принадлежат одному или нескольким **[Ведьмаргам масштабированным до Уровня 7](https://2e.aonprd.com/Monsters.aspx?ID=3231).** Игрок, желающий определить свойства зуба, должен изучить его с помощью активности исследования [Опознание магии](https://2e.aonprd.com/Actions.aspx?ID=2365) и выполнить проверку Магии или Природы @Check[type:arcana,nature|dc:23]. При успехе игрок узнаёт, что зуб обладает следующими свойствами:
 
 * Существо может использовать своё действие, чтобы проткнуть свой живот зубом. Затем это существо может немедленно использовать его как [Зелье энергетического дыхания (малое)](https://2e.aonprd.com/Equipment.aspx?ID=2941).
 * Существо может использовать своё действие, чтобы проткнуть свой бицепс зубом. Это существо получает эффект [Зелья сопротивления (среднее)](https://2e.aonprd.com/Equipment.aspx?ID=2951) к урону холодом на 1 минуту (сопротивление холоду 10).
@@ -554,12 +554,12 @@ In response to being attacked by a creature it can see, the druid casts Oaken Re
 Если игроки показывают себя без нападения, друид наклоняет голову и спрашивает нараспев, как такие "маленькие мышки" нашли свой путь в винодельню. Друид, которую зовут Сильвия, знает следующую информацию, которой она может поделиться, чтобы усыпить бдительность игроков:
 
 * Лесной Народ пришёл с Холма Былого на юге, который лежит рядом с Шепчущей Стеной. (Шепчущая Стена в основном такая, как описано в **Y5. Стена тумана**, за исключением того, что древнее божество, создавшее Стену, было женского пола.)
-* У Лесного Народа давняя вражда с воронами винодельни и их хозяевами, "пернатыми", чья древняя служба "Теневому Владыке" (так Лесной Народ называет Страда) вдохновила название и символ замка Равенлофт. (Это ложь. Игрок, который выполняет проверку Восприятия @Check[perception|dc:20|traits:action:sense-motive,secret] для Определения Мотивов, замечает, что Сильвия говорит слишком eager, её голос слишком гладкий.)
+* У Лесного Народа давняя вражда с воронами винодельни и их хозяевами, "пернатыми", чья древняя служба "Теневому Владыке" (так Лесной Народ называет Страда) вдохновила название и символ замка Равенлофт. (Это ложь. Игрок, который выполняет проверку Восприятия @Check[type:perception|dc:20|traits:action:sense-motive,secret] для Определения Мотивов, замечает, что Сильвия говорит слишком eager, её голос слишком гладкий.)
 * У "пернатых" здесь есть могущественная магия — магия, которую Лесной Народ стремится вернуть на её законное место. (Сильвия говорит о Хранителях Пера и третьем зачарованном самоцвете, который она описывает как "семя сосны, выкованное в кристальном камне".)
 * Сильвия пытает ворона, потому что он слуга "пернатых" и поэтому знает, где может храниться магическое семя. (Сильвия ошибается.)
-* Лесной Народ заключил союз с "ведьмой болот", чьи летающие слуги называются "стриксами". (Сильвия имеет в виду Бабу Лысагу.) Ведьма презирает воронов и негодует на власть замка Равенлофт. (Это ложь. Игрок, который выполняет проверку Восприятия @Check[perception|dc:20|traits:action:sense-motive,secret] для Определения Мотивов, замечает, что Сильвия слегка колеблется, произнося свои слова.)
+* Лесной Народ заключил союз с "ведьмой болот", чьи летающие слуги называются "стриксами". (Сильвия имеет в виду Бабу Лысагу.) Ведьма презирает воронов и негодует на власть замка Равенлофт. (Это ложь. Игрок, который выполняет проверку Восприятия @Check[type:perception|dc:20|traits:action:sense-motive,secret] для Определения Мотивов, замечает, что Сильвия слегка колеблется, произнося свои слова.)
 
-Сильвия приглашает игроков подойти к клетке с вороном и увидеть "метку ночи" на его груди, которой отмечены все слуги Страда. (Это уловка, призванная выманить игроков на открытое место. Игрок, который выполняет проверку Восприятия @Check[perception|dc:20|traits:action:sense-motive,secret] для Определения Мотивов, замечает, как глаза Сильвии метнулись к окружающим её веткоподобным существам, когда она просит игроков подойти.)
+Сильвия приглашает игроков подойти к клетке с вороном и увидеть "метку ночи" на его груди, которой отмечены все слуги Страда. (Это уловка, призванная выманить игроков на открытое место. Игрок, который выполняет проверку Восприятия @Check[type:perception|dc:20|traits:action:sense-motive,secret] для Определения Мотивов, замечает, как глаза Сильвии метнулись к окружающим её веткоподобным существам, когда она просит игроков подойти.)
 
 > [!info]+ **Сломанный кран**
 > У чана для брожения, находящегося непосредственно к западу от центральной лестницы <span class="citation">W9. Чаны для брожения (стр. 176)</span>, повреждён кран. Когда игрок впервые приближается к нему, прочтите:
@@ -570,9 +570,9 @@ In response to being attacked by a creature it can see, the druid casts Oaken Re
 >
 > <hr>
 >
-> В текущем состоянии повреждённый кран имеет КБ 10, Твёрдость 3, 12 очков здоровья и Порог поломки 6 очков здоровья. Если количество очков здоровья крана снижается до 6, или если существо успешно выполняет проверку Атлетики @Check[athletics|dc:18] для того, чтобы сломать кран, находясь в пределах 1,5 метров, чан лопается и выпускает волну вина, которая обрушивается на всех существ в конусе 4,5 метра к северу от чана.
+> В текущем состоянии повреждённый кран имеет КБ 10, Твёрдость 3, 12 очков здоровья и Порог поломки 6 очков здоровья. Если количество очков здоровья крана снижается до 6, или если существо успешно выполняет проверку Атлетики @Check[type:athletics|dc:18] для того, чтобы сломать кран, находясь в пределах 1,5 метров, чан лопается и выпускает волну вина, которая обрушивается на всех существ в конусе 4,5 метра к северу от чана.
 >
-> Когда это происходит, каждое Маленькое или меньшее существо в этой области должно сделать базовый спасбросок Стойкости @Check[fortitude|dc:22|basic]. При провале существо отталкивается на 3 метра от чана и получает @Damage[4d6[bludgeoning]]{7 дробящего урона}. При критическом провале существо отталкивается на 4,5 метра. При успехе - только на 1,5 метра. (Рой Маленьких или меньших существ, такой как **рой мандрагор**, также должен сделать спасбросок.)
+> Когда это происходит, каждое Маленькое или меньшее существо в этой области должно сделать базовый спасбросок Стойкости @Check[type:fortitude|dc:22|basic]. При провале существо отталкивается на 3 метра от чана и получает @Damage[4d6[bludgeoning]]{7 дробящего урона}. При критическом провале существо отталкивается на 4,5 метра. При успехе - только на 1,5 метра. (Рой Маленьких или меньших существ, такой как **рой мандрагор**, также должен сделать спасбросок.)
 >
 > После того как чан лопается, вся земля в радиусе 6 метров становится труднопроходимой местностью, пока вино не будет убрано.
 
@@ -634,7 +634,7 @@ In response to being attacked by a creature it can see, the druid casts Oaken Re
 ## J3e. Второй этаж
 Второй этаж винодельни в основном описан в <span class="citation">W9. Чаны для брожения (стр. 176)</span>, <span class="citation">W16. Погрузочная лебёдка (стр. 178)</span>, <span class="citation">W17. Главная спальня (стр. 178)</span>, <span class="citation">W18. Кухня и столовая (стр. 179)</span>, <span class="citation">W19. Спальные помещения (стр. 179)</span> и <span class="citation">W20. Печатный пресс (стр. 179)</span>.
 
-Однако дверь, ведущая с балкона <span class="citation">W9. Чаны для брожения (стр. 176)</span> к <span class="citation">W16. Погрузочная лебёдка (стр. 178)</span>, покрыта **ядовитой лозой-бритвой** (используйте любую растительную Опасность, которую можете найти на https://2e.aonprd.com - что-то с "Плотоядный" в названии) и загорожена с дальней стороны, требуя успешной проверки Атлетики @Check[athletics|dc:30|traits:action:force-open] для Силового открытия.
+Однако дверь, ведущая с балкона <span class="citation">W9. Чаны для брожения (стр. 176)</span> к <span class="citation">W16. Погрузочная лебёдка (стр. 178)</span>, покрыта **ядовитой лозой-бритвой** (используйте любую растительную Опасность, которую можете найти на https://2e.aonprd.com - что-то с "Плотоядный" в названии) и загорожена с дальней стороны, требуя успешной проверки Атлетики @Check[type:athletics|dc:30|traits:action:force-open] для Силового открытия.
 
 Когда игроки впервые достигают второго этажа, они могут услышать звук грохочущих предметов, доносящийся из <span class="citation">W20. Печатный пресс (стр. 179)</span>.
 
@@ -664,7 +664,7 @@ In response to being attacked by a creature it can see, the druid casts Oaken Re
 
 Две искусственные птицы — это **большие стриксы**. Человек — это Лоргот Разлагатель.
 <div class="statblock"> <h2>Lorghof the Decayer - Creature 8</h2> <em>Medium humanoid (human, mythic, evil)</em> <hr> <strong>Perception</strong> +18<br> <strong>Languages</strong> Common<br> <strong>Skills</strong> Deception +20, Diplomacy +18, Nature +21, Religion +18, Society +16, Ludovica Lore +16<br> <strong>Str</strong> +1, <strong>Dex</strong> +3, <strong>Con</strong> +0, <strong>Int</strong> +2, <strong>Wis</strong> +4, <strong>Cha</strong> +4 <hr> <strong>AC</strong> 25<br> <strong>HP</strong> 140 (crystal vitality link)<br> <strong>Saving Throws</strong> Fort +14, Ref +17, Will +18<br> <strong>Speed</strong> 25 feet <hr> <h3>Melee Attacks</h3> <p><strong>➔ Dagger</strong> +18 [agile, finesse, magical, versatile S], <strong>Damage</strong> 2d4+7 piercing plus 1d6 mental and 1d6 bleed</p> <p><strong>➔ Gulthias Staff</strong> +19 [magical, staff, two-hand-d8], <strong>Damage</strong> 3d4+4 bludgeoning</p> <h3>Ranged Attacks</h3> <p><strong>➔ Dagger</strong> +18 [agile, magical, thrown-10, versatile S], <strong>Damage</strong> 2d4+7 piercing plus 1d6 mental and 1d6 bleed</p> <hr> <h3>Mythic Abilities</h3> <p><strong>(Mythic) Master of Blights</strong> ◆<br> Lorghoth can use the Gulthias staff to summon and command any blights within a 1-mile radius.</p> <p><strong>(Mythic) Recharge Spell</strong> ◆ (concentrate)<br> <strong>Cost</strong> 1 Mythic Point<br> A mythic caster of any level gains the Recharge mythic power action for spells.</p> <p><strong>(Mythic) Remove a Condition</strong> ◆ (concentrate)<br> <strong>Cost</strong> 1 Mythic Point<br> The creature ends one condition affecting it.</p> <p><strong>(Mythic) Mythic Resilience</strong> (passive)<br> Lorghof treats his saving throws as one degree of success better than rolled. This is not cumulative with other effects that change degree of success (except natural 1 or 20).</p>  <hr> <h3>Spellcasting</h3> <p><strong>Primal Prepared Spells</strong> DC 26, attack +18</p> <p><strong>4th (3 slots)</strong> draw the lightning, freedom of movement, murderous vine</p> <p><strong>3rd (3 slots)</strong> heal, lightning bolt, mind of menace*</p> <p><strong>2nd (3 slots)</strong> entangle, glitterdust, tree shape</p> <p><strong>Cantrips (5th)</strong> electric arc, guidance, message, ray of frost, tanglefoot</p> <p>* Indicates the spell has been expended</p> <hr> <h3>Inventory</h3> <ul> <li>Gulthias Staff</li> <li>Dagger (striking)</li> <li>Druid Robes</li> </ul> </div>
-<div class="itemblock"> <h3>Gulthias Staff (Rare)</h3> <p>Made from the branch of a Gulthias tree, this spongy, black length of wood makes beasts visibly uncomfortable while within 30 feet. The wielder gains a +2 circumstance bonus to Nature checks to identify plants.</p> <p><strong>Critical Hit Effect:</strong> You deal an additional 1d6 persistent bleed damage, but you also take 1d6 persistent bleed damage. You take a –2 penalty to the flat check to remove this bleed damage.</p> <p><strong>Curse:</strong> Once the curse activates after the first critical hit, the weapon fuses to you. While you can sheathe it outside of combat, it appears in your hand when a fight begins and can't be sheathed while there is an enemy you can perceive.</p> <p>When you succeed at removing the bleed damage, you are exposed to Gulthias's ruin as the injury site becomes inflamed and discolored.</p> 
+<div class="itemblock"> <h3>Gulthias Staff (Rare)</h3> <p>Made from the branch of a Gulthias tree, this spongy, black length of wood makes beasts visibly uncomfortable while within 30 feet. The wielder gains a +2 circumstance bonus to Nature checks to identify plants.</p> <p><strong>Critical Hit Effect:</strong> You deal an additional 1d6 persistent bleed damage, but you also take 1d6 persistent bleed damage. You take a –2 penalty to the flat check to remove this bleed damage.</p> <p><strong>Curse:</strong> Once the curse activates after the first critical hit, the weapon fuses to you. While you can sheathe it outside of combat, it appears in your hand when a fight begins and can't be sheathed while there is an enemy you can perceive.</p> <p>When you succeed at removing the bleed damage, you are exposed to Gulthias's ruin as the injury site becomes inflamed and discolored.</p>
 <p>If the staff is broken or burned to ashes, its wood releases a terrible, inhuman scream that can be heard out to a range of 1-mile. All blights that can hear the scream immediately wither and die.</p><p><strong>Spells:</strong> The staff can be used to cast the following spells: <ul> <li>Cantrip: puff of poison</li> <li>1st: protector tree, summon plant or fungus</li> <li>2nd: protector tree, summon plant or fungus, one with plants</li> <li>3rd: protector tree, stinking cloud, summon plant or fungus, wall of thorns</li> </ul> <p><strong>Gulthias's Ruin</strong> (disease, unholy)<br> <strong>Saving Throw</strong> DC 26 Fortitude<br> <strong>Onset</strong> 1 hour<br> <strong>Stage 1</strong> enfeebled 1 (1 day)<br> <strong>Stage 2</strong> enfeebled 2, fatigued, and 1d6 spirit damage each time you would take persistent bleed damage (1 week)<br> <strong>Stage 3</strong> as stage 2, but spirit damage increases to 2d6 (1 week)<br> <strong>Stage 4</strong> enfeebled 3, fatigued, and 4d6 spirit damage each time you would take persistent bleed damage (1 week)<br> <strong>Stage 5</strong> death</p> </div>
 Уничтожение посоха убивает как скверн, так и отросток Древа Гултиаса, который быстро разлагается в серовато-чёрную слизь.
 
@@ -757,7 +757,7 @@ In response to being attacked by a creature it can see, the druid casts Oaken Re
 
 Путь от Винного Волшебника до Холма Былого составляет 2,5 мили и занимает 50 минут. Когда игроки отправляются в путь, прочтите:
 
-<div class="description"> 
+<div class="description">
 <p>Тонкий, леденящий туман вьётся по винограднику, обвиваясь вокруг ваших лодыжек, когда вы отправляетесь от винодельни к главной тропе. Вы направляетесь на юг, холодный лунный свет проникает сквозь нижние облака и отбрасывает длинные тени на рыхлую землю.</p>
 <p>Бархатный плащ ночного неба безмолвно раскинулся над головой, но вскоре его поглощает искривлённый полог Сваличского леса, чьи длинные, тёмные ветви нависают над тропой, словно скелетные конечности. Туман здесь гуще, воздух свежий и холодный, и ощутимая тишина, кажется, окутывает весь лес. Тишину лишь изредка нарушает треск ветки под ногами, хлюпанье грязи под вашими сапогами или отдалённое уханье печальной совы.</p>
 </div>
@@ -867,7 +867,7 @@ In response to being attacked by a creature it can see, the druid casts Oaken Re
 * Друиды Лесного Народа в последнее время стали более активными, собирая берсерков из северного бассейна и ведя порождения Дерева Гультиас вниз к землям внизу. Кажется, они обрели нового лидера: темнокожую женщину, одетую в белое платье и золотую тиару, с пронзительными глазами и парой острых клыков. Каван считает её магом, видев, как она вызывает странные огни и звуки. (Это Людмила Вилисевич, одна из вампирских невест Страда.)
 * Недавно Лесной Народ Холма Былого — который народ Кавана когда-то называл Сармизегет — получил нечто одновременно новое и невероятно старое: зачарованный драгоценный камень, когда-то принадлежавший народу Кавана, который он считал давно утерянным. Лесной Народ построил огромное чучело из дерева и земли на вершине холма, внутри большого каменного круга, который служит местом их встреч, и поместил драгоценный камень в грудь статуи.
 * Некоторые из Лесного Народа, кажется, готовятся вложить силу драгоценного камня в статую, которая сплетена из корней Дерева Гультиас, растущего на вершине Холма Былого. Ритуалисты связали себя с кровожадными корнями дерева и планируют использовать силу вечной бури над Холмом Былого, чтобы дать жизнь существу внутри статуи.
-* Дерево Гультиас — тёмная и испорченная сущность, и пособник воли друидов. Каван предупреждает их, что дерево может попытаться помешать их усилиям, но сообщает им, что сияние обжигает его и замедляет его новый рост. Он отмечает, что дерево особенно жаждет проклятой крови, которая укрепляет и восстанавливает его.
+* Дерево Гультиас — тёмная и испорченная сущность, и пособник воли друидов. Каван предупреждает их, что дерево может попытаться помешать их усилиям, но сообщает им, что святость обжигает его и замедляет его новый рост. Он отмечает, что дерево особенно жаждет проклятой крови, которая укрепляет и восстанавливает его.
 * Сейчас на вершине Холма Былого находится более дюжины друидов и берсерков, хотя с каждым днём прибывает всё больше. Они, кажется, ждут того, кого называют "Теневым Владыкой" — владыку крепости на востоке. (Каван имеет в виду Страда фон Заровича и Замок Равенлофт.)
 
 Каван советует игрокам, что друиды Лесного Народа кажутся гораздо менее способными, чем их предки. Если игрокам удастся сорвать их ритуал — например, удалив драгоценный камень из груди статуи до завершения ритуала — последующая отдача от обузданной энергии бури может убить всех выживших ритуалистов.
@@ -957,7 +957,7 @@ In response to being attacked by a creature it can see, the druid casts Oaken Re
 
 > [!info]+ **Стаи воронов**
 > **Стаи воронов**, сопровождавшие игроков к Холму Былого, следуют в небе позади них, но не присоединяются к сражению. (Если игроки упомянут об этом, Мюриэль указывает, что они были бы мало полезны при атаке против более опасных противников, чем порождения винодельни, но отмечает своё убеждение, что они могут найти какой-то способ помочь.)
-> 
+>
 > Хотя вороны не будут действовать как бойцы в битве, они могут помочь игрокам в их борьбе против Людмилы и в их усилиях по спасению, если ритуал потерпит неудачу. См. [[#Провокации Людмилы]] и [[#J5f. Остановка ритуала]] для получения дополнительной информации о том, как помогают вороны.
 
 ## J5a. Вход в Круг
@@ -982,7 +982,7 @@ In response to being attacked by a creature it can see, the druid casts Oaken Re
 
 > [!combat]- **Балансировка стражей ритуала**
 > Боевая встреча с **друидами-нападающими** и **берсерками** (см. [[Arc J - The Stolen Gem#J5c. The Ritual Begins|Ритуал начинается]] ниже) — это **Серьёзная** боевая встреча против группы из четырёх игроков 6-го уровня, одного союзника 4-го уровня (Ирина Коляна) и одного союзника 5-го уровня (Мюриэль Виншоу). Для групп меньшего или большего размера измените встречу следующим образом:
-> 
+>
 > * ***Три игрока.*** Уменьшите количество друидов-нападающих до одного.
 > * ***Пять игроков.*** Увеличьте количество друидов-нападающих до трёх.
 > * ***Шесть игроков.*** Увеличьте количество берсерков и друидов-нападающих до трёх.
@@ -1090,9 +1090,9 @@ In response to being attacked by a creature it can see, the druid casts Oaken Re
 
 **Остановить их!** ↻ (сила, пустота, оккультный) **Триггер** Не-нежить существо, которое вступает в контакт с границей тумана впервые в ходу; **Эффект** Туман пытается остановить их. Существо должно попытаться пройти @Check[type:fortitude|dc:25], чтобы избежать затруднений или вреда от Покрова тумана.
 
-**Критический успех** Цель не затронута.  
-**Успех** Цель замедлена 1 на 1 раунд.  
-**Провал** Цель замедлена 2 на 1 раунд и получает @Damage[(2d10+10)[void]].  
+**Критический успех** Цель не затронута.
+**Успех** Цель замедлена 1 на 1 раунд.
+**Провал** Цель замедлена 2 на 1 раунд и получает @Damage[(2d10+10)[void]].
 **Критический провал** Цель замедлена 2 на 1 раунд и получает @Damage[(4d10+15)[void]].
 
 > [!info]+ **Расположение поля боя**
@@ -1130,6 +1130,111 @@ In response to being attacked by a creature it can see, the druid casts Oaken Re
 ### Провокации Людмилы
 После того, как игроки проходят через покров тумана, Людмила также вступает с ними в бой с активированным ***покровом теней***. (Из-за её автоматической особенности *предосторожности* Людмила телепортируется прочь с поля боя и убегает, если её первая фаза уменьшается до 0 очков здоровья.)
 
+<div class="statblock">
+<h2>Ludmilla - Creature 9</h2>
+<em>Medium undead, vampire, unholy</em>
+<hr>
+<strong>Perception</strong> +20; greater darkvision<br>
+<strong>Languages</strong> Common, Necril<br>
+<strong>Skills</strong> Acrobatics +17, Arcana +21, Athletics +18, Deception +20, Diplomacy +20, Intimidation +22, Society +19, Stealth +19<br>
+<hr>
+<table class="ability-table">
+  <thead>
+    <tr>
+      <th>STR</th>
+      <th>DEX</th>
+      <th>CON</th>
+      <th>INT</th>
+      <th>WIS</th>
+      <th>CHA</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>+3</td>
+      <td>+4</td>
+      <td>+1</td>
+      <td>+6</td>
+      <td>+4</td>
+      <td>+5</td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+<strong>AC</strong> 27<br>
+<strong>Saving Throws</strong> Fortitude +15, Reflex +18, Will +20<br>
+<strong>HP</strong> 115; fast healing 15, void healing<br>
+<strong>Immunities</strong> death effects, disease, paralyzed, poison, sleep<br>
+<strong>Speed</strong> 25 feet, climb 25 feet<br>
+<hr>
+<h3>Melee Attacks</h3>
+<p><strong>Claw</strong> ◆ +18 [agile], <strong>Damage</strong> 2d8+9 slashing plus grab</p>
+<hr>
+<h3>Active Abilities</h3>
+<p><strong>Counterspell</strong> ↻ <br>
+<strong>Trigger</strong> A creature casts a spell Ludmilla has prepared.<br>
+<strong>Effect</strong> Ludmilla expends a prepared spell to counter the triggering creature's casting of that same spell. She loses its spell slot as if she had cast the triggering spell. She then attempts to counteract the triggering spell.</p>
+<p><strong>Mage's Reprisal</strong> ↻ <br>
+In response to being missed by a spell attack or succeeding on a saving throw against a spell, Ludmilla can immediately force the caster to succeed on a DC 29 basic Fortitude save or take 3d6 force damage.</p>
+<p><strong>Drain Blood</strong> ◆ (divine)<br>
+<strong>Requirement</strong> A Grabbed, Paralyzed, Restrained, Unconscious, or willing creature is within the vampire's reach.<br>
+<strong>Effect</strong> The vampire sinks its fangs into that creature to drink its blood. This requires an Athletics check against the victim's Fortitude DC if the victim is grabbed and is automatic for any of the other conditions. The victim is Drained 2 and the vampire regains 10 HP, gaining any excess HP as temporary Hit Points. Drinking Blood from a creature that's already drained doesn't restore any HP to the vampire but increases the victim's drained value by 1, killing the victim when it reaches drained 5. A vampire can also consume blood that's been emptied into a vessel for sustenance, but it gains no HP from doing so. A victim's drained condition decreases by 1 per week. A blood transfusion, which requires a Medicine DC 20 check and sufficient blood or a blood donor, reduces the drain by 1 after 10 minutes.</p>
+<p><strong>Drain Bonded Item</strong> ◇ (arcane, frequency: once per day)<br>
+<strong>Requirements</strong> The vampire mastermind hasn't acted yet on this turn<br>
+<strong>Effect</strong> The vampire expends the power stored in their signet ring. This gives the vampire the ability to cast one prepared spell they had already previously cast today without spending a spell slot. The vampire must still Cast the Spell and meet the spell's other requirements.</p>
+<p><strong>Misty Translocate Escape</strong> ◇<br>
+<strong>Trigger</strong> Ludmilla is reduced to 0 HP.<br>
+<strong>Effect</strong>: A contingency-like spell activates, allowing her to gain the effects of Translocate 5th Rank. (Because Ludmilla doesn't cast the spell at the time of her reaction, it can't be countered.)</p>
+<p><strong>Grab</strong> ◆<br>
+As per the standard Grab action.</p>
+<hr>
+<h3>Passive Abilities</h3>
+<p><strong>Fast Healing 15</strong><br>
+The vampire regains 15 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes holy damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.</p>
+<p><strong>Form of Mist</strong> (divine, void)<br>
+When Ludmilla is reduced to 0 hit points, her statistics are instantly replaced by the statistics of her second form. Her initiative count doesn't change. Excess damage doesn't carry over to her new form, but she retains any conditions she had in her previous form.</p>
+<p><strong>Steady Spellcasting</strong><br>
+If another creature's reaction would disrupt the vampire mastermind's spellcasting action, the vampire attempts a DC 15 flat check. If the vampire succeeds, their action isn't disrupted.</p>
+<p><strong>Vampire Vulnerabilities</strong><br>
+All vampires possess the following vulnerabilities.
+<ul>
+<li><strong>Forbiddance</strong>. The vampire can't enter a residence without an invitation from one of the occupants.</li>
+<li><strong>Harmed</strong> by Running Water. The vampire takes 20 acid damage if it ends its turn in running water.</li>
+<li><strong>Stake to the Heart.</strong> If a piercing weapon made of wood is driven into the vampire's heart while the vampire is in its resting place, the vampire is destroyed. Staking a vampire requires 3 actions and works only if the vampire is Unconscious and in its resting place.</li>
+<li><strong>Sunlight Hypersensitivity.</strong> The vampire takes 20 holy spirit damage when it starts its turn in sunlight. While in sunlight, it is Dazzled. Due to their supernatural aversion to light, vampires don't cast shadows or show a reflection in mirrors.</li>
+</ul>
+<p><strong>Void Healing</strong><br>
+Negative healing</p>
+<hr>
+<h3>Spellcasting</h3>
+<p><strong>Arcane Prepared Spells</strong> DC 29, attack +19; (focus points: 1)<br>
+<strong>Cantrips (5th):</strong> detect magic, frostbite, message, sigil, telekinetic hand<br>
+<strong>1st (4 slots):</strong> command, dizzying colors, enfeeble, grease<br>
+<strong>2nd (4 slots):</strong> blur, dispel magic, stupefy, web<br>
+<strong>3rd (4 slots):</strong> dispel magic, fireball, haste, hypnotize<br>
+<strong>4th (3 slots):</strong> translocate, translocate, unfettered movement<br>
+<strong>5th (2 slots):</strong> translocate (used for Misty Translocate Escape), shroud of shadows*<br>
+</p>
+<p>* Shroud of Shadows described below</p>
+<h3>Inventory</h3>
+<ul>
+<li>Signet Ring</li>
+</ul>
+</div>
+#### Shroud of Shadows ◆
+_rare, darkness, shadow, unholy_
+
+**Shroud of Shadows** is a rare 5th-level spell with the darkness, shadow and unholy traits. When cast, Ludmilla summons a shroud of shadows around herself that lasts for 8 hours or until Dismissed as an action. While the shroud is active, she gains:
+
+- A flying speed of 50 feet with hover capability
+- 5 resistance to physical damage
+- A reflective damage effect: attackers take the same amount and type of damage that Ludmilla resists
+
+The shroud has specific vulnerabilities:
+
+1. When Ludmilla takes holy damage while the shroud is present, it weakens, reducing her flying speed to 25 feet and causing her to fall 20 feet.
+2. A second instance of holy damage while the shroud is weakened causes it to immediately vanish.
+3. Light effects can counteract the shroud with the same effect as holy damage (using counteract rules described in Light trait).
 
 > [!combat]- **Балансировка Второй невесты**
 > Эта боевая встреча — **Умеренная+** боевая встреча против группы из четырёх игроков 6-го уровня и союзников 4-го и 5-го уровней (Ирина Коляна и Мюриэль Виншоу). Для групп меньшего или большего размера измените встречу следующим образом:
@@ -1142,6 +1247,8 @@ In response to being attacked by a creature it can see, the druid casts Oaken Re
 
 > [!abstract]+ **Помощь воронов**
 > Если какие-либо игроки в беде (например, нуждаются в пробуждении или освобождении, или потеряли предмет), одна или несколько **стай воронов** спускаются, чтобы помочь им наилучшим возможным способом.
+>
+> Рассмотрите вариант для воронов бомбардировать игроков с помощью [Исцеляющих Бомб](https://2e.aonprd.com/Feats.aspx?ID=5773) [Эликсира Жизни (Малого)](https://2e.aonprd.com/Equipment.aspx?ID=3308) или даже [Эликсира Жизни (Среднего)](https://2e.aonprd.com/Equipment.aspx?ID=3308), чтобы сделать экстремальную боевую встречу немного легче.
 
 В первом ходу Людмилы в бою, если Мюриэль присутствует, Людмила также пытается спровоцировать её. Затем разворачивается следующая последовательность, предполагая, что игроки не вмешиваются:[^1]
 
@@ -1184,6 +1291,7 @@ In response to being attacked by a creature it can see, the druid casts Oaken Re
 
 Сварог имеет следующий статблок:
 
+<div class="statblock"> <h2>Svarog - Creature 6</h2> <em>Medium humanoid, evil, human, mythic</em> <hr> <strong>Perception</strong> +16; darkvision<br> <strong>Languages</strong> Common, Grippli<br> <strong>Skills</strong> Acrobatics +14, Athletics +12, Intimidation +12, Nature +14, Occultism +10, Stealth +14<br> <strong>Str</strong> +2, <strong>Dex</strong> +4, <strong>Con</strong> +2, <strong>Int</strong> +0, <strong>Wis</strong> +4, <strong>Cha</strong> +0 <hr> <strong>AC</strong> 23<br> <strong>HP</strong> 95<br> <strong>Saving Throws</strong> Fortitude +12, Reflex +14, Will +16<br> <strong>Speed</strong> 25 feet, climb 20 feet <hr> <h3>Melee Attacks</h3> <p><strong>Staff</strong> ◆ +14 [two-hand-d8], <strong>Damage</strong> 1d4+6 bludgeoning plus Baneback Poison</p> <h3>Ranged Attacks</h3> <p><strong>Dart</strong> ◆ +16 [agile, thrown-20], <strong>Damage</strong> 1d4+6 piercing plus Baneback Poison</p> <hr> <h3>Primal Spontaneous Spells</h3> <p><strong>DC</strong> 24, <strong>Attack</strong> +16<br> <strong>3rd (3 slots)</strong> blindness, paralyze<br> <strong>2nd (3 slots)</strong> dispel magic, entangling flora, vomit swarm<br> <strong>1st (3 slots)</strong> bane, gust of wind, spider sting<br> <strong>Cantrips (5th)</strong> chill touch, forbidding ward, know direction, shield, telekinetic projectile</p> <hr> <h3>Active Abilities</h3> <p><strong>Baneback Poison</strong> (poison)<br> <strong>Saving Throw</strong> DC 24 Fortitude<br> <strong>Maximum Duration</strong> 6 rounds<br> <strong>Stage 1</strong> 2d4 poison damage and Stupefied 1 (1 round)<br> <strong>Stage 2</strong> 3d4 poison damage and Stupefied 2 (1 round)<br> <strong>Stage 3</strong> 4d4 poison damage, Stupefied 3, and Off-Guard (1 round)</p> <p><strong>Bind Elements</strong> ↻ (concentrate, manipulate)<br> <strong>Range</strong> 60 feet<br> When Svarog sees a creature producing a magical effect with the acid, cold, fire, or lightning trait, he can make a counteract check using his spellcasting ability and expending one of his spontaneous slots. On a success, the creature's spell fails and has no effect, and a small orb of elemental energy appears in Svarog's hand. Svarog can use an action on his next turn to fling the orb, making a ranged spell attack (+16 to hit) against a creature within 60 feet. On a hit, the orb deals 1d6 damage of the type absorbed, plus an additional 1d6 damage for each level of the spell absorbed.</p> <p><strong>Hypnotic Tattoos</strong> ◇<br> <strong>Trigger</strong> A hostile creature targets Svarog with a melee Strike<br> <strong>Effect</strong> Tattoos on Svarog's body swirl and shift in mesmerizing patterns. The creature must attempt a DC 24 Will save.<br> <strong>Critical Success</strong> The creature is unaffected and is temporarily immune for 1 hour.<br> <strong>Success</strong> The creature is unaffected and is temporarily immune for 1 minute.<br> <strong>Failure</strong> The creature treats Svarog as Concealed until the end of its turn.<br> <strong>Critical Failure</strong> The creature treats Svarog as Hidden until the end of its turn.</p> <p><strong>Curse of Baneful Venom</strong> ◆<br> Creatures within 30 feet of Svarog that are currently afflicted by a poison immediately attempt their next saving throw against the poison with a -2 status penalty, then are temporarily immune to Curse of Baleful Venom for 1 hour.</p> <hr> <h3>Passive Abilities</h3> <p><strong>Svalich Stride</strong><br> Svarog ignores difficult terrain in forests.</p> <p><strong>Mythic Resilience (Will)</strong><br> Svarog treats his Will saves as one degree of success better than rolled. This is not cumulative with other effects that change degree of success, except for rolling a natural 1 or 20.</p> <hr> <h3>Equipment</h3> <p>Dart (8), Staff, Жезл Сварога (Svarog's Wand)</p> <p><strong>Svarog's Wand</strong> (wand) Carved from a hawthorn branch with a smooth handle but covered in bark and thorns, decorated with polished red stones. Once per day, can cast 2nd-rank Oaken Resilience with an added effect that causes creatures touching the target to take 1d4 piercing damage.</p> </div>
 
 Статуя в основном описана в <span class="citation">Y3. Круг друидов (стр. 197)</span>. Однако статуя имеет 130 очков здоровья и Твёрдость 10. Кроме того, часть груди статуи, содержащая драгоценный камень, которая находится на высоте 30 футов над землёй, имеет КБ 10 и Твёрдость 5, 13 очков здоровья, иммунитеты объекта, иммунитет к яду и критическим попаданиям. Драгоценный камень нельзя извлечь, пока грудь статуи не уменьшится до 0 очков здоровья, после чего драгоценный камень будет открыт.
 
@@ -1198,7 +1306,7 @@ In response to being attacked by a creature it can see, the druid casts Oaken Re
 
 * На счёте инициативы 20 статуя рушится. Когда это происходит, игрок, всё ещё взбирающийся на статую, должен преуспеть в @Check[type:reflex|dc:22|basic] или получить @Damage[(2d6)[bludgeoning]] и упасть ничком в 30 футах от основания статуи, в направлении выхода из каменного круга. Кроме того, Сварог, если он всё ещё жив, делает спасбросок и получает @Damage[(6d6)[bludgeoning]] и сбит с ног и обездвижен упавшей статуей.
 * На счёте инициативы 10 следующего раунда, если какие-либо игроки остаются в пределах 30 футов от статуи, **стаи воронов** спускаются, чтобы унести их, при этом требуется минимум две стаи, чтобы нести игрока размера Средний, и минимум одна стая, чтобы нести игрока размера Маленький или меньше.
-* На счёте инициативы 0 следующего раунда все существа в пределах 30 футов от статуи должны сделать @Check[type:fortitude|dc:27|basic], получая @Damage[(16d6)[lightning]].
+* На счёте инициативы 0 следующего раунда все существа в пределах 30 футов от статуи должны сделать @Check[type:fortitude|dc:27|basic], получая @Damage[(16d6)[electricity]].
 
 Кроме того, если она всё ещё присутствует в своём следующем ходу, Людмила использует своё действие, чтобы использовать своё ***перемещение*** для побега, телепортируясь в рощу Гультиас на юге, прежде чем вернуться в Замок Равенлофт.
 
@@ -1228,13 +1336,15 @@ In response to being attacked by a creature it can see, the druid casts Oaken Re
 <p>Затенённая стена непроницаемого тумана возвышается над землёй здесь, простираясь, чтобы встретиться с небесами далеко вверху. Странные формы и силуэты, кажется, дрейфуют в её глубинах, и отдалённые голоса, кажется, шепчут на грани слышимости.</p>
 </div>
 
-Если игроки недавно победили друидов и остановили их ритуал, Страд может быть найден здесь, стоя на коленях перед стеной, в тридцати футах от Беуцефала. (Игрок, который осматривает Беуцефала, замечает, что седельные сумки **кошмара** кажутся пустыми.)
+Если игроки недавно победили друидов и остановили их ритуал, Страд может быть найден здесь, стоя на коленях перед стеной, в тридцати футах от Буцефала. (Игрок, который осматривает Буцефала, замечает, что седельные сумки **кошмара** кажутся пустыми.)
 
-Когда игроки приближаются, Страд встаёт и, кажется, что-то кладёт в свой плащ. (Страд не поделится, что это такое, с весельем упрекая игроков за то, что они просят подарки, которые не были даны.) Он тепло приветствует игроков и поздравляет их с победой над Лесным Народом.
+Когда игроки приближаются, Страд встаёт и, кажется, что-то кладёт в свой плащ. (Страд не поделится, что это такое, с весельем упрекая игроков за то, что они вопрошаете то, что не положено вам знать).
+
+Он тепло приветствует игроков и поздравляет их с победой над Лесным Народом.
 
 Если спросить, сожалеет ли он о поражении Людмилы, Страд улыбается и утверждает, что "напоминание о её месте будет полезно для неё" — хотя, отмечает он, она вряд ли забудет своё унижение, даже после зализывания ран.
 
-Страд благодарит игроков за игру в "его маленькую игру" и поздравляет их с выигрышем пари. Он приветствует их у Шепчущей Стены и делится тем, что предки Лесного Народа верили, что это труп или гробница древнего бога, чей последний выдох божественности произвёл этот туман.
+Страд благодарит игроков за то, что сыграли в "его маленькую игру" и поздравляет их с выигрышем пари. Он приветствует их у Шепчущей Стены и делится тем, что предки Лесного Народа верили, что это тело древнего бога, чей последний выдох божественности породил этот туман.
 
 Страд сообщает игрокам, что эти предки верили, что Стена предлагает видения самых глубоких желаний, если войти в неё как паломник. "Это могущественная вещь — знать себя и свои желания," — говорит он, добавляя мягко. "и всё же опасная, тоже."
 
@@ -1265,11 +1375,11 @@ In response to being attacked by a creature it can see, the druid casts Oaken Re
 
 Затем Страд представляет драгоценные камни игрокам, позволяя им выбрать, какие они возьмут. Он может поделиться только тем, что серый драгоценный камень приведёт своего носителя к объекту их желания, и что серебряный драгоценный камень перенесёт своего носителя в место, куда они хотят пойти. "Они, конечно, не самые могущественные артефакты," — отмечает Страд. "Стена — продукт _мёртвого_ бога, в конце концов."
 
-Существо может раздавить *серый драгоценный камень желания* действием, чтобы наложить _обнаружение объекта_. Существо может раздавить *серебряный драгоценный камень желания* бонусным действием, чтобы наложить *туманный шаг*.
+Существо может раздавить _серый драгоценный камень желания_ действием, чтобы наложить Locate. Существо может раздавить _серебряный драгоценный камень желания_ бонусным действием, чтобы наложить Translocate.
 
-Если игроки спрашивают о природе искры, которую держит Страд, он поднимает её к свету и задумчиво замечает: "Уголёк — драконий глаз, его называют в некоторых культурах. Искра силы, сделанная осязаемой." Если игроки спрашивают, как Страд получил её, он предлагает маленькую, напряжённую улыбку и отмечает только, что "Некоторые вещи должны быть заработаны."
+Если игроки спрашивают о природе искры, которую держит Страд, он поднимает её к свету и задумчиво замечает: "Уголёк — или же глаз дракона, как называют его в некоторых культурах. Искра силы, сделанная осязаемой." Если игроки спрашивают, как Страд получил её, он предлагает маленькую, натянутую улыбку и отмечает только, что "Некоторые вещи нужно заслужить."
 
-Когда все игроки либо возвращаются из Шепчущей Стены, либо отказываются это сделать, Страд представляет им их награду за победу над Лесным Народом: *сумеречный герб* (см. ниже). "Говорят, что бог, который умер здесь, хотя его имя потеряно для времени, оставил после себя несколько реликвий. Это одна из них."
+Когда все игроки либо возвращаются из Шепчущей Стены, либо отказываются это сделать, Страд представляет им их награду за победу над Лесным Народом: _сумеречный герб_ (см. ниже). "Говорят, что бог, который умер здесь, хотя его имя потеряно для времени, оставил после себя несколько реликвий. Это одна из них."
 
 > [!item]+ **Сумеречный герб** - 9
 > _Редкий Магический Божественный Инвестированный_
@@ -1288,7 +1398,7 @@ In response to being attacked by a creature it can see, the druid casts Oaken Re
 
 <span class="credit">"Сумеречный герб" от Caleb Cleveland. Поддержите его на <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-Когда все игроки либо приняли, либо отклонили свои подарки, Страд снова садится на Беуцефала, прощается с ними и отмечает, что с нетерпением ждёт встречи с ними на ужине. Он и Беуцефал затем исчезают в Эфирном плане.
+Когда все игроки либо приняли, либо отклонили дары, Страд снова садится на Буцефала, прощается с ними и отмечает, что с нетерпением ждёт встречи с ними на ужине. Он и Беуцефал затем исчезают в Эфирном плане.
 
 ## J6c. Дерево Гультиас
 У игроков не должно быть причин посещать рощу Дерева Гультиас в это время. Если они это сделают, эта область описана в <span class="citation">Y4. Дерево Гультиас (стр. 198)</span>. Однако замените последние два предложения описания области следующим текстом:
@@ -1353,14 +1463,14 @@ In response to being attacked by a creature it can see, the druid casts Oaken Re
 
 Давиан также сообщает игрокам, что Мюриэль, ключевой полевой оперативник Хранителей Пера, недавно подслушала тревожное пророчество, связанное со Страдом. Мюриэль может сообщить игрокам, что пророчество приняло форму чтения Таро, доставленного Мадам Евой Страду в день, когда игроки спасли Мюриэль от **высшей стриги**.
 
-Хотя Мюриэль была прогнана прежде, чем она могла услышать конец чтения, она может поделиться, что первая часть разворачивалась следующим образом:
+Хотя Мюриэль была прогнана прежде, чем она могла услышать конец чтения, она может поделиться, что первая часть разворачивалась следующим образом (в круглых скобках Харроу вариант)::
 
 <div class="description">
-<p>"Тёмный Лорд — хозяин теней, зверь в лабиринте, который рвёт свои цепи.</p>
-<p>"Шестёрка Звёзд, Эвокер — сила, которую ты жаждешь, сила, неукрощённая смертными руками, сырая и дикая с горящей яростью.</p>
-<p>"Артефакт — знак, который ты ищешь, ключ к силе. Сердце божества ждёт, но где?</p>
-<p>"Невинная. Я вижу деву с вороньими волосами и сумеречными глазами. Она — один путь к знаку.</p>
-<p>"Но есть и другой — Сломленный. Путь жертвы открывает другую дверь. Стена, которая шепчет, ждёт твоей дани."</p>
+<p>"Тёмный Лорд (Фонарь Демона) — повелитель теней, зверь в лабиринте, рвущий свои цепи."</p>
+<p>"Шестёрка Звёзд, Эвокатор (Циклон) — сила, которую ты жаждешь, неукротимая смертными руками, необузданная и дикая в пылающей ярости."</p>
+<p>"Артефакт (Кузня) — знак, который ты ищешь, ключ к силе. Сердце божественности ждёт, но где?"</p>
+<p>"Невинная (Сверчок). Я вижу деву с вороными волосами и сумеречными глазами. Она — один из путей к знаку."</p>
+<p>"Но есть и другой — Сломленный (Молчаливая Карга). Путь жертвы открывает другую дверь. Шепчущая стена ждёт твоей дани."</p>
 </div>
 
 ***Веха.*** Победа над друидами Холма Былого завершает сюжетную веху. Когда игроки возвращают украденный драгоценный камень Давиану Мартикову, наградите каждого игрока 500 опыта. Таким образом, они должны получить 7-й уровень.
