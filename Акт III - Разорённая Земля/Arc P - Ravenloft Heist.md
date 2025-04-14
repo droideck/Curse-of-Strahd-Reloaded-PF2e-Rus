@@ -8,7 +8,7 @@ Far above the rest of the castle, Strahd’s **guardian portrait** watches over 
 
 And in the shadows, Strahd’s chamberlain Rahadin sits and meditates, preparing himself for his sacrifice on the day of the Grand Conjunction . . . 
 # P1. Preparing for the Heist
-Upon returning to their chosen settlement at the conclusion of [[Arc O - Dinner with the Devil]], the players can make any plans and preparations they would like in advance of the heist. As they do, if the players don’t suggest it first, Ezmerelda and Ireena might make any or all of the following suggestions:
+Upon returning to their chosen settlement at the conclusion of [[Арка O - Ужин с Дьяволом]], the players can make any plans and preparations they would like in advance of the heist. As they do, if the players don’t suggest it first, Ezmerelda and Ireena might make any or all of the following suggestions:
 
 * The players can use the *Keeper’s whistle* they obtained at the conclusion of [[Арка J - Украденный самоцвет#J6b. Returning the Gem|Arc J - the Stolen Gem]] to request the assistance of the Keepers of the Feather in scouting out the grounds, distracting castle guards, and/or delivering messages to any NPC whose help the players might seek.
 * The players might ask Doru or Rudolph van Richten for a rough map of the castle to guide them. (See **Mapping the Castle** below for details.)
@@ -98,7 +98,7 @@ If asked to share Madam Eva’s “token," Stanimir removes a bead pouch from hi
 
 If the players are traveling from Barovia, Stanimir is glad to journey with them as far as the Ravenloft crossroads described in <span class="citation">I. Black Carriage (p. 37)</span> before parting ways.
 
-Whether the players are coming from Barovia or Vallaki, if the players reunited Varushka’s spirit with Katarina’s locket in [[Arc O - Dinner with the Devil]], Stanimir abruptly recalls before departing that Madam Eva asked him to give the players a gift if he came across them in the valley, as thanks for assisting a “dear friend" of hers. (Stanimir doesn’t know who this friend is.) Stanimir then gives the players a _clairvoyance stone_ before wishing them well on their journey.
+Whether the players are coming from Barovia or Vallaki, if the players reunited Varushka’s spirit with Katarina’s locket in [[Арка O - Ужин с Дьяволом]], Stanimir abruptly recalls before departing that Madam Eva asked him to give the players a gift if he came across them in the valley, as thanks for assisting a “dear friend" of hers. (Stanimir doesn’t know who this friend is.) Stanimir then gives the players a _clairvoyance stone_ before wishing them well on their journey.
 
 > [!item]+ **Clairvoyance Stone**
 > This smooth, polished, palm-sized stone is engraved with a carving of a circular, avian eye. While holding the stone to their eye, the stone’s holder can use their action to whisper a location permitted by the *clairvoyance* spell. The holder then gains the effects of the _clairvoyance_ spell.
@@ -164,7 +164,7 @@ The players might use any of the following methods to distract the **wights** pa
 * Any other reasonable method (e.g., waiting until both wights are facing away from the drawbridge)
 # P3. Castle Grounds
 > [!abstract]+ **Varushka’s Gratitude**
-> If the players reunited the spirit of Varushka with Katarina’s necklace in [[Arc O - Dinner with the Devil]], at a time of your choosing when the players are engaged in a combat encounter in Castle Ravenloft and at least two-thirds of them are bloodied, the spirit of Varushka appears to assist them in a show of gratitude. Varushka’s spirit, which uses the statistics of a **poltergeist** with 45 hit points, lingers for no more than 1 minute, and has the following additional properties:
+> If the players reunited the spirit of Varushka with Katarina’s necklace in [[Арка O - Ужин с Дьяволом]], at a time of your choosing when the players are engaged in a combat encounter in Castle Ravenloft and at least two-thirds of them are bloodied, the spirit of Varushka appears to assist them in a show of gratitude. Varushka’s spirit, which uses the statistics of a **poltergeist** with 45 hit points, lingers for no more than 1 minute, and has the following additional properties:
 >
 > * She isn’t invisible, and instead has the appearance of a **shadow** bearing the silhouette of a slender woman wearing a dress and apron. (Though she can’t speak with the players in this form, Varushka can communicate through simple nods and gestures.)
 > * She gains the following additional reaction: ***Poltergeist’s Shield.*** In response to Varushka or a creature within 5 feet of her being targeted with a melee attack, Varushka adds 2 to the target’s AC against the triggering attack.
@@ -644,7 +644,7 @@ The figure is Cyrus, as described in <span class="citation">K62. Servants’ Hal
 >
 > ***Relationships.*** Cyrus is the former patriarch of the Belview family and the butler of Castle Ravenloft.
 #### A Favor for Cyrus
-If Cyrus already encountered any players the [[Arc O - Dinner with the Devil]], he greets them with a wary familiarity and murmurs that “the Master will not be pleased if he finds uninvited guests mucking about, oh no." If he has not, he shrieks, falls to his knees, and pleads for the “nice, kind burglars to spare old Cyrus." 
+If Cyrus already encountered any players the [[Арка O - Ужин с Дьяволом]], he greets them with a wary familiarity and murmurs that “the Master will not be pleased if he finds uninvited guests mucking about, oh no." If he has not, he shrieks, falls to his knees, and pleads for the “nice, kind burglars to spare old Cyrus." 
 
 In either case, once Cyrus has confirmed that the players are no danger to him, he suspiciously asks to know their business in the castle, then immediately insists that they not tell him. “Plausible deniability; that’s what my grandmammy always told me," he grunts. “Tell me no truths, and I won’t tell no one no lies."
 
@@ -1200,7 +1200,7 @@ This area is largely as described in <span class="citation">K67. Hall of Bones (
 For the next 1 minute, an additional **skeleton** crawls from each non-destroyed bone mound at initiative count 0 of each round. Each bone mound has AC 15, 10 hit points, immunity to piercing, psychic, and poison damage, and vulnerability to bludgeoning damage.
 
 > [!abstract]+ **Storing the Skull**
-> Should the players use it to do so, the extradimensional space within the _chest of holding_ obtained in [[Arc O - Dinner with the Devil#O3c. The Black Carriage|Arc O - Dinner with the Devil]] is large enough to store Argynvost's skull.
+> Should the players use it to do so, the extradimensional space within the _chest of holding_ obtained in [[Арка O - Ужин с Дьяволом#O3c. The Black Carriage|Arc O - Dinner with the Devil]] is large enough to store Argynvost's skull.
 ### Guards’ Run
 <span class="citation"><em>This scene takes place in Chapter 4, Area K68.</em></span>
 
@@ -1535,7 +1535,7 @@ This area is largely as described in <span class="citation">K76. Torture Chamber
 > [!info]+ **Climbing the Balcony**
 > A successful DC 10 Strength (Athletics) check is required to climb the edge of the observation balcony.
 
-If the players failed to placate Volenta during [[Arc O - Dinner with the Devil#Volenta’s Toy|Arc O - Dinner with the Devil]], the corpse of Anton Konstantinovich has been turned into an additional **zombie** and is seated in the right-side throne of <span class="citation">K77. Observation Balcony (p. 82)</span>. If combat breaks out, or if any non-undead creatures approach within 5 feet of its throne, this **zombie** attacks and pursues the nearest living creatures within the area.
+If the players failed to placate Volenta during [[Арка O - Ужин с Дьяволом#Volenta’s Toy|Arc O - Dinner with the Devil]], the corpse of Anton Konstantinovich has been turned into an additional **zombie** and is seated in the right-side throne of <span class="citation">K77. Observation Balcony (p. 82)</span>. If combat breaks out, or if any non-undead creatures approach within 5 feet of its throne, this **zombie** attacks and pursues the nearest living creatures within the area.
 
 Otherwise, if the players successfully placated Volenta at dinner, Anton Konstaninovich is imprisoned within a rusted, metallic cage hanging above the southwest corner of the chamber. Though he can’t speak due to his missing tongue, Anton attempts to use gestures and grunts to warn the players of the zombies that dwell within the water, and is grateful to players who rescue him.
 
@@ -1585,7 +1585,7 @@ Otherwise, if the players successfully placated Volenta at dinner, Anton Konstan
 > * The right staircase leads to the king’s apartments, where Anton has heard a female prisoner is being kept.
 > * The central staircase leads to the catacombs and crypts. (Anton can share that bats and vampires dwell there.)
 ### Meeting Volenta
-If she is still alive and the players haven’t encountered her yet in the other areas of [[#P11. Dungeons]], Volenta Popofsky is seated on the left throne on <span class="citation">K77. Observation Balcony (p. 82)</span>, playing with a human skull held in her hand. (The skull belongs to Dezdrelda Konstaninova, Anton’s wife, who Volenta fed to the ghouls after her corpse was drained for blood in [[Arc O - Dinner with the Devil]].)
+If she is still alive and the players haven’t encountered her yet in the other areas of [[#P11. Dungeons]], Volenta Popofsky is seated on the left throne on <span class="citation">K77. Observation Balcony (p. 82)</span>, playing with a human skull held in her hand. (The skull belongs to Dezdrelda Konstaninova, Anton’s wife, who Volenta fed to the ghouls after her corpse was drained for blood in [[Арка O - Ужин с Дьяволом]].)
 
 Volenta greets the players with mild surprise and congratulates them on surviving the traps and foes elsewhere in the castle. If the players defeated her or otherwise foiled her plot in [[#Arc D - St. Andral’s Feast]], she informs them that she’s been relishing the opportunity for a rematch, and directs the **zombies** beneath the water to arise and attack. 
 
@@ -1743,7 +1743,7 @@ Players who investigate the exits from this room can observe the following point
 * A player who investigates <span class="citation">K79. Western Stair (p. 84)</span> (leading to <span class="citation">K72. Chamberlain’s Office (p. 79)</span>) observes a humanoid silhouette appearing to observe them from the far side of the landing. Once noticed, the silhouette quickly ducks out of sight. (The silhouette is a **shadow**. See [[#P11f. Western Stair]] for more information about the shadow if the players attempt to confront or communicate with it.)
 * A player who investigates <span class="citation">K80. Center Stair (p. 84)</span> (leading to <span class="citation">K81. Tunnel (p. 84)</span> and <span class="citation">K84. Catacombs (p. 85)</span>) observes only the thick, opaque fog, which limits visibility as described in <span class="citation">K81. Tunnel (p. 84)</span>.
 * A player who investigates <span class="citation">K83. Spiral Stair (p. 85)</span> (leading to <span class="citation">K37. Study (p. 66)</span>) observes a woman’s slipper lying discarded on one of the upper stairs, just before the spiral staircase curves out of sight. A DC 12 Intelligence (Investigation) check suggests that the slipper’s owner was traveling up the staircase, rather than down. (The slipper is Gertruda’s, and was left here by Strahd to lure the players toward her bedchamber.)
-* A player who investigates the door leading toward <span class="citation">K77. Observation Balcony (p. 82)</span> finds a pale, white mask hanging from the handle. Players who previously encountered Anton Konstantinovich in [[Arc O - Dinner with the Devil#Volenta’s Toy|Arc O - Dinner with the Devil]] recognize the mask as his.
+* A player who investigates the door leading toward <span class="citation">K77. Observation Balcony (p. 82)</span> finds a pale, white mask hanging from the handle. Players who previously encountered Anton Konstantinovich in [[Арка O - Ужин с Дьяволом#Volenta’s Toy|Arc O - Dinner with the Devil]] recognize the mask as his.
 
 > [!abstract]+ **Rahadin's Challenge**
 > This arc assumes the players visit the catacombs after completing all other major objectives (i.e., rescuing Gertruda, freeing Emil, and obtaining Argynvost's skull). When they do, Rahadin obstructs their departure from the catacombs after they visit St. Markovia's crypt, as described in [[#South Crypts, Third Row]].

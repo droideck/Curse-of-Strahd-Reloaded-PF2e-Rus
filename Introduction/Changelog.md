@@ -51,7 +51,7 @@
 # Version 2.0.8.6 (July 28, 2024)
 * Increased dungeon hall trapdoor recharge time to 24 hours in [[Arc P - Ravenloft Heist]]
 # Version 2.0.8.5 (July 25, 2024)
-* Clarified how often and how many times the clock chimes in [[Arc O - Dinner with the Devil]]
+* Clarified how often and how many times the clock chimes in [[Арка O - Ужин с Дьяволом]]
 * Replaced a reference to Ludmilla's ***vengeful ward*** with her ***shroud of shadows*** in [[Арка J - Украденный самоцвет]]
 # Version 2.0.8.4 (July 21, 2024)
 * Revised Ludmilla's second-phase claws, mist shards, dissipate, asphyxiate, poison mist, and ambush features in [[Arc P - Ravenloft Heist]]
@@ -88,22 +88,22 @@
 * Added additional information regarding Zuleika's ability to lift the Oath of the New Moon in [[Арка L - Волчье логово]]
 * Added additional information regarding a potential confrontation with Bianca at Lake Baratok in [[Арка L - Волчье логово]]
 * Noted that Argynvost's bones, other than his skull, were burned in [[Арка M - Поместье Дракона]]
-* Changed Anton to be Dezdrelda's husband, rather than her brother, in [[Arc O - Dinner with the Devil]]
-* Fixed an unsolvable sliding puzzle layout in [[Arc O - Dinner with the Devil]]
-* Added NPC profiles for Escher and Sasha Ivliskova in [[Arc O - Dinner with the Devil]]
-* Added new information regarding Strahd's involvement with Sasha and Gertruda's request for aid in [[Arc O - Dinner with the Devil]]
-* Added new information should players attempt to explore the castle after entering the guest suite in [[Arc O - Dinner with the Devil]]
-* Reworked the fourth floor of Varushka's nightmare in [[Arc O - Dinner with the Devil]]
-* Reduced Varushka's Challenge Rating to 8 in both phases in [[Arc O - Dinner with the Devil]]
+* Changed Anton to be Dezdrelda's husband, rather than her brother, in [[Арка O - Ужин с Дьяволом]]
+* Fixed an unsolvable sliding puzzle layout in [[Арка O - Ужин с Дьяволом]]
+* Added NPC profiles for Escher and Sasha Ivliskova in [[Арка O - Ужин с Дьяволом]]
+* Added new information regarding Strahd's involvement with Sasha and Gertruda's request for aid in [[Арка O - Ужин с Дьяволом]]
+* Added new information should players attempt to explore the castle after entering the guest suite in [[Арка O - Ужин с Дьяволом]]
+* Reworked the fourth floor of Varushka's nightmare in [[Арка O - Ужин с Дьяволом]]
+* Reduced Varushka's Challenge Rating to 8 in both phases in [[Арка O - Ужин с Дьяволом]]
 * Fixed assorted typos & inconsistencies 
 ## Hotfix 2.0.7.7 (Apr. 28, 2024)
 * Added new rebalancing details for the flesh mound in [[Арка A - Побег из Дома Смерти]]
 ## Hotfix 2.0.7.6 (Apr. 27, 2024)
-* Removed legacy text from the third level of Varushka's Nightmare in [[Arc O - Dinner with the Devil]]
+* Removed legacy text from the third level of Varushka's Nightmare in [[Арка O - Ужин с Дьяволом]]
 ## Hotfix 2.0.7.5 (Apr. 23, 2024)
-* Added the drawbridge closing at the end of [[Arc O - Dinner with the Devil]]
+* Added the drawbridge closing at the end of [[Арка O - Ужин с Дьяволом]]
 ## Hotfix 2.0.7.4 (Apr. 22, 2024)
-* Removed an error referring to three trapdoors instead of one in [[Arc O - Dinner with the Devil]]
+* Removed an error referring to three trapdoors instead of one in [[Арка O - Ужин с Дьяволом]]
 ## Hotfix 2.0.7.3 (Apr. 21, 2024)
 * Added a preliminary Strength saving throw to the Flesh Mound's **engulf** in [[Арка A - Побег из Дома Смерти]]
 * Changed the Flesh Mound's engulf to an action and added a new **rupture*** bonus action to the mound's first phase in [[Арка A - Побег из Дома Смерти]]
@@ -113,14 +113,14 @@
 * Added artwork of Vladimir Horngaard in [[Арка M - Поместье Дракона]]
 ## Hotfix 2.0.7.1 (Apr. 12, 2024)
 * Increased the XP earned for defeating Izek in [[Арка F - Желание Леди Вахтер]] and/or [[Арка G - Брат и сестра Стражни]]
-* Clarified Ismark the Great's statblock in [[Arc O - Dinner with the Devil]]
-* Clarified spell slot and other resource mechanics in the Nightmare in [[Arc O - Dinner with the Devil]]
+* Clarified Ismark the Great's statblock in [[Арка O - Ужин с Дьяволом]]
+* Clarified spell slot and other resource mechanics in the Nightmare in [[Арка O - Ужин с Дьяволом]]
 * Modified Zorya's breath weapon to deal full damage to ghosts in [[Арка M - Поместье Дракона]]
 * Expanded the triggers that cause a *silverthorn collar* to deal damage in [[Арка L - Волчье логово]]
 * Fixed assorted typos and inconsistencies
 # Version 2.0.7 (Apr. 12, 2024)
 **General Changes**
-* Added [[Arc O - Dinner with the Devil]]
+* Added [[Арка O - Ужин с Дьяволом]]
 * Fixed assorted typos & inconsistencies 
 * Removed [[Arc D - The Tome of Strahd]] and relocated the deprecated file to the Appendices
 * Removed references to [[Arc D - The Tome of Strahd]]
@@ -272,7 +272,7 @@
 # Hotfix 2.0.6.1 (Jan. 31, 2024)
 * Delayed Ezmerelda's request to investigate the werewolf den in [[Арка L - Волчье логово]] to one day after she first meets the players in [[Арка K - Падшее аббатство]]
 * Corrected the travel time from the Old Svalich Road to Argynvostholt in [[Арка M - Поместье Дракона]]
-* Pushed the date of the dinner with Strahd one day forward in [[Arc O - Dinner with the Devil]]
+* Pushed the date of the dinner with Strahd one day forward in [[Арка O - Ужин с Дьяволом]]
 * Fixed assorted typos
 # Version 2.0.6 (Jan. 31, 2024)
 * Added [[Арка L - Волчье логово]] and [[Арка M - Поместье Дракона]]
@@ -313,7 +313,7 @@
 • Added spell save DCs to the *twilight crest* in [[Арка J - Украденный самоцвет]]  
 • Gave Izek the ***indomitable*** feature (if Izek would be paralyzed or stunned, he is slowed instead.)  
 • Clarified that two-phase bosses retain conditions in their second forms but excess damage doesn't carry over  
-• Clarified the date(s) on which Rahadin delivers Strahd's dinner invitation in [[Arc O - Dinner with the Devil]]  
+• Clarified the date(s) on which Rahadin delivers Strahd's dinner invitation in [[Арка O - Ужин с Дьяволом]]  
 • Added art by artist [Caleb Cleveland](https://www.patreon.com/calebisdrawing/) for Ismark Kolyanovich, as well as the second-phase forms for Bella and Offalia
 # Hotfix 2.0.5.4 (Jan. 8, 2024)
 * Changed enemies with multiple reactions per round to lose only one reaction if they would lose their reactions and aren't incapacitated (e.g., if hit by *shocking grasp*)
@@ -334,7 +334,7 @@
 * Added new artwork by artist Caleb Cleveland  
 * Merged Act IV into Act III  
 * Fixed assorted typos
-* Added [[Арка J - Украденный самоцвет]], the first half of [[Арка K - Падшее аббатство]], and the beginning of [[Arc O - Dinner with the Devil]].
+* Added [[Арка J - Украденный самоцвет]], the first half of [[Арка K - Падшее аббатство]], and the beginning of [[Арка O - Ужин с Дьяволом]].
 
 **[[A DM's Guide to Curse of Strahd]]**
 * Clarified that monsters do not award XP  

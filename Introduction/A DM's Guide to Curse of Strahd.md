@@ -113,7 +113,7 @@ You can [[Using This Guide|click here]] to learn how to use and read this guide.
 [[Арка L - Волчье логово]]. The players stake out and infiltrate a den of werewolves.
 [[Arc M - The Dragon's Manor]]. The players investigate a haunted manor and unearth the message of the silver dragon Argynvost.
 [[Арка N - Истории Валлаки]]. Coming soon.
-[[Arc O - Dinner with the Devil]]. The players dine with Strahd and his court at Castle Ravenloft.
+[[Арка O - Ужин с Дьяволом]]. The players dine with Strahd and his court at Castle Ravenloft.
 [[Arc P - Ravenloft Heist]]. The players raid Castle Ravenloft while Strahd is away.
 [[Arc Q - A Shining Beacon]]. The players redeem the Abbot, defeat the werewolf Kiril Stoyanovich, and light the beacon of Argynvostholt.
 ## Act IV - Secrets of the Ancient
