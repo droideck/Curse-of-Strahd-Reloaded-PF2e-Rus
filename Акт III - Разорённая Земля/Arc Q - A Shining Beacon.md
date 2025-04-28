@@ -1,10 +1,10 @@
 _An adventure for five 7th-level characters._
 
-In this arc, upon returning from Castle Ravenloft in [[Arc P - Ravenloft Heist]], the players learn that the Abbot of the Abbey of St. Markovia plans to seize Baroness Anna Krezkova’s heart before nightfall. Meanwhile, the mutated werewolf Kiril Stoyanovich hunts the players down, even as Commander Vladimir Horngaard gathers his revenant knights to execute a warrant for their deaths. Can the players redeem the Abbot, overthrow Kiril, and light the beacon of Argynvostholt—or will their efforts to return light to the Barovian valley come to a gruesome and bloody end?
+In this arc, upon returning from Castle Ravenloft in [[Арка P - Налёт на Равенлофт]], the players learn that the Abbot of the Abbey of St. Markovia plans to seize Baroness Anna Krezkova’s heart before nightfall. Meanwhile, the mutated werewolf Kiril Stoyanovich hunts the players down, even as Commander Vladimir Horngaard gathers his revenant knights to execute a warrant for their deaths. Can the players redeem the Abbot, overthrow Kiril, and light the beacon of Argynvostholt—or will their efforts to return light to the Barovian valley come to a gruesome and bloody end?
 # Q1. Flight From Ravenloft
-Depending on their means of escape, players who flee from Castle Ravenloft following [[Arc P - Ravenloft Heist]] can attempt to rest for the night in a number of different locations.
+Depending on their means of escape, players who flee from Castle Ravenloft following [[Арка P - Налёт на Равенлофт]] can attempt to rest for the night in a number of different locations.
 ## Q1a. The Teleportation Brazier
-Players who escape Castle Ravenloft via the teleportation brazier in <span class="citation">K78. Brazier Room (p. 82)</span> can teleport to the locations described in [[Arc P - Ravenloft Heist#P11e. Brazier Room|Arc P - Ravenloft Heist]]. From there, they can find shelter as follows:
+Players who escape Castle Ravenloft via the teleportation brazier in <span class="citation">K78. Brazier Room (p. 82)</span> can teleport to the locations described in [[Арка P - Налёт на Равенлофт#P11e. Brazier Room|Arc P - Ravenloft Heist]]. From there, they can find shelter as follows:
 
 ***Village of Barovia.*** If the players teleport to the graveyard in the village of Barovia, Ismark Kolyanovich is happy to let them rest in the guest rooms of the burgomaster's mansion. Though surprised to learn that Ireena has joined the players in their quest to defeat Strahd, he is comforted by the fact that Ireena has grown in strength, confidence, and will through her time at the players' side.
 
@@ -19,7 +19,7 @@ Players who escape Castle Ravenloft via the teleportation brazier in <span class
 
 ***Ruins of Berez.*** If the players teleport to Marina's Monument in Berez, they can take shelter in <span class="citation">U2. Ulrich Mansion (p. 162)</span> or <span class="citation">U4. Churchyard (p. 164)</span>, their arrival hidden by the thick fog that clings to the swamp.
 
-If the players attempt to take shelter in <span class="citation">U1. Abandoned Cottages (p. 162)</span>, they are attacked by two **Barovian hexwitches** and two **Barovian bogwitches**, who are as described in [[Arc P - Ravenloft Heist#P9c. Cauldron Room|Arc P - Ravenloft Heist]]. The tumult attracts the attention of the seven **scarecrows** standing guard in the marsh, which arrive three rounds after combat begins.
+If the players attempt to take shelter in <span class="citation">U1. Abandoned Cottages (p. 162)</span>, they are attacked by two **Barovian hexwitches** and two **Barovian bogwitches**, who are as described in [[Арка P - Налёт на Равенлофт#P9c. Cauldron Room|Arc P - Ravenloft Heist]]. The tumult attracts the attention of the seven **scarecrows** standing guard in the marsh, which arrive three rounds after combat begins.
 
 The players can also travel from Berez to the town of Vallaki, Van Richten's Tower, or the village of Krezk:
 
@@ -682,11 +682,11 @@ The revenant, bound to obey Vladimir’s orders, can’t be convinced to remain 
 > [!lore]+ **Vladimir’s Command**
 > When the players retrieve Argynvost’s skull from Castle Ravenloft, Vladimir Horngaard learns of it through his **phantom warrior** spies, who have heard of the players’ exploits through contacts in the Ethereal Plane. After interrogating Sir Godfrey Gwilym and learning of the players’ intent to place the skull in Argynvost’s mausoleum, Vladimir relocates to <span class="citation">Q15. Cemetery (p. 134)</span>, where he waits for the players to return to Argynvostholt.
 ## Q6a. Return to the Foyer
-When the players first return to Argynvostholt after retrieving Argynvost’s skull in [[Arc P - Ravenloft Heist]], if they approach Argynvostholt’s cemetery by passing through <span class="citation">Q3. Dragon’s Foyer (p. 132)</span>, they encounter a number of **revenants** depending on the time of their return:
+When the players first return to Argynvostholt after retrieving Argynvost’s skull in [[Арка P - Налёт на Равенлофт]], if they approach Argynvostholt’s cemetery by passing through <span class="citation">Q3. Dragon’s Foyer (p. 132)</span>, they encounter a number of **revenants** depending on the time of their return:
 
-* If the players return to Argynvostholt before noon on the day they escape Castle Ravenloft in [[Arc P - Ravenloft Heist]], no revenants are present in the foyer.
-* If the players return to Argynvostholt before dusk on the day they escape Castle Ravenloft in [[Arc P - Ravenloft Heist]], one revenant is present in the foyer.
-* If the players return to Argynvostholt before midnight on the day they escape Castle Ravenloft in [[Arc P - Ravenloft Heist]], two revenants are present in the foyer.
+* If the players return to Argynvostholt before noon on the day they escape Castle Ravenloft in [[Арка P - Налёт на Равенлофт]], no revenants are present in the foyer.
+* If the players return to Argynvostholt before dusk on the day they escape Castle Ravenloft in [[Арка P - Налёт на Равенлофт]], one revenant is present in the foyer.
+* If the players return to Argynvostholt before midnight on the day they escape Castle Ravenloft in [[Арка P - Налёт на Равенлофт]], two revenants are present in the foyer.
 * Otherwise, three revenants are present in the foyer.
 
 Read the following, modifying the text as needed depending on the number of revenants present:
@@ -706,7 +706,7 @@ A player can attempt a DC 15 Charisma (Persuasion) check to convince the revenan
 
 When the players defeat the last revenant, it warns them that Commander Horngaard is waiting for them in the cemetery. “May the Morninglord protect you," it rasps before collapsing.
 ## Q6b. Return to the Cemetery
-When the players first return to <span class="citation">Q15. Cemetery (p. 134)</span> after retrieving Argynvost’s skull in [[Arc P - Ravenloft Heist]], they find the cemetery apparently empty, with the stone door to <span class="citation">Q16. Dragon’s Mausoleum (p. 134)</span> hanging open. 
+When the players first return to <span class="citation">Q15. Cemetery (p. 134)</span> after retrieving Argynvost’s skull in [[Арка P - Налёт на Равенлофт]], they find the cemetery apparently empty, with the stone door to <span class="citation">Q16. Dragon’s Mausoleum (p. 134)</span> hanging open. 
 
 > [!abstract]+ **Teleporting Players**
 > When the players first return to the cemetery, Vladimir is waiting for them inside of Argynvost’s mausoleum. If a player teleports into the mausoleum without first entering the cemetery, Vladimir attacks them on sight, throwing them out of the mausoleum using his ***greatsword*** attack if possible.
